@@ -15,13 +15,18 @@
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "Blog",
+                "url": "/blog"
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "Free Resources",
+                "altText": "",
+                "url": "https://create.netlify.com/studio/674fbfe322100b00c32cbe07#/free-web-development-resources-tools/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
