@@ -233,7 +233,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
+    subtitle: ''
     colors: colors-a
     text: |
       <dennis@3d-it.net>
