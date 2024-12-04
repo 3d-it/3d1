@@ -236,7 +236,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-a
     text: |
-      [dennis@3d-it.net](mailto:thisismyemail.@myemail.me)
+      <dennis@3d-it.net>
     title: Contact
   - type: DividerSection
     styles:
