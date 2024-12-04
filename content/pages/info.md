@@ -235,7 +235,7 @@ sections:
   - type: TextSection
     variant: variant-a
     subtitle: 'Contact:'
-    colors: colors-f
+    colors: colors-a
     text: |
       [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
