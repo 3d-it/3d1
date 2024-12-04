@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: 'Mastering CSS: A Step-by-Step Guide to Professional Web Design'
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
