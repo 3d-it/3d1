@@ -262,6 +262,17 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/B0DNXZ7PZG/ref=sr_1_13?crid=2TFE7Y3SXT96A&dib=eyJ2IjoiMSJ9.bbUSFb5R-uWncS8sFlqgSW2POXYwhpTVC8ni8IEVRmb99d0o3Lv1cLHd9Jf3bHauIa2HtaXex1aoYLa9oj8pnpTI09-0NT1UXdVqW6qbp4d81pKpPylhaWhfbN2lQG3rTc7Whe48vef-nnxIugsrRUHVT-fS3BWzRVaens3H96eOgCQian3qusx2FIhldnEj62jyUOghswNS1f7aXk-BXtgElksnOVtJeClxj4BozcA.6CHvOG8hzvxFRNiCZObrdXjyWkvnf348JDiJZCg2Eak&dib_tag=se&keywords=python+dennis&qid=1733289248&sprefix=pytho+dennis%2Caps%2C1800&sr=8-13
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-f
     columns: 1
