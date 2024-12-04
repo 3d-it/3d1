@@ -21,8 +21,8 @@
             {
                 "type": "Link",
                 "label": "Free Resources",
-                "altText": "",
-                "url": "https://create.netlify.com/studio/674fbfe322100b00c32cbe07#/free-web-development-resources-tools/",
+                "altText": "A curated collection of essential free web development resources and tools, including code editors, design software, and performance optimization tools, designed to enhance the workflow of developers.",
+                "url": "https://fvefveweevewfe.netlify.app/free-web-development-resources-tools/",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
