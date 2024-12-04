@@ -138,6 +138,8 @@ sections:
         styles:
           self:
             textAlign: left
+        text: |
+          [SCROLLGEOMETRY.COM](https://scrollgeometry.com/)
       - type: FeaturedItem
         actions:
           - type: Link
