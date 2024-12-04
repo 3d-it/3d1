@@ -274,7 +274,9 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: >-
+          Mastering WordPress for Beginners: Build a Unique, Professional
+          Website Step-by-Step
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
