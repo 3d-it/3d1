@@ -221,33 +221,6 @@ sections:
             elementId: ''
       - type: FeaturedItem
         title: >-
-          Build Your Ultimate Gaming PC: A Easy Beginner’s Guide to Crafting the
-          Perfect Rig
-        subtitle: ''
-        text: "*   How to Select the Right Parts for Your Budget: Learn about CPUs, GPUs, RAM, storage, and power supplies to build the perfect setup for your gaming needs.\n\n*   Step-by-Step Assembly Instructions: Easy-to-follow steps and detailed explanations guide you from installing the CPU to powering on your new rig.\n\n*   Tips for Optimizing Performance: Understand overclocking basics, cooling options, and advanced tweaks to get the most out of your build.\n\n*   Personalize Your PC: Explore creative ways to customize with RGB lighting, case mods, and personalized software settings.\n\n*   Troubleshooting Made Simple: Quick tips for solving common PC issues, so you can game without interruptions.\n\nWith easy instructions, helpful illustrations, and expert advice,\_Build Your Ultimate Gaming PC\_will empower you to create a powerful, custom rig—no experience required. Dive in and start building today!\n\n\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: /images/buildGamingPCCover (1).jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: ''
-            url: >-
-              https://www.amazon.com/Build-Your-Ultimate-Gaming-Beginners/dp/B0DL4KZLQ6/ref=sr_1_1?crid=2SBOCMMDBWLA6&dib=eyJ2IjoiMSJ9.Uiwjbm_CSB7__KXntTWTeTNMIkYct2sP3OitE8H24YjGjHj071QN20LucGBJIEps.qgGKFh6h_GwPZHnFulv6l_vNMZxZcpHF8X4zrm8u0Wg&dib_tag=se&keywords=dennis+duke+build&qid=1730346319&s=books&sprefix=dennis+duke+build%2Cstripbooks%2C843&sr=1-1
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: >-
           Code Smart with JavaScript: Build Fast, Flexible, and Scalable
           Applications
         subtitle: ''
@@ -273,6 +246,33 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
+      - type: FeaturedItem
+        title: >-
+          Build Your Ultimate Gaming PC: A Easy Beginner’s Guide to Crafting the
+          Perfect Rig
+        subtitle: ''
+        text: "*   How to Select the Right Parts for Your Budget: Learn about CPUs, GPUs, RAM, storage, and power supplies to build the perfect setup for your gaming needs.\n\n*   Step-by-Step Assembly Instructions: Easy-to-follow steps and detailed explanations guide you from installing the CPU to powering on your new rig.\n\n*   Tips for Optimizing Performance: Understand overclocking basics, cooling options, and advanced tweaks to get the most out of your build.\n\n*   Personalize Your PC: Explore creative ways to customize with RGB lighting, case mods, and personalized software settings.\n\n*   Troubleshooting Made Simple: Quick tips for solving common PC issues, so you can game without interruptions.\n\nWith easy instructions, helpful illustrations, and expert advice,\_Build Your Ultimate Gaming PC\_will empower you to create a powerful, custom rig—no experience required. Dive in and start building today!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/buildGamingPCCover (1).jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Build-Your-Ultimate-Gaming-Beginners/dp/B0DL4KZLQ6/ref=sr_1_1?crid=2SBOCMMDBWLA6&dib=eyJ2IjoiMSJ9.Uiwjbm_CSB7__KXntTWTeTNMIkYct2sP3OitE8H24YjGjHj071QN20LucGBJIEps.qgGKFh6h_GwPZHnFulv6l_vNMZxZcpHF8X4zrm8u0Wg&dib_tag=se&keywords=dennis+duke+build&qid=1730346319&s=books&sprefix=dennis+duke+build%2Cstripbooks%2C843&sr=1-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
     actions: []
     colors: colors-f
     columns: 1
