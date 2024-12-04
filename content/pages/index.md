@@ -175,8 +175,7 @@ sections:
         text: "A Step-by-Step Handbook for Building and Launching Your Online Store\n\n*An Easy Guide to Creating a Shopify Website*\_is your go-to resource for building, launching, and growing a successful online store. Perfect for beginners and small business owners, this step-by-step guide covers everything from setup and customization to marketing and sales strategies. Packed with practical tips and clear instructions, this book empowers you to create a Shopify store that attracts, engages, and converts customers. Start your e-commerce journey with confidence and bring your business to life online!\n\n\n\n"
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/shopifyBookCover (1).jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
