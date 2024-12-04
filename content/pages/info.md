@@ -125,7 +125,7 @@ sections:
         styles:
           self:
             textAlign: left
-        title: DESERTGROWNORGANICS.COM
+        title: ''
         text: |+
           [DESERTGROWNORGANICS.COM](https://desertgrownorganics.com/)
 
