@@ -224,10 +224,7 @@ sections:
           Code Smart with JavaScript: Build Fast, Flexible, and Scalable
           Applications
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "If you’re new to coding and want to learn JavaScript,\_\"Code Smart with JavaScript: Build Fast, Flexible, and Scalable Applications\"\_is the perfect starting point. This beginner-friendly guide simplifies JavaScript concepts and takes you step-by-step through the essentials, helping you build confidence and practical skills as you go.\n\nWhat You’ll Learn:\n\n*   JavaScript Basics: Understand variables, functions, and control structures in an easy-to-follow format.\n\n*   Interactive Web Development: Learn how to add dynamic elements to web pages with DOM manipulation.\n\n*   Asynchronous JavaScript: Discover how to handle data and make your apps more responsive using promises and async/await.\n\n*   Reusable Code: Start organizing your programs with simple object-oriented techniques.\n\n*   Debugging and Testing: Learn how to fix errors and ensure your code runs smoothly.\n\n*   Building a Real Project: Create your first complete application—a To-Do List—to apply everything you’ve learned.\n\nWhy This Book Is Perfect for Beginners:\n\n*   No prior coding experience needed—concepts are explained in plain language.\n\n*   Hands-on examples and exercises reinforce your learning.\n\n*   Includes practical tips to avoid common beginner mistakes.\n\n*   Real-world projects to help you build confidence and see the results of your code.\n\nWhat You’ll Achieve:\n\n*   Write your first lines of JavaScript with confidence.\n\n*   Understand how JavaScript powers interactive websites.\n\n*   Build a solid foundation to take your coding skills to the next level.\n\nTake your first step into the world of programming with JavaScript!\_Whether you’re a complete beginner or just starting out with web development, this book will guide you every step of the way.\n\nStart building with JavaScript today!\n\n\n\n"
         featuredImage:
           type: ImageBlock
           url: /images/jsBookCover.jpg
