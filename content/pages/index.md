@@ -168,6 +168,31 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
+        title: 'Mastering CSS: A Step-by-Step Guide to Professional Web Design'
+        subtitle: ''
+        text: "\"Mastering CSS: A Step-by-Step Guide to Professional Web Design\"\n\nTake your web design skills to the next level with\_Mastering CSS, the ultimate guide to creating stunning, responsive, and professional websites. Designed for both beginners and seasoned developers, this book covers everything you need to know about CSS—from foundational concepts to advanced techniques that set your designs apart.\n\nWhat You’ll Learn:\n\n*   Build Stunning Designs:\_Master CSS fundamentals to create visually captivating and professional web pages.\n\n*   Responsive Layouts:\_Learn how to design websites that adapt beautifully to any device, from desktops to smartphones.\n\n*   Advanced Techniques:\_Explore animations, transitions, CSS Grid, Flexbox, and more to enhance functionality and aesthetics.\n\n*   Dynamic Styling:\_Use CSS variables and best practices to write clean, scalable, and maintainable code.\n\n*   Hands-On Projects:\_Practice your skills with real-world examples and exercises, including a complete portfolio project.\n\nWhy This Book?\n\n*   Step-by-step tutorials make learning CSS approachable for all skill levels.\n\n*   Includes tips, tricks, and best practices used by professional developers.\n\n*   Packed with practical exercises and a capstone project to showcase your skills.\n\nWhether you’re just starting or refining your expertise,\_Mastering CSS\_is your ultimate resource for creating modern, professional, and responsive web designs. Get started today and build the websites you’ve always envisioned!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/cssCover.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Mastering-CSS-Step-Step-Professional/dp/B0DP37QNNQ/ref=sr_1_1?crid=Y16HVW3CY4JA&dib=eyJ2IjoiMSJ9.XY3LoaPppRXCne9mmJnCPHAG3vBcAe3e8DYpCtNO6Qztc2I7YZ-lYRbWcJC-PB_oOivhVLr1Ko2BjKsOYR0W1J5r4RVj97YR52KX26Cp-gj9CpOV2kC4JwlPA1ZARLSR.V3S_DgotQNvSozd8ytUoeTpmTh0ioVxWW0CwVel3G-o&dib_tag=se&keywords=css+dennis&qid=1733288587&sprefix=css+dennis%2Caps%2C1699&sr=8-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         title: >-
           Python Crash Course: A Hands-On, Project-Based Introduction to
           Programming with Visual Studio
@@ -212,31 +237,6 @@ sections:
             altText: ''
             url: >-
               https://www.amazon.com/Build-Your-Ultimate-Gaming-Beginners/dp/B0DL4KZLQ6/ref=sr_1_1?crid=2SBOCMMDBWLA6&dib=eyJ2IjoiMSJ9.Uiwjbm_CSB7__KXntTWTeTNMIkYct2sP3OitE8H24YjGjHj071QN20LucGBJIEps.qgGKFh6h_GwPZHnFulv6l_vNMZxZcpHF8X4zrm8u0Wg&dib_tag=se&keywords=dennis+duke+build&qid=1730346319&s=books&sprefix=dennis+duke+build%2Cstripbooks%2C843&sr=1-1
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: 'Mastering CSS: A Step-by-Step Guide to Professional Web Design'
-        subtitle: ''
-        text: "\"Mastering CSS: A Step-by-Step Guide to Professional Web Design\"\n\nTake your web design skills to the next level with\_Mastering CSS, the ultimate guide to creating stunning, responsive, and professional websites. Designed for both beginners and seasoned developers, this book covers everything you need to know about CSS—from foundational concepts to advanced techniques that set your designs apart.\n\nWhat You’ll Learn:\n\n*   Build Stunning Designs:\_Master CSS fundamentals to create visually captivating and professional web pages.\n\n*   Responsive Layouts:\_Learn how to design websites that adapt beautifully to any device, from desktops to smartphones.\n\n*   Advanced Techniques:\_Explore animations, transitions, CSS Grid, Flexbox, and more to enhance functionality and aesthetics.\n\n*   Dynamic Styling:\_Use CSS variables and best practices to write clean, scalable, and maintainable code.\n\n*   Hands-On Projects:\_Practice your skills with real-world examples and exercises, including a complete portfolio project.\n\nWhy This Book?\n\n*   Step-by-step tutorials make learning CSS approachable for all skill levels.\n\n*   Includes tips, tricks, and best practices used by professional developers.\n\n*   Packed with practical exercises and a capstone project to showcase your skills.\n\nWhether you’re just starting or refining your expertise,\_Mastering CSS\_is your ultimate resource for creating modern, professional, and responsive web designs. Get started today and build the websites you’ve always envisioned!\n\n\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: /images/cssCover.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: ''
-            url: >-
-              https://www.amazon.com/Mastering-CSS-Step-Step-Professional/dp/B0DP37QNNQ/ref=sr_1_1?crid=Y16HVW3CY4JA&dib=eyJ2IjoiMSJ9.XY3LoaPppRXCne9mmJnCPHAG3vBcAe3e8DYpCtNO6Qztc2I7YZ-lYRbWcJC-PB_oOivhVLr1Ko2BjKsOYR0W1J5r4RVj97YR52KX26Cp-gj9CpOV2kC4JwlPA1ZARLSR.V3S_DgotQNvSozd8ytUoeTpmTh0ioVxWW0CwVel3G-o&dib_tag=se&keywords=css+dennis&qid=1733288587&sprefix=css+dennis%2Caps%2C1699&sr=8-1
             showIcon: true
             icon: arrowRight
             iconPosition: right
