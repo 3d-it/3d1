@@ -143,6 +143,31 @@ sections:
     title: Books Published
     items:
       - type: FeaturedItem
+        title: An Easy Guide to Creating a Shopify Website
+        subtitle: ''
+        text: "A Step-by-Step Handbook for Building and Launching Your Online Store\n\n*An Easy Guide to Creating a Shopify Website*\_is your go-to resource for building, launching, and growing a successful online store. Perfect for beginners and small business owners, this step-by-step guide covers everything from setup and customization to marketing and sales strategies. Packed with practical tips and clear instructions, this book empowers you to create a Shopify store that attracts, engages, and converts customers. Start your e-commerce journey with confidence and bring your business to life online!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/shopifyBookCover (1).jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/dp/B0DM9DFXGN/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.ctxUmoO0HVBM0gCdiwvneg.ZPtzQwrJQ_XA0ViRq__MuSRNo59i6FQuY9egE3qEZIU&qid=1731022129&sr=8-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
         title: >-
           Build Your Ultimate Gaming PC: A Easy Beginner’s Guide to Crafting the
           Perfect Rig
@@ -160,31 +185,6 @@ sections:
             altText: ''
             url: >-
               https://www.amazon.com/Build-Your-Ultimate-Gaming-Beginners/dp/B0DL4KZLQ6/ref=sr_1_1?crid=2SBOCMMDBWLA6&dib=eyJ2IjoiMSJ9.Uiwjbm_CSB7__KXntTWTeTNMIkYct2sP3OitE8H24YjGjHj071QN20LucGBJIEps.qgGKFh6h_GwPZHnFulv6l_vNMZxZcpHF8X4zrm8u0Wg&dib_tag=se&keywords=dennis+duke+build&qid=1730346319&s=books&sprefix=dennis+duke+build%2Cstripbooks%2C843&sr=1-1
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        title: An Easy Guide to Creating a Shopify Website
-        subtitle: ''
-        text: "A Step-by-Step Handbook for Building and Launching Your Online Store\n\n*An Easy Guide to Creating a Shopify Website*\_is your go-to resource for building, launching, and growing a successful online store. Perfect for beginners and small business owners, this step-by-step guide covers everything from setup and customization to marketing and sales strategies. Packed with practical tips and clear instructions, this book empowers you to create a Shopify store that attracts, engages, and converts customers. Start your e-commerce journey with confidence and bring your business to life online!\n\n\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: /images/shopifyBookCover (1).jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: ''
-            url: >-
-              https://www.amazon.com/dp/B0DM9DFXGN/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.ctxUmoO0HVBM0gCdiwvneg.ZPtzQwrJQ_XA0ViRq__MuSRNo59i6FQuY9egE3qEZIU&qid=1731022129&sr=8-1
             showIcon: true
             icon: arrowRight
             iconPosition: right
