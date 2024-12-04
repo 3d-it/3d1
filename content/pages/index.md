@@ -299,7 +299,9 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Item Title
+        title: >-
+          Dropshipping Made Easy: A Step-by-Step Guide to Building Your Online
+          Business
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
