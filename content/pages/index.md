@@ -46,7 +46,7 @@ sections:
     subtitle: Certifications
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/asDegree.png
         altText: Image one
         caption: Image one caption
         elementId: ''
