@@ -247,7 +247,9 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Item Title
+        title: >-
+          Python Crash Course: A Hands-On, Project-Based Introduction to
+          Programming with Visual Studio
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
