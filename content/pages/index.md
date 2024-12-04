@@ -291,7 +291,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: Buy on Amazon
             altText: ''
             url: >-
               https://www.amazon.com/Mastering-WordPress-Beginners-Step-Step/dp/B0DML87CVP/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.1-78oA715r_utuZclgPb75S8oemuLtfj9DT5T2oH_6hKV-txf3Wxq6i1BWkHexAezX8tTM2oawaAn9az5abgjFyod7qqLqB2wg12RjSEOK8SOv1gppvwIFKFjMq54DWTSE-bkAOmnxMyFy8jcEcR5A.0Zkp-6sOTrEIft5x_qfijJr9h3fLTxQBBbPUiFd2PuM&qid=1733289578&sr=8-1
