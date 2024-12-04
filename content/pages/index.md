@@ -143,7 +143,9 @@ sections:
     title: Books Published
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: >-
+          Build Your Ultimate Gaming PC: A Easy Beginner’s Guide to Crafting the
+          Perfect Rig
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
