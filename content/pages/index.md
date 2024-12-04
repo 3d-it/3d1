@@ -307,7 +307,10 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/dropCover.jpg
-          altText: Item image
+          altText: >-
+            Cover of 'Dropshipping Made Easy: A Step-by-Step Guide to Building
+            Your Online Business' by Dennis Duke, showcasing essential
+            strategies for starting a successful online dropshipping business.
           caption: Caption of the image
           elementId: ''
         elementId: ''
