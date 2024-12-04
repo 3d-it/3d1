@@ -10,7 +10,7 @@ excerpt: >-
   professional website in minutes.
 featuredImage:
   type: ImageBlock
-  url: /images/netlify.png
+  url: /images/netlifyLogo2.png
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
