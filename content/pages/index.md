@@ -43,7 +43,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Education
-    subtitle: This is the subtitle
+    subtitle: Certifications
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
