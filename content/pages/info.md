@@ -126,6 +126,9 @@ sections:
           self:
             textAlign: left
         title: DESERTGROWNORGANICS.COM
+        text: |+
+          [DESERTGROWNORGANICS.COM](https://desertgrownorganics.com/)
+
       - type: FeaturedItem
         actions:
           - type: Link
