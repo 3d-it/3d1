@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: 'Mastering CSS: A Step-by-Step Guide to Professional Web Design'
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -108,9 +108,7 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
+      - content/pages/blog/create-free-website-netlify.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
@@ -168,6 +166,85 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
+        title: 'Mastering CSS: A Step-by-Step Guide to Professional Web Design'
+        subtitle: ''
+        text: "\"Mastering CSS: A Step-by-Step Guide to Professional Web Design\"\n\nTake your web design skills to the next level with\_Mastering CSS, the ultimate guide to creating stunning, responsive, and professional websites. Designed for both beginners and seasoned developers, this book covers everything you need to know about CSS—from foundational concepts to advanced techniques that set your designs apart.\n\nWhat You’ll Learn:\n\n*   Build Stunning Designs:\_Master CSS fundamentals to create visually captivating and professional web pages.\n\n*   Responsive Layouts:\_Learn how to design websites that adapt beautifully to any device, from desktops to smartphones.\n\n*   Advanced Techniques:\_Explore animations, transitions, CSS Grid, Flexbox, and more to enhance functionality and aesthetics.\n\n*   Dynamic Styling:\_Use CSS variables and best practices to write clean, scalable, and maintainable code.\n\n*   Hands-On Projects:\_Practice your skills with real-world examples and exercises, including a complete portfolio project.\n\nWhy This Book?\n\n*   Step-by-step tutorials make learning CSS approachable for all skill levels.\n\n*   Includes tips, tricks, and best practices used by professional developers.\n\n*   Packed with practical exercises and a capstone project to showcase your skills.\n\nWhether you’re just starting or refining your expertise,\_Mastering CSS\_is your ultimate resource for creating modern, professional, and responsive web designs. Get started today and build the websites you’ve always envisioned!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/cssCover.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Mastering-CSS-Step-Step-Professional/dp/B0DP37QNNQ/ref=sr_1_1?crid=Y16HVW3CY4JA&dib=eyJ2IjoiMSJ9.XY3LoaPppRXCne9mmJnCPHAG3vBcAe3e8DYpCtNO6Qztc2I7YZ-lYRbWcJC-PB_oOivhVLr1Ko2BjKsOYR0W1J5r4RVj97YR52KX26Cp-gj9CpOV2kC4JwlPA1ZARLSR.V3S_DgotQNvSozd8ytUoeTpmTh0ioVxWW0CwVel3G-o&dib_tag=se&keywords=css+dennis&qid=1733288587&sprefix=css+dennis%2Caps%2C1699&sr=8-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: >-
+          Code Smart with JavaScript: Build Fast, Flexible, and Scalable
+          Applications
+        subtitle: ''
+        text: "If you’re new to coding and want to learn JavaScript,\_\"Code Smart with JavaScript: Build Fast, Flexible, and Scalable Applications\"\_is the perfect starting point. This beginner-friendly guide simplifies JavaScript concepts and takes you step-by-step through the essentials, helping you build confidence and practical skills as you go.\n\nWhat You’ll Learn:\n\n*   JavaScript Basics: Understand variables, functions, and control structures in an easy-to-follow format.\n\n*   Interactive Web Development: Learn how to add dynamic elements to web pages with DOM manipulation.\n\n*   Asynchronous JavaScript: Discover how to handle data and make your apps more responsive using promises and async/await.\n\n*   Reusable Code: Start organizing your programs with simple object-oriented techniques.\n\n*   Debugging and Testing: Learn how to fix errors and ensure your code runs smoothly.\n\n*   Building a Real Project: Create your first complete application—a To-Do List—to apply everything you’ve learned.\n\nWhy This Book Is Perfect for Beginners:\n\n*   No prior coding experience needed—concepts are explained in plain language.\n\n*   Hands-on examples and exercises reinforce your learning.\n\n*   Includes practical tips to avoid common beginner mistakes.\n\n*   Real-world projects to help you build confidence and see the results of your code.\n\nWhat You’ll Achieve:\n\n*   Write your first lines of JavaScript with confidence.\n\n*   Understand how JavaScript powers interactive websites.\n\n*   Build a solid foundation to take your coding skills to the next level.\n\nTake your first step into the world of programming with JavaScript!\_Whether you’re a complete beginner or just starting out with web development, this book will guide you every step of the way.\n\nStart building with JavaScript today!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/jsBookCover.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Code-Smart-JavaScript-Flexible-Applications/dp/B0DPDQH23X/ref=sr_1_4?crid=1XYZM66KIN9KM&dib=eyJ2IjoiMSJ9.6ageksP9fqSUz0xhM33dMDQMtT1ncl4stq3CWO02pVUPVn-jaUAjJlkR1hgP2DIHVEPq9sZYJRqxCXKnRGEB4F4qTiT_E140TlQ59ZIU1sle-wCOb2bybQ84EjXfPd9JzKCaI9h6UMCHR4lGPnrV27qqMmjes6CyXeaNnNa-a-uDh1S7GzY3kd_5pJlY_oED.TeI1NPqD0Ur9v0Ko0hyHDlAk64vLaHiGxramACdyszg&dib_tag=se&keywords=javascript+dennis&qid=1733288965&sprefix=javascrip+dennis%2Caps%2C1255&sr=8-4
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: >-
+          Python Crash Course: A Hands-On, Project-Based Introduction to
+          Programming with Visual Studio
+        subtitle: ''
+        text: "Discover the power of Python and turn your ideas into real-world solutions with this practical, inspiring guide!\n\nThis book is designed to guide you step-by-step from a beginner to a confident Python programmer, equipping you with the skills to succeed. Here’s what makes this book a must-have:\n\n*   Easy-to-Follow Learning:\_Clear instructions and relatable examples make Python accessible, no matter your starting point.\n\n*   Hands-On Projects:\_Practical exercises ensure you can immediately apply what you learn to real-world scenarios.\n\n*   Versatile Applications:\_Master Python for data analysis, automation, web development, and beyond.\n\n*   Solutions to Challenges:\_Proven strategies to overcome common programming hurdles and build your confidence.\n\n*   Career-Boosting Knowledge:\_Learn how Python can open doors in a tech-driven world full of opportunities.\n\n*   Inspiring Guidance:\_Encouragement to keep learning, stay creative, and never give up on achieving your goals.\n\nWhether you’re starting from scratch or sharpening your skills, this book will help you take control of your programming journey and achieve success.\_Begin your Python adventure today—your future is waiting!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/pythonCoverBook.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/B0DNXZ7PZG/ref=sr_1_13?crid=2TFE7Y3SXT96A&dib=eyJ2IjoiMSJ9.bbUSFb5R-uWncS8sFlqgSW2POXYwhpTVC8ni8IEVRmb99d0o3Lv1cLHd9Jf3bHauIa2HtaXex1aoYLa9oj8pnpTI09-0NT1UXdVqW6qbp4d81pKpPylhaWhfbN2lQG3rTc7Whe48vef-nnxIugsrRUHVT-fS3BWzRVaens3H96eOgCQian3qusx2FIhldnEj62jyUOghswNS1f7aXk-BXtgElksnOVtJeClxj4BozcA.6CHvOG8hzvxFRNiCZObrdXjyWkvnf348JDiJZCg2Eak&dib_tag=se&keywords=python+dennis&qid=1733289248&sprefix=pytho+dennis%2Caps%2C1800&sr=8-13
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
         title: >-
           Build Your Ultimate Gaming PC: A Easy Beginner’s Guide to Crafting the
           Perfect Rig
@@ -195,33 +272,32 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Focused
+        title: >-
+          Mastering WordPress for Beginners: Build a Unique, Professional
+          Website Step-by-Step
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "\"Mastering WordPress for Beginners\"\_takes you through every step, making website building accessible, easy, and fun. This comprehensive guide is packed with clear explanations, practical examples, and expert tips to help you turn your ideas into a professional online presence.\n\nWhy This Book is Essential for Every Beginner:\n\n*   Step-by-Step Guidance: Walk through each stage of website creation, from choosing your domain and hosting to optimizing for search engines and launching with confidence.\n\n*   No Coding Required: Build a customized, professional site without needing technical skills—this book makes WordPress simple and accessible.\n\n*   Practical Tutorials: Learn how to select and personalize themes, install essential plugins, and add advanced features to make your website stand out.\n\n*   SEO and Marketing Tips: Drive traffic to your site with proven strategies for search engine optimization, content marketing, and audience engagement.\n\n*   Comprehensive Coverage: Each chapter dives deep into specific website types, from blogs and business sites to online stores and portfolios, helping you tailor your site to your unique goals.\n\n*   Pro Tips for Growth and Maintenance: Go beyond launch day with expert advice on maintaining, expanding, and adapting your website for long-term success.\n\nPerfect for Beginners Who Want to:\n\n*   Build a professional website quickly and affordably\n\n*   Start a blog, business site, online store, or personal portfolio\n\n*   Master WordPress fundamentals and gain confidence in web design\n\n*   Optimize their site for search engines and increase traffic\n\n*   Create a powerful, unique online presence with minimal hassle\n\nWhether you’re an aspiring blogger, small business owner, or creative entrepreneur,\_\"Mastering WordPress for Beginners\"\_is your go-to guide for building a website that captures your vision and engages your audience.\n\nGet ready to bring your website dreams to life with this ultimate WordPress handbook!\n"
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/wpCoverSmall.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
-        actions:
-          - type: Button
-            label: ''
-            altText: ''
-            url: /
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
         elementId: ''
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Mastering-WordPress-Beginners-Step-Step/dp/B0DML87CVP/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.1-78oA715r_utuZclgPb75S8oemuLtfj9DT5T2oH_6hKV-txf3Wxq6i1BWkHexAezX8tTM2oawaAn9az5abgjFyod7qqLqB2wg12RjSEOK8SOv1gppvwIFKFjMq54DWTSE-bkAOmnxMyFy8jcEcR5A.0Zkp-6sOTrEIft5x_qfijJr9h3fLTxQBBbPUiFd2PuM&qid=1733289578&sr=8-1
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-f
     columns: 1
