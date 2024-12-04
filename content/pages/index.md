@@ -317,6 +317,17 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://www.amazon.com/Dropshipping-Made-Easy-Step-Step/dp/B0DKY73LV9/ref=sr_1_1?crid=13FARBMH5LOYD&dib=eyJ2IjoiMSJ9.HP01K6CxrwUXmCtg0TrvsrDD1HvV43OoatvaGcR7vKxayn7jf7wje5hAaoFuY8mLU0QtU69R8qFObE8guZF5rQ.w578_5EjMXYxaqw8MVF1vgE8acD77SV5QV2wzjO-KAQ&dib_tag=se&keywords=dropshipping+dennis&qid=1733297356&sprefix=dropshipping+denn%2Caps%2C1322&sr=8-1
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-f
     columns: 1
