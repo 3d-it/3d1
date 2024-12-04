@@ -122,6 +122,7 @@ sections:
           - type: Link
             label: ''
             url: 'https://github.com/'
+            altText: SCROLLGEOMETRY.COM
         styles:
           self:
             textAlign: left
