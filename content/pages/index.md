@@ -220,7 +220,9 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: >-
+          Code Smart with JavaScript: Build Fast, Flexible, and Scalable
+          Applications
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
