@@ -237,7 +237,7 @@ sections:
     colors: colors-a
     text: |
       <dennis@3d-it.net>
-    title: Contact
+    title: 'Some website I have worked on:'
   - type: DividerSection
     styles:
       self:
