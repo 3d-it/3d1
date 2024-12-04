@@ -4,23 +4,20 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: |+
+      ## Resume
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Resume-IT-2024-5-791x1024.png
       altText: Hero image
     styles:
       self:
@@ -59,7 +56,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: MediaGallerySection
-    colors: colors-f
+    colors: colors-a
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
@@ -118,16 +115,21 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    colors: colors-f
+    colors: colors-a
     items:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
+            label: ''
             url: 'https://github.com/'
+            altText: SCROLLGEOMETRY.COM
         styles:
           self:
             textAlign: left
+        title: ''
+        text: |+
+          [DESERTGROWNORGANICS.COM](https://desertgrownorganics.com/)
+
       - type: FeaturedItem
         actions:
           - type: Link
@@ -136,6 +138,8 @@ sections:
         styles:
           self:
             textAlign: left
+        text: |
+          [SCROLLGEOMETRY.COM](https://scrollgeometry.com/)
       - type: FeaturedItem
         actions:
           - type: Link
@@ -189,7 +193,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: 'Some website I have worked on:'
   - type: DividerSection
     styles:
       self:
@@ -203,25 +207,31 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: LabelsSection
-    colors: colors-f
+    colors: colors-a
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Shopify
       - type: Label
-        label: React
+        label: Visual Studios
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
+        label: WordPress
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: WIX
       - type: Label
-        label: C++
+        label: HTML
       - type: Label
-        label: Swift
+        label: CSS
+      - type: Label
+        label: Microsoft Teams
+        url: ''
+      - type: Label
+        label: Visual Studio Code
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -236,10 +246,11 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
+    subtitle: ''
+    colors: colors-a
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <dennis@3d-it.net>
+    title: 'Some website I have worked on:'
   - type: DividerSection
     styles:
       self:
@@ -253,7 +264,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    colors: colors-f
+    colors: colors-a
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
@@ -345,70 +356,4 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
 ---
