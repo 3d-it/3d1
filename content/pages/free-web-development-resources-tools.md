@@ -3,7 +3,7 @@ type: PageLayout
 title: Free Resources and Tools
 sections:
   - type: TextSection
-    colors: colors-f
+    colors: colors-a
     variant: variant-a
     title: Free Web Development Resources and Tools
     subtitle: ''
