@@ -218,7 +218,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Swift
+        label: CSS
   - type: DividerSection
     styles:
       self:
