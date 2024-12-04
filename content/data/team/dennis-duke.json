@@ -1,9 +1,9 @@
 {
     "type": "Person",
     "firstName": "Dennis",
-    "lastName": "Surname",
-    "role": "Role",
-    "bio": "With over 10 years in both public and private sectors, Johnna has experience in management consultation, team building, professional development, strategic implementation, and company collaboration.",
+    "lastName": "Duke",
+    "role": "Author",
+    "bio": "Dennis Duke is the owner of [3D-IT.net](https://3d-it.net/), a platform offering insights and resources in the fields of IT and technology. With an Associate's Degree in Computer Programming from Copper Mountain College and ongoing studies in Computer Information Technology at California Baptist University, Dennis combines academic knowledge with hands-on expertise. Through 3D-IT.net, Dennis shares valuable tools and information, empowering individuals and businesses to achieve their goals in the digital landscape.\n\n\n",
     "image": {
         "type": "ImageBlock",
         "url": "https://assets.stackbit.com/components/images/default/default-person.png",
