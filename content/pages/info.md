@@ -237,6 +237,7 @@ sections:
     colors: colors-a
     text: |
       [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    title: Contact
   - type: DividerSection
     styles:
       self:
