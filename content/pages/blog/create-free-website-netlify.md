@@ -22,6 +22,7 @@ media:
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
+author: content/data/team/dennis-duke.json
 ---
 Netlify provides free templates that allow you to quickly launch a website without coding from scratch. Follow these steps to choose and deploy a template.
 
