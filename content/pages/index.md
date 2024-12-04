@@ -78,13 +78,14 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
+        borderColor: border-dark
       title:
         textAlign: left
       subtitle:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
