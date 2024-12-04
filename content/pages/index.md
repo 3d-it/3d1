@@ -108,7 +108,6 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post-three.md
       - content/pages/blog/create-free-website-netlify.md
     showDate: true
     showExcerpt: true
