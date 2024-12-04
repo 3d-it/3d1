@@ -206,7 +206,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: Buy on Amazon
             altText: ''
             url: >-
               https://www.amazon.com/Mastering-CSS-Step-Step-Professional/dp/B0DP37QNNQ/ref=sr_1_1?crid=Y16HVW3CY4JA&dib=eyJ2IjoiMSJ9.XY3LoaPppRXCne9mmJnCPHAG3vBcAe3e8DYpCtNO6Qztc2I7YZ-lYRbWcJC-PB_oOivhVLr1Ko2BjKsOYR0W1J5r4RVj97YR52KX26Cp-gj9CpOV2kC4JwlPA1ZARLSR.V3S_DgotQNvSozd8ytUoeTpmTh0ioVxWW0CwVel3G-o&dib_tag=se&keywords=css+dennis&qid=1733288587&sprefix=css+dennis%2Caps%2C1699&sr=8-1
