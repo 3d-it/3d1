@@ -172,10 +172,7 @@ sections:
       - type: FeaturedItem
         title: An Easy Guide to Creating a Shopify Website
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "A Step-by-Step Handbook for Building and Launching Your Online Store\n\n*An Easy Guide to Creating a Shopify Website*\_is your go-to resource for building, launching, and growing a successful online store. Perfect for beginners and small business owners, this step-by-step guide covers everything from setup and customization to marketing and sales strategies. Packed with practical tips and clear instructions, this book empowers you to create a Shopify store that attracts, engages, and converts customers. Start your e-commerce journey with confidence and bring your business to life online!\n\n\n\n"
         featuredImage:
           type: ImageBlock
           url: >-
