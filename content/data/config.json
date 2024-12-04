@@ -21,7 +21,7 @@
             {
                 "type": "Link",
                 "label": "Free Resources",
-                "altText": "",
+                "altText": "A curated collection of essential free web development resources and tools, including code editors, design software, and performance optimization tools, designed to enhance the workflow of developers.",
                 "url": "https://fvefveweevewfe.netlify.app/free-web-development-resources-tools/",
                 "showIcon": false,
                 "icon": "arrowRight",
