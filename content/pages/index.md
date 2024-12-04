@@ -170,7 +170,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: An Easy Guide to Creating a Shopify Website
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
