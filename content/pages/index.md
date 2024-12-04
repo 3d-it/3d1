@@ -194,33 +194,6 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: >-
-          Python Crash Course: A Hands-On, Project-Based Introduction to
-          Programming with Visual Studio
-        subtitle: ''
-        text: "Discover the power of Python and turn your ideas into real-world solutions with this practical, inspiring guide!\n\nThis book is designed to guide you step-by-step from a beginner to a confident Python programmer, equipping you with the skills to succeed. Here’s what makes this book a must-have:\n\n*   Easy-to-Follow Learning:\_Clear instructions and relatable examples make Python accessible, no matter your starting point.\n\n*   Hands-On Projects:\_Practical exercises ensure you can immediately apply what you learn to real-world scenarios.\n\n*   Versatile Applications:\_Master Python for data analysis, automation, web development, and beyond.\n\n*   Solutions to Challenges:\_Proven strategies to overcome common programming hurdles and build your confidence.\n\n*   Career-Boosting Knowledge:\_Learn how Python can open doors in a tech-driven world full of opportunities.\n\n*   Inspiring Guidance:\_Encouragement to keep learning, stay creative, and never give up on achieving your goals.\n\nWhether you’re starting from scratch or sharpening your skills, this book will help you take control of your programming journey and achieve success.\_Begin your Python adventure today—your future is waiting!\n\n\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: /images/pythonCoverBook.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: ''
-            url: >-
-              https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/B0DNXZ7PZG/ref=sr_1_13?crid=2TFE7Y3SXT96A&dib=eyJ2IjoiMSJ9.bbUSFb5R-uWncS8sFlqgSW2POXYwhpTVC8ni8IEVRmb99d0o3Lv1cLHd9Jf3bHauIa2HtaXex1aoYLa9oj8pnpTI09-0NT1UXdVqW6qbp4d81pKpPylhaWhfbN2lQG3rTc7Whe48vef-nnxIugsrRUHVT-fS3BWzRVaens3H96eOgCQian3qusx2FIhldnEj62jyUOghswNS1f7aXk-BXtgElksnOVtJeClxj4BozcA.6CHvOG8hzvxFRNiCZObrdXjyWkvnf348JDiJZCg2Eak&dib_tag=se&keywords=python+dennis&qid=1733289248&sprefix=pytho+dennis%2Caps%2C1800&sr=8-13
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - type: FeaturedItem
-        title: >-
           Code Smart with JavaScript: Build Fast, Flexible, and Scalable
           Applications
         subtitle: ''
@@ -241,6 +214,33 @@ sections:
             altText: ''
             url: >-
               https://www.amazon.com/Code-Smart-JavaScript-Flexible-Applications/dp/B0DPDQH23X/ref=sr_1_4?crid=1XYZM66KIN9KM&dib=eyJ2IjoiMSJ9.6ageksP9fqSUz0xhM33dMDQMtT1ncl4stq3CWO02pVUPVn-jaUAjJlkR1hgP2DIHVEPq9sZYJRqxCXKnRGEB4F4qTiT_E140TlQ59ZIU1sle-wCOb2bybQ84EjXfPd9JzKCaI9h6UMCHR4lGPnrV27qqMmjes6CyXeaNnNa-a-uDh1S7GzY3kd_5pJlY_oED.TeI1NPqD0Ur9v0Ko0hyHDlAk64vLaHiGxramACdyszg&dib_tag=se&keywords=javascript+dennis&qid=1733288965&sprefix=javascrip+dennis%2Caps%2C1255&sr=8-4
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: >-
+          Python Crash Course: A Hands-On, Project-Based Introduction to
+          Programming with Visual Studio
+        subtitle: ''
+        text: "Discover the power of Python and turn your ideas into real-world solutions with this practical, inspiring guide!\n\nThis book is designed to guide you step-by-step from a beginner to a confident Python programmer, equipping you with the skills to succeed. Here’s what makes this book a must-have:\n\n*   Easy-to-Follow Learning:\_Clear instructions and relatable examples make Python accessible, no matter your starting point.\n\n*   Hands-On Projects:\_Practical exercises ensure you can immediately apply what you learn to real-world scenarios.\n\n*   Versatile Applications:\_Master Python for data analysis, automation, web development, and beyond.\n\n*   Solutions to Challenges:\_Proven strategies to overcome common programming hurdles and build your confidence.\n\n*   Career-Boosting Knowledge:\_Learn how Python can open doors in a tech-driven world full of opportunities.\n\n*   Inspiring Guidance:\_Encouragement to keep learning, stay creative, and never give up on achieving your goals.\n\nWhether you’re starting from scratch or sharpening your skills, this book will help you take control of your programming journey and achieve success.\_Begin your Python adventure today—your future is waiting!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/pythonCoverBook.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/B0DNXZ7PZG/ref=sr_1_13?crid=2TFE7Y3SXT96A&dib=eyJ2IjoiMSJ9.bbUSFb5R-uWncS8sFlqgSW2POXYwhpTVC8ni8IEVRmb99d0o3Lv1cLHd9Jf3bHauIa2HtaXex1aoYLa9oj8pnpTI09-0NT1UXdVqW6qbp4d81pKpPylhaWhfbN2lQG3rTc7Whe48vef-nnxIugsrRUHVT-fS3BWzRVaens3H96eOgCQian3qusx2FIhldnEj62jyUOghswNS1f7aXk-BXtgElksnOVtJeClxj4BozcA.6CHvOG8hzvxFRNiCZObrdXjyWkvnf348JDiJZCg2Eak&dib_tag=se&keywords=python+dennis&qid=1733289248&sprefix=pytho+dennis%2Caps%2C1800&sr=8-13
             showIcon: true
             icon: arrowRight
             iconPosition: right
