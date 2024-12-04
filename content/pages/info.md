@@ -125,6 +125,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: DESERTGROWNORGANICS.COM
       - type: FeaturedItem
         actions:
           - type: Link
