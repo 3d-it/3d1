@@ -237,7 +237,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: Buy on Amazon
             altText: ''
             url: >-
               https://www.amazon.com/Code-Smart-JavaScript-Flexible-Applications/dp/B0DPDQH23X/ref=sr_1_4?crid=1XYZM66KIN9KM&dib=eyJ2IjoiMSJ9.6ageksP9fqSUz0xhM33dMDQMtT1ncl4stq3CWO02pVUPVn-jaUAjJlkR1hgP2DIHVEPq9sZYJRqxCXKnRGEB4F4qTiT_E140TlQ59ZIU1sle-wCOb2bybQ84EjXfPd9JzKCaI9h6UMCHR4lGPnrV27qqMmjes6CyXeaNnNa-a-uDh1S7GzY3kd_5pJlY_oED.TeI1NPqD0Ur9v0Ko0hyHDlAk64vLaHiGxramACdyszg&dib_tag=se&keywords=javascript+dennis&qid=1733288965&sprefix=javascrip+dennis%2Caps%2C1255&sr=8-4
