@@ -3,8 +3,11 @@ type: PostLayout
 title: How to Create and Host a Free Website Using Netlify
 date: '2024-12-03'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Learn how to create and host a free website using Netlify's easy-to-use
+  platform and free templates. This step-by-step guide will walk you through
+  signing up, choosing a template, deploying your site, and even adding a custom
+  domain—all without coding! Perfect for beginners looking to launch a
+  professional website in minutes.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
