@@ -210,7 +210,7 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Next.js
+        label: WordPress
       - type: Label
         label: Netlify
       - type: Label
