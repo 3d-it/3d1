@@ -61,7 +61,7 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/Certificate-for-Costco-Toshiba-1.png
         altText: Image four
         caption: Image four caption
         elementId: ''
