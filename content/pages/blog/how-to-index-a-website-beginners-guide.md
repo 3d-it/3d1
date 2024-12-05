@@ -15,7 +15,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/contact.jpg
+  url: /images/gsc (1).png
   altText: Post image
   caption: Caption of the image
   elementId: ''
