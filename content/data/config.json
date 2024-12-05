@@ -63,12 +63,6 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "mailto:dennis.@3d-it.net",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
