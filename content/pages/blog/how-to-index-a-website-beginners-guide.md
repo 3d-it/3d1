@@ -3,8 +3,10 @@ type: PostLayout
 title: 'How to Site Index a Website: An Easy Guide for Beginners'
 date: '2024-12-04'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Learn how to index your website and improve its visibility on search engines
+  like Google and Bing. This beginner-friendly guide covers sitemap creation,
+  submission tools, and tips for boosting your SEO with easy-to-follow steps.
+  Get your site indexed and drive organic traffic today!
 featuredImage:
   type: ImageBlock
   url: /images/contact.jpg
