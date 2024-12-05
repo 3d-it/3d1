@@ -19,13 +19,6 @@ media:
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 ---
 Are you struggling to get your website noticed by search engines? Ensuring your website is indexed is the first and most important step in boosting your online visibility. In this beginner-friendly guide, we’ll walk you through the essentials of site indexing, making it easy for you to get your website listed on search engines like Google and Bing. Let’s dive in!
 
