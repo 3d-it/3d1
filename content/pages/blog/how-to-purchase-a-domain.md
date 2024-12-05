@@ -3,8 +3,11 @@ type: PostLayout
 title: 'How to Purchase a Domain: An Easy Guide for Beginners'
 date: '2024-12-04'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Purchasing a domain name is the first step to building your online presence.
+  This guide breaks down the process of choosing, registering, and securing the
+  perfect domain for your blog, business, or portfolio. Learn how to find a
+  memorable domain, check availability, and link it to hosting for a successful
+  start online!
 featuredImage:
   type: ImageBlock
   url: /images/contact.jpg
