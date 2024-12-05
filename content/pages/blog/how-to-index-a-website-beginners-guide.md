@@ -15,7 +15,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/gsc (1).png
+  url: /images/seth-schwiet-WB3ujiKLJwQ-unsplash.jpg
   altText: Post image
   caption: Caption of the image
   elementId: ''
