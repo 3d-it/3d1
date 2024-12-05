@@ -19,13 +19,6 @@ media:
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 author: content/data/team/dennis-duke.json
 ---
 Purchasing a domain name is the first step in building your online presence, whether it’s for a personal blog, business, or portfolio. This guide will walk you through the simple steps to buy a domain name that aligns with your goals.
