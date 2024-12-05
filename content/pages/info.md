@@ -93,13 +93,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: ''
-    colors: colors-a
-    text: |
-      <dennis@3d-it.net>
-    title: 'Some website I have worked on:'
   - type: DividerSection
     styles:
       self:
