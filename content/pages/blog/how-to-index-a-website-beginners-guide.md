@@ -10,11 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/seth-schwiet-WB3ujiKLJwQ-unsplash.jpg
-  altText: >-
-    Photo by <a
-    href="https://unsplash.com/@schwiet?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">seth
-    schwiet</a> on <a
-    href="https://unsplash.com/photos/silver-laptop-computer-on-black-table-WB3ujiKLJwQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>      
+  altText: 'Photo by seth schwiet on Unsplash '
   caption: Caption of the image
   elementId: ''
 media:
