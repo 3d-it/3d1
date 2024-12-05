@@ -10,7 +10,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/seth-schwiet-WB3ujiKLJwQ-unsplash.jpg
-  altText: Post thumbnail image
+  altText: 'Photo by seth schwiet on Unsplash '
   caption: Caption of the image
   elementId: ''
 media:
