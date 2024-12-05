@@ -66,6 +66,16 @@
                 "label": "LINKEDIN",
                 "url": "https://www.linkedin.com/in/dennis-duke-63200b310/",
                 "altText": "Connect with me on LinkedIn | 3D-IT.net - Information Technology"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "altText": "",
+                "url": "/blog",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {
