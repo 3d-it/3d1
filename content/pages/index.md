@@ -194,6 +194,36 @@ sections:
             elementId: ''
       - type: FeaturedItem
         title: >-
+          Dropshipping Made Easy: A Step-by-Step Guide to Building Your Online
+          Business
+        subtitle: ''
+        text: "Dropshipping Made Easy: A Step-by-Step Guide to Building Your Online Business\n\nPerfect for beginners,\_Dropshipping Made Easy\_is the ultimate guide to building a profitable online business with minimal upfront investment. This comprehensive book offers clear, actionable steps for every stage of the dropshipping journey—from choosing a niche to optimizing your store and driving sales.\n\nWhat you’ll discover:\n\n*   Understanding dropshipping: Learn the essentials of the dropshipping model, and why it’s ideal for new entrepreneurs.\n\n*   Finding a profitable niche: Identify high-demand niches that align with your interests and maximize potential.\n\n*   Building a winning product strategy: Master selecting and pricing products for strong profitability.\n\n*   Creating a high-converting store: Build a professional, attractive website with the right platform and design techniques.\n\n*   Marketing and driving traffic: Attract customers through social media, SEO, and paid ads.\n\n*   Scaling for growth: Automate, expand, and optimize for long-term success.\n\n*   Overcoming common challenges: Prepare for obstacles like shipping delays and supplier issues with confidence.\n\nWhy Choose\_Dropshipping Made Easy?\n\nDesigned to be practical and beginner-friendly, this book provides real-world examples, step-by-step instructions, and insights into the latest trends in e-commerce.\_Dropshipping Made Easy\_is your essential guide to launching and scaling a successful dropshipping business.\n\nBegin your journey today and make your e-commerce dreams a reality with\_Dropshipping Made Easy!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/dropCover.jpg
+          altText: >-
+            Cover of 'Dropshipping Made Easy: A Step-by-Step Guide to Building
+            Your Online Business' by Dennis Duke, showcasing essential
+            strategies for starting a successful online dropshipping business.
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Dropshipping-Made-Easy-Step-Step/dp/B0DKY73LV9/ref=sr_1_1?crid=13FARBMH5LOYD&dib=eyJ2IjoiMSJ9.HP01K6CxrwUXmCtg0TrvsrDD1HvV43OoatvaGcR7vKxayn7jf7wje5hAaoFuY8mLU0QtU69R8qFObE8guZF5rQ.w578_5EjMXYxaqw8MVF1vgE8acD77SV5QV2wzjO-KAQ&dib_tag=se&keywords=dropshipping+dennis&qid=1733297356&sprefix=dropshipping+denn%2Caps%2C1322&sr=8-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: >-
           Python Crash Course: A Hands-On, Project-Based Introduction to
           Programming with Visual Studio
         subtitle: ''
@@ -294,36 +324,6 @@ sections:
             url: >-
               https://www.amazon.com/Mastering-WordPress-Beginners-Step-Step/dp/B0DML87CVP/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.1-78oA715r_utuZclgPb75S8oemuLtfj9DT5T2oH_6hKV-txf3Wxq6i1BWkHexAezX8tTM2oawaAn9az5abgjFyod7qqLqB2wg12RjSEOK8SOv1gppvwIFKFjMq54DWTSE-bkAOmnxMyFy8jcEcR5A.0Zkp-6sOTrEIft5x_qfijJr9h3fLTxQBBbPUiFd2PuM&qid=1733289578&sr=8-1
             showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - type: FeaturedItem
-        title: >-
-          Dropshipping Made Easy: A Step-by-Step Guide to Building Your Online
-          Business
-        subtitle: ''
-        text: "Dropshipping Made Easy: A Step-by-Step Guide to Building Your Online Business\n\nPerfect for beginners,\_Dropshipping Made Easy\_is the ultimate guide to building a profitable online business with minimal upfront investment. This comprehensive book offers clear, actionable steps for every stage of the dropshipping journey—from choosing a niche to optimizing your store and driving sales.\n\nWhat you’ll discover:\n\n*   Understanding dropshipping: Learn the essentials of the dropshipping model, and why it’s ideal for new entrepreneurs.\n\n*   Finding a profitable niche: Identify high-demand niches that align with your interests and maximize potential.\n\n*   Building a winning product strategy: Master selecting and pricing products for strong profitability.\n\n*   Creating a high-converting store: Build a professional, attractive website with the right platform and design techniques.\n\n*   Marketing and driving traffic: Attract customers through social media, SEO, and paid ads.\n\n*   Scaling for growth: Automate, expand, and optimize for long-term success.\n\n*   Overcoming common challenges: Prepare for obstacles like shipping delays and supplier issues with confidence.\n\nWhy Choose\_Dropshipping Made Easy?\n\nDesigned to be practical and beginner-friendly, this book provides real-world examples, step-by-step instructions, and insights into the latest trends in e-commerce.\_Dropshipping Made Easy\_is your essential guide to launching and scaling a successful dropshipping business.\n\nBegin your journey today and make your e-commerce dreams a reality with\_Dropshipping Made Easy!\n\n\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: /images/dropCover.jpg
-          altText: >-
-            Cover of 'Dropshipping Made Easy: A Step-by-Step Guide to Building
-            Your Online Business' by Dennis Duke, showcasing essential
-            strategies for starting a successful online dropshipping business.
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: ''
-            url: >-
-              https://www.amazon.com/Dropshipping-Made-Easy-Step-Step/dp/B0DKY73LV9/ref=sr_1_1?crid=13FARBMH5LOYD&dib=eyJ2IjoiMSJ9.HP01K6CxrwUXmCtg0TrvsrDD1HvV43OoatvaGcR7vKxayn7jf7wje5hAaoFuY8mLU0QtU69R8qFObE8guZF5rQ.w578_5EjMXYxaqw8MVF1vgE8acD77SV5QV2wzjO-KAQ&dib_tag=se&keywords=dropshipping+dennis&qid=1733297356&sprefix=dropshipping+denn%2Caps%2C1322&sr=8-1
-            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
