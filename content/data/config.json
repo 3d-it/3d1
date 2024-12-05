@@ -22,7 +22,7 @@
                 "type": "Link",
                 "label": "Free Resources",
                 "altText": "A curated collection of essential free web development resources and tools, including code editors, design software, and performance optimization tools, designed to enhance the workflow of developers.",
-                "url": "/free-web-development-resources-tools",
+                "url": "https://3d-it.net/free-web-development-resources-tools",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
