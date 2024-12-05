@@ -9,7 +9,7 @@ excerpt: >-
   Get your site indexed and drive organic traffic today!
 featuredImage:
   type: ImageBlock
-  url: /images/contact.jpg
+  url: /images/seth-schwiet-WB3ujiKLJwQ-unsplash.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
