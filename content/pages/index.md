@@ -109,6 +109,8 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/create-free-website-netlify.md
+      - content/pages/blog/how-to-purchase-a-domain.md
+      - content/pages/blog/how-to-index-a-website-beginners-guide.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
