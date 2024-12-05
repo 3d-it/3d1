@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Mastering CSS: A Step-by-Step Guide to Professional Web Design'
+title: 3D-IT.net | Information Technology
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
