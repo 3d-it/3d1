@@ -25,7 +25,7 @@ sections:
           - mr-0
         padding:
           - pt-36
-          - pb-48
+          - pb-36
           - pl-4
           - pr-4
         alignItems: center
@@ -123,7 +123,7 @@ sections:
           - mr-0
         padding:
           - pt-28
-          - pb-48
+          - pb-28
           - pl-4
           - pr-4
         justifyContent: center
@@ -166,31 +166,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 'Mastering CSS: A Step-by-Step Guide to Professional Web Design'
-        subtitle: ''
-        text: "\"Mastering CSS: A Step-by-Step Guide to Professional Web Design\"\n\nTake your web design skills to the next level with\_Mastering CSS, the ultimate guide to creating stunning, responsive, and professional websites. Designed for both beginners and seasoned developers, this book covers everything you need to know about CSS—from foundational concepts to advanced techniques that set your designs apart.\n\nWhat You’ll Learn:\n\n*   Build Stunning Designs:\_Master CSS fundamentals to create visually captivating and professional web pages.\n\n*   Responsive Layouts:\_Learn how to design websites that adapt beautifully to any device, from desktops to smartphones.\n\n*   Advanced Techniques:\_Explore animations, transitions, CSS Grid, Flexbox, and more to enhance functionality and aesthetics.\n\n*   Dynamic Styling:\_Use CSS variables and best practices to write clean, scalable, and maintainable code.\n\n*   Hands-On Projects:\_Practice your skills with real-world examples and exercises, including a complete portfolio project.\n\nWhy This Book?\n\n*   Step-by-step tutorials make learning CSS approachable for all skill levels.\n\n*   Includes tips, tricks, and best practices used by professional developers.\n\n*   Packed with practical exercises and a capstone project to showcase your skills.\n\nWhether you’re just starting or refining your expertise,\_Mastering CSS\_is your ultimate resource for creating modern, professional, and responsive web designs. Get started today and build the websites you’ve always envisioned!\n\n\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: /images/cssCover.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: ''
-            url: >-
-              https://www.amazon.com/Mastering-CSS-Step-Step-Professional/dp/B0DP37QNNQ/ref=sr_1_1?crid=Y16HVW3CY4JA&dib=eyJ2IjoiMSJ9.XY3LoaPppRXCne9mmJnCPHAG3vBcAe3e8DYpCtNO6Qztc2I7YZ-lYRbWcJC-PB_oOivhVLr1Ko2BjKsOYR0W1J5r4RVj97YR52KX26Cp-gj9CpOV2kC4JwlPA1ZARLSR.V3S_DgotQNvSozd8ytUoeTpmTh0ioVxWW0CwVel3G-o&dib_tag=se&keywords=css+dennis&qid=1733288587&sprefix=css+dennis%2Caps%2C1699&sr=8-1
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: >-
           Code Smart with JavaScript: Build Fast, Flexible, and Scalable
           Applications
@@ -212,6 +187,36 @@ sections:
             altText: ''
             url: >-
               https://www.amazon.com/Code-Smart-JavaScript-Flexible-Applications/dp/B0DPDQH23X/ref=sr_1_4?crid=1XYZM66KIN9KM&dib=eyJ2IjoiMSJ9.6ageksP9fqSUz0xhM33dMDQMtT1ncl4stq3CWO02pVUPVn-jaUAjJlkR1hgP2DIHVEPq9sZYJRqxCXKnRGEB4F4qTiT_E140TlQ59ZIU1sle-wCOb2bybQ84EjXfPd9JzKCaI9h6UMCHR4lGPnrV27qqMmjes6CyXeaNnNa-a-uDh1S7GzY3kd_5pJlY_oED.TeI1NPqD0Ur9v0Ko0hyHDlAk64vLaHiGxramACdyszg&dib_tag=se&keywords=javascript+dennis&qid=1733288965&sprefix=javascrip+dennis%2Caps%2C1255&sr=8-4
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: >-
+          Dropshipping Made Easy: A Step-by-Step Guide to Building Your Online
+          Business
+        subtitle: ''
+        text: "Dropshipping Made Easy: A Step-by-Step Guide to Building Your Online Business\n\nPerfect for beginners,\_Dropshipping Made Easy\_is the ultimate guide to building a profitable online business with minimal upfront investment. This comprehensive book offers clear, actionable steps for every stage of the dropshipping journey—from choosing a niche to optimizing your store and driving sales.\n\nWhat you’ll discover:\n\n*   Understanding dropshipping: Learn the essentials of the dropshipping model, and why it’s ideal for new entrepreneurs.\n\n*   Finding a profitable niche: Identify high-demand niches that align with your interests and maximize potential.\n\n*   Building a winning product strategy: Master selecting and pricing products for strong profitability.\n\n*   Creating a high-converting store: Build a professional, attractive website with the right platform and design techniques.\n\n*   Marketing and driving traffic: Attract customers through social media, SEO, and paid ads.\n\n*   Scaling for growth: Automate, expand, and optimize for long-term success.\n\n*   Overcoming common challenges: Prepare for obstacles like shipping delays and supplier issues with confidence.\n\nWhy Choose\_Dropshipping Made Easy?\n\nDesigned to be practical and beginner-friendly, this book provides real-world examples, step-by-step instructions, and insights into the latest trends in e-commerce.\_Dropshipping Made Easy\_is your essential guide to launching and scaling a successful dropshipping business.\n\nBegin your journey today and make your e-commerce dreams a reality with\_Dropshipping Made Easy!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/dropCover.jpg
+          altText: >-
+            Cover of 'Dropshipping Made Easy: A Step-by-Step Guide to Building
+            Your Online Business' by Dennis Duke, showcasing essential
+            strategies for starting a successful online dropshipping business.
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Dropshipping-Made-Easy-Step-Step/dp/B0DKY73LV9/ref=sr_1_1?crid=13FARBMH5LOYD&dib=eyJ2IjoiMSJ9.HP01K6CxrwUXmCtg0TrvsrDD1HvV43OoatvaGcR7vKxayn7jf7wje5hAaoFuY8mLU0QtU69R8qFObE8guZF5rQ.w578_5EjMXYxaqw8MVF1vgE8acD77SV5QV2wzjO-KAQ&dib_tag=se&keywords=dropshipping+dennis&qid=1733297356&sprefix=dropshipping+denn%2Caps%2C1322&sr=8-1
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -244,6 +249,31 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
+      - type: FeaturedItem
+        title: 'Mastering CSS: A Step-by-Step Guide to Professional Web Design'
+        subtitle: ''
+        text: "\"Mastering CSS: A Step-by-Step Guide to Professional Web Design\"\n\nTake your web design skills to the next level with\_Mastering CSS, the ultimate guide to creating stunning, responsive, and professional websites. Designed for both beginners and seasoned developers, this book covers everything you need to know about CSS—from foundational concepts to advanced techniques that set your designs apart.\n\nWhat You’ll Learn:\n\n*   Build Stunning Designs:\_Master CSS fundamentals to create visually captivating and professional web pages.\n\n*   Responsive Layouts:\_Learn how to design websites that adapt beautifully to any device, from desktops to smartphones.\n\n*   Advanced Techniques:\_Explore animations, transitions, CSS Grid, Flexbox, and more to enhance functionality and aesthetics.\n\n*   Dynamic Styling:\_Use CSS variables and best practices to write clean, scalable, and maintainable code.\n\n*   Hands-On Projects:\_Practice your skills with real-world examples and exercises, including a complete portfolio project.\n\nWhy This Book?\n\n*   Step-by-step tutorials make learning CSS approachable for all skill levels.\n\n*   Includes tips, tricks, and best practices used by professional developers.\n\n*   Packed with practical exercises and a capstone project to showcase your skills.\n\nWhether you’re just starting or refining your expertise,\_Mastering CSS\_is your ultimate resource for creating modern, professional, and responsive web designs. Get started today and build the websites you’ve always envisioned!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/cssCover.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Mastering-CSS-Step-Step-Professional/dp/B0DP37QNNQ/ref=sr_1_1?crid=Y16HVW3CY4JA&dib=eyJ2IjoiMSJ9.XY3LoaPppRXCne9mmJnCPHAG3vBcAe3e8DYpCtNO6Qztc2I7YZ-lYRbWcJC-PB_oOivhVLr1Ko2BjKsOYR0W1J5r4RVj97YR52KX26Cp-gj9CpOV2kC4JwlPA1ZARLSR.V3S_DgotQNvSozd8ytUoeTpmTh0ioVxWW0CwVel3G-o&dib_tag=se&keywords=css+dennis&qid=1733288587&sprefix=css+dennis%2Caps%2C1699&sr=8-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
       - type: FeaturedItem
         title: >-
           Build Your Ultimate Gaming PC: A Easy Beginner’s Guide to Crafting the
@@ -298,36 +328,6 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-      - type: FeaturedItem
-        title: >-
-          Dropshipping Made Easy: A Step-by-Step Guide to Building Your Online
-          Business
-        subtitle: ''
-        text: "Dropshipping Made Easy: A Step-by-Step Guide to Building Your Online Business\n\nPerfect for beginners,\_Dropshipping Made Easy\_is the ultimate guide to building a profitable online business with minimal upfront investment. This comprehensive book offers clear, actionable steps for every stage of the dropshipping journey—from choosing a niche to optimizing your store and driving sales.\n\nWhat you’ll discover:\n\n*   Understanding dropshipping: Learn the essentials of the dropshipping model, and why it’s ideal for new entrepreneurs.\n\n*   Finding a profitable niche: Identify high-demand niches that align with your interests and maximize potential.\n\n*   Building a winning product strategy: Master selecting and pricing products for strong profitability.\n\n*   Creating a high-converting store: Build a professional, attractive website with the right platform and design techniques.\n\n*   Marketing and driving traffic: Attract customers through social media, SEO, and paid ads.\n\n*   Scaling for growth: Automate, expand, and optimize for long-term success.\n\n*   Overcoming common challenges: Prepare for obstacles like shipping delays and supplier issues with confidence.\n\nWhy Choose\_Dropshipping Made Easy?\n\nDesigned to be practical and beginner-friendly, this book provides real-world examples, step-by-step instructions, and insights into the latest trends in e-commerce.\_Dropshipping Made Easy\_is your essential guide to launching and scaling a successful dropshipping business.\n\nBegin your journey today and make your e-commerce dreams a reality with\_Dropshipping Made Easy!\n\n\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: /images/dropCover.jpg
-          altText: >-
-            Cover of 'Dropshipping Made Easy: A Step-by-Step Guide to Building
-            Your Online Business' by Dennis Duke, showcasing essential
-            strategies for starting a successful online dropshipping business.
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: ''
-            url: >-
-              https://www.amazon.com/Dropshipping-Made-Easy-Step-Step/dp/B0DKY73LV9/ref=sr_1_1?crid=13FARBMH5LOYD&dib=eyJ2IjoiMSJ9.HP01K6CxrwUXmCtg0TrvsrDD1HvV43OoatvaGcR7vKxayn7jf7wje5hAaoFuY8mLU0QtU69R8qFObE8guZF5rQ.w578_5EjMXYxaqw8MVF1vgE8acD77SV5QV2wzjO-KAQ&dib_tag=se&keywords=dropshipping+dennis&qid=1733297356&sprefix=dropshipping+denn%2Caps%2C1322&sr=8-1
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
     actions: []
     colors: colors-f
     columns: 1
@@ -340,7 +340,7 @@ sections:
         width: narrow
         padding:
           - pt-28
-          - pb-36
+          - pb-28
           - pl-4
           - pr-4
         justifyContent: center
