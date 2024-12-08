@@ -335,10 +335,33 @@ sections:
           SQL Simplified: A Practical Journey to Building Smarter Databases and
           Applications
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          #### What You’ll Learn:
+
+
+          *   Design efficient, normalized databases.
+
+
+          *   Optimize query performance with indexing and tuning.
+
+
+          *   Implement security with encryption and auditing.
+
+
+          *   Automate tasks using stored procedures and triggers.
+
+
+          *   Integrate SQL Server with popular programming languages.
+
+
+          *   Build a complete inventory management system.
+
+
+          Perfect for beginners and professionals, this book provides practical
+          insights to create and manage robust database systems.
+
+
+
         featuredImage:
           type: ImageBlock
           url: /images/sqlCover.jpg
