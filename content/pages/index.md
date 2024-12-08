@@ -335,7 +335,7 @@ sections:
           SQL Simplified: A Practical Journey to Building Smarter Databases and
           Applications
         subtitle: ''
-        text: >+
+        text: >
           #### What You’ll Learn:
 
 
@@ -351,17 +351,11 @@ sections:
           *   Automate tasks using stored procedures and triggers.
 
 
-          *   Integrate SQL Server with popular programming languages.
-
-
           *   Build a complete inventory management system.
 
 
           Perfect for beginners and professionals, this book provides practical
           insights to create and manage robust database systems.
-
-
-
         featuredImage:
           type: ImageBlock
           url: /images/sqlCover.jpg
