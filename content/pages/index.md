@@ -97,48 +97,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-a
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/create-free-website-netlify.md
-      - content/pages/blog/how-to-purchase-a-domain.md
-      - content/pages/blog/how-to-index-a-website-beginners-guide.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
   - type: FeaturedItemsSection
     title: Books Published
     items:
@@ -395,4 +353,46 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: FeaturedPostsSection
+    elementId: ''
+    colors: colors-a
+    variant: variant-d
+    subtitle: Featured Posts
+    showFeaturedImage: false
+    actions:
+      - type: Link
+        label: See all posts
+        url: /blog
+    posts:
+      - content/pages/blog/create-free-website-netlify.md
+      - content/pages/blog/how-to-purchase-a-domain.md
+      - content/pages/blog/how-to-index-a-website-beginners-guide.md
+    showDate: true
+    showExcerpt: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-end
 ---
