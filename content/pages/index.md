@@ -331,7 +331,9 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Item Title
+        title: >-
+          SQL Simplified: A Practical Journey to Building Smarter Databases and
+          Applications
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
