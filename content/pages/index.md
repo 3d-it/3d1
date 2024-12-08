@@ -330,6 +330,49 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
+      - type: FeaturedItem
+        title: >-
+          SQL Simplified: A Practical Journey to Building Smarter Databases and
+          Applications
+        subtitle: ''
+        text: >
+
+
+          *   Optimize query performance with indexing and tuning.
+
+
+          *   Implement security with encryption and auditing.
+
+
+          *   Automate tasks using stored procedures and triggers.
+
+
+          *   Build a complete inventory management system.
+
+
+          Perfect for beginners and professionals, this book provides practical
+          insights to create and manage robust database systems.
+        featuredImage:
+          type: ImageBlock
+          url: /images/sqlCover.jpg
+          altText: Dennis Duke SQL Book
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/SQL-Server-Simplified-Practical-Applications/dp/B0DPFHLZ2J/ref=sr_1_1?crid=1MV8OQMTNFPCR&dib=eyJ2IjoiMSJ9.L2Iazy4WUZORlUcgE9uJdzFlfMS9l4_O-gBS9Fs3MS1isbDNuwG9e7ZkY1ud2x2-FEAjOgXMaRCd0r6p3mjuquBoErycY390tgCBewujGsGqdWCfixnft2HfrWsj85_EH3V55-rFkGjXdRmvE6lo24FD-15A9d75y7rakunxEonjfjBGxvBJ-2YShJtx-jL7EDqfpfur6pyqD_KU0L9J8PpfA6eE2mSI71wSYL3uveM.Wf1FpVAMyUl_hspk3k7067-BJkbR7yjN150Y-q9M_Hw&dib_tag=se&keywords=sql+dennis&qid=1733688458&sprefix=sql+denn%2Caps%2C1954&sr=8-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-f
     columns: 1
