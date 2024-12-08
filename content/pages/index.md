@@ -336,10 +336,6 @@ sections:
           Applications
         subtitle: ''
         text: >
-          #### What You’ll Learn:
-
-
-          *   Design efficient, normalized databases.
 
 
           *   Optimize query performance with indexing and tuning.
