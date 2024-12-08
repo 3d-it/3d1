@@ -340,7 +340,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/sqlCover.jpg
-          altText: Item image
+          altText: Dennis Duke SQL Book
           caption: Caption of the image
           elementId: ''
         elementId: ''
