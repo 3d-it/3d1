@@ -17,7 +17,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/Resume-IT-2024-5-791x1024.png
+      url: /images/Resume IT 2024  (6).png
       altText: Hero image
     styles:
       self:
