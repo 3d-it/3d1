@@ -332,7 +332,7 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Item Title
+        title: 'SEO Made Easy: A Beginner’s Guide to Boosting Your Online Presence'
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
