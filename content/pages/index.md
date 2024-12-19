@@ -340,8 +340,7 @@ sections:
           explicabo.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/5160iui1A5L._SY466_.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
