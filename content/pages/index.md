@@ -341,7 +341,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/5160iui1A5L._SY466_.jpg
-          altText: Item image
+          altText: Search Engine Optimization Made Easy Book Cover
           caption: Caption of the image
           elementId: ''
         elementId: ''
