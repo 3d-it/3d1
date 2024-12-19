@@ -210,6 +210,38 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
+        title: 'SEO Made Easy: A Beginner’s Guide to Boosting Your Online Presence'
+        subtitle: ''
+        text: >
+          This book is an easy-to-follow guide to SEO, perfect for beginners. It
+          breaks down key topics like how search engines work, finding the right
+          keywords, and simple steps to improve your website. You'll learn
+          practical tips for on-page and off-page SEO, making your site
+          mobile-friendly, and reaching local audiences. With straightforward
+          advice and best practices, you'll discover how to track your progress
+          and boost your online presence effectively.
+        featuredImage:
+          type: ImageBlock
+          url: /images/5160iui1A5L._SY466_.jpg
+          altText: Search Engine Optimization Made Easy Book Cover
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/SEO-Made-Easy-Beginners-Boosting/dp/B0DQVB4KJ7/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.bJ6xQYsd12yHfu53HgbW95eIJ09PICk9AkeABbStzTWDCZp4VFzmtOwgiLQEQMiocgxTP-MfLw6s6G24fiAdpr9e1Hueiku5iZG4o1eDm4nVWxcxmTMJ1IEYpCj7fIg90hlLuzJu7fsH-6VUc92I0g.w4l7Om-wubcngRR1i_vXrmgnMjwOjNAE3KrxeGrBAjo&qid=1734631779&sr=8-2
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
         title: 'Mastering CSS: A Step-by-Step Guide to Professional Web Design'
         subtitle: ''
         text: "\"Mastering CSS: A Step-by-Step Guide to Professional Web Design\"\n\nTake your web design skills to the next level with\_Mastering CSS, the ultimate guide to creating stunning, responsive, and professional websites. Designed for both beginners and seasoned developers, this book covers everything you need to know about CSS—from foundational concepts to advanced techniques that set your designs apart.\n\nWhat You’ll Learn:\n\n*   Build Stunning Designs:\_Master CSS fundamentals to create visually captivating and professional web pages.\n\n*   Responsive Layouts:\_Learn how to design websites that adapt beautifully to any device, from desktops to smartphones.\n\n*   Advanced Techniques:\_Explore animations, transitions, CSS Grid, Flexbox, and more to enhance functionality and aesthetics.\n\n*   Dynamic Styling:\_Use CSS variables and best practices to write clean, scalable, and maintainable code.\n\n*   Hands-On Projects:\_Practice your skills with real-world examples and exercises, including a complete portfolio project.\n\nWhy This Book?\n\n*   Step-by-step tutorials make learning CSS approachable for all skill levels.\n\n*   Includes tips, tricks, and best practices used by professional developers.\n\n*   Packed with practical exercises and a capstone project to showcase your skills.\n\nWhether you’re just starting or refining your expertise,\_Mastering CSS\_is your ultimate resource for creating modern, professional, and responsive web designs. Get started today and build the websites you’ve always envisioned!\n\n\n\n"
@@ -326,38 +358,6 @@ sections:
             altText: ''
             url: >-
               https://www.amazon.com/SQL-Server-Simplified-Practical-Applications/dp/B0DPFHLZ2J/ref=sr_1_1?crid=1MV8OQMTNFPCR&dib=eyJ2IjoiMSJ9.L2Iazy4WUZORlUcgE9uJdzFlfMS9l4_O-gBS9Fs3MS1isbDNuwG9e7ZkY1ud2x2-FEAjOgXMaRCd0r6p3mjuquBoErycY390tgCBewujGsGqdWCfixnft2HfrWsj85_EH3V55-rFkGjXdRmvE6lo24FD-15A9d75y7rakunxEonjfjBGxvBJ-2YShJtx-jL7EDqfpfur6pyqD_KU0L9J8PpfA6eE2mSI71wSYL3uveM.Wf1FpVAMyUl_hspk3k7067-BJkbR7yjN150Y-q9M_Hw&dib_tag=se&keywords=sql+dennis&qid=1733688458&sprefix=sql+denn%2Caps%2C1954&sr=8-1
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - type: FeaturedItem
-        title: 'SEO Made Easy: A Beginner’s Guide to Boosting Your Online Presence'
-        subtitle: ''
-        text: >
-          This book is an easy-to-follow guide to SEO, perfect for beginners. It
-          breaks down key topics like how search engines work, finding the right
-          keywords, and simple steps to improve your website. You'll learn
-          practical tips for on-page and off-page SEO, making your site
-          mobile-friendly, and reaching local audiences. With straightforward
-          advice and best practices, you'll discover how to track your progress
-          and boost your online presence effectively.
-        featuredImage:
-          type: ImageBlock
-          url: /images/5160iui1A5L._SY466_.jpg
-          altText: Search Engine Optimization Made Easy Book Cover
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: ''
-            url: >-
-              https://www.amazon.com/SEO-Made-Easy-Beginners-Boosting/dp/B0DQVB4KJ7/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.bJ6xQYsd12yHfu53HgbW95eIJ09PICk9AkeABbStzTWDCZp4VFzmtOwgiLQEQMiocgxTP-MfLw6s6G24fiAdpr9e1Hueiku5iZG4o1eDm4nVWxcxmTMJ1IEYpCj7fIg90hlLuzJu7fsH-6VUc92I0g.w4l7Om-wubcngRR1i_vXrmgnMjwOjNAE3KrxeGrBAjo&qid=1734631779&sr=8-2
             showIcon: true
             icon: arrowRight
             iconPosition: right
