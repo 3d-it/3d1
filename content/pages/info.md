@@ -17,7 +17,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/Resume IT 2024  (7).png
+      url: /images/Resume IT Dec2024  (1).png
       altText: Dennis Duke Resume
     styles:
       self:
