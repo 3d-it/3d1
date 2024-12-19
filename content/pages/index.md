@@ -352,6 +352,17 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://www.amazon.com/SEO-Made-Easy-Beginners-Boosting/dp/B0DQVB4KJ7/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.bJ6xQYsd12yHfu53HgbW95eIJ09PICk9AkeABbStzTWDCZp4VFzmtOwgiLQEQMiocgxTP-MfLw6s6G24fiAdpr9e1Hueiku5iZG4o1eDm4nVWxcxmTMJ1IEYpCj7fIg90hlLuzJu7fsH-6VUc92I0g.w4l7Om-wubcngRR1i_vXrmgnMjwOjNAE3KrxeGrBAjo&qid=1734631779&sr=8-2
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-f
     columns: 1
