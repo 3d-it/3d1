@@ -11,7 +11,8 @@ excerpt: >-
   provides the perfect platform to showcase your voice without any cost.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/IYgiX_j4-1L2OFMKwE9MuiJvx7x4P5PFTcQr26PGfl0jiavdEmhm_JB-zozXZ9WTnfL9FvIZeUOpHty1kzm24G1asHvAehPdGjqDJ2Um2HYAIPxWHuNca2iHlH8V7UgkzktJJv6VQ9iVSA=s910.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
