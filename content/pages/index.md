@@ -399,6 +399,7 @@ sections:
       - content/pages/blog/create-free-website-netlify.md
       - content/pages/blog/how-to-purchase-a-domain.md
       - content/pages/blog/how-to-index-a-website-beginners-guide.md
+      - content/pages/blog/how-to-start-free-blogging-on-medium.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
