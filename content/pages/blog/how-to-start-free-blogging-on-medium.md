@@ -31,6 +31,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+author: content/data/team/dennis-duke.json
 ---
 Blogging has emerged as a powerful medium for sharing ideas, stories, and expertise. However, choosing the right platform to launch your blog without incurring costs can be a daunting task. Enter Medium — a premier platform that not only offers a seamless, cost-free experience but also provides all the tools you need to publish and grow your blog effortlessly. This guide will walk you through why Medium is the best free platform for blogging and how to get started on your publishing journey.
 
