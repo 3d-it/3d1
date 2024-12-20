@@ -3,8 +3,12 @@ type: PostLayout
 title: 'Start Blogging for Free: A Step-by-Step Guide to Publishing on Medium'
 date: '2024-12-19'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Start your blogging journey for free with Medium. This guide walks you through
+  setting up your Medium account, creating engaging posts with its easy-to-use
+  editor, and reaching a wide audience. Learn how to optimize your content for
+  better visibility and use Medium’s analytics to grow your blog. Whether you're
+  sharing personal stories, professional insights, or creative ideas, Medium
+  provides the perfect platform to showcase your voice without any cost.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
