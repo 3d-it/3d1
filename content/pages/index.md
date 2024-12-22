@@ -373,7 +373,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/dayTradeCover1.jpg
-          altText: Item image
+          altText: Day Trading book cover by Dennis Duke
           caption: Caption of the image
           elementId: ''
         elementId: ''
