@@ -15,7 +15,11 @@ media:
   type: ImageBlock
   url: /images/search-engine-optimization-7843974_1280.jpg
   altText: Post image
-  caption: Caption of the image
+  caption: >-
+    Image by <a
+    href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7843974">Gerd
+    Altmann</a> from <a
+    href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7843974">Pixabay</a>
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
