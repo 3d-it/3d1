@@ -242,6 +242,33 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
+        title: >-
+          Day Trading: Strategies for Success Using MACD, VWAP, RSI, and Top
+          Gainers
+        subtitle: ''
+        text: "What You’ll Learn:\n\n*   Trading Fundamentals:\_Understand technical indicators like MACD, VWAP, RSI, and more.\n\n*   Winning Strategies:\_Explore practical setups and techniques for day trading and swing trading.\n\n*   Risk Management Mastery:\_Protect your capital with proven tools and methods.\n\n*   The Psychology of Trading:\_Manage emotions, build discipline, and overcome psychological barriers.\n\n*   Leveraging Technology:\_Integrate AI, algorithmic trading, and data analytics to gain an edge.\n\n*   Ethical and Responsible Trading:\_Build a sustainable and impactful trading legacy.\n\n\nWhy This Book?\n\n*   Easy-to-follow guidance with real-world examples.\n\n*   Designed for all skill levels, from beginners to advanced traders.\n\n*   A focus on long-term success through discipline, resilience, and continual growth.\n\nStart your journey to trading mastery today. The markets are waiting for you!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/dayTradeCover1.jpg
+          altText: Day Trading book cover by Dennis Duke
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Day-Trading-Strategies-Success-Gainers/dp/B0DPXV7HRJ/ref=sr_1_1?crid=M5GVWTSWACJU&dib=eyJ2IjoiMSJ9.tD9DzxRvnHMZvTY8h08k1jIJRLKOh-l6JMfbUF0d_Ve0LU2u6IjMcAP06Px5Sltgw27OviYDNAPLL55fVuRO6Tm9JSfu6l8nX3Ws9itlpXw.RJ2fowPnL8XmOTw8_mKvNBxz_l-SfZK_D6_U6JiBB3o&dib_tag=se&keywords=day+trade+dennis+duke&qid=1734838277&sprefix=day+trade+denni%2Caps%2C2722&sr=8-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
         title: 'Mastering CSS: A Step-by-Step Guide to Professional Web Design'
         subtitle: ''
         text: "\"Mastering CSS: A Step-by-Step Guide to Professional Web Design\"\n\nTake your web design skills to the next level with\_Mastering CSS, the ultimate guide to creating stunning, responsive, and professional websites. Designed for both beginners and seasoned developers, this book covers everything you need to know about CSS—from foundational concepts to advanced techniques that set your designs apart.\n\nWhat You’ll Learn:\n\n*   Build Stunning Designs:\_Master CSS fundamentals to create visually captivating and professional web pages.\n\n*   Responsive Layouts:\_Learn how to design websites that adapt beautifully to any device, from desktops to smartphones.\n\n*   Advanced Techniques:\_Explore animations, transitions, CSS Grid, Flexbox, and more to enhance functionality and aesthetics.\n\n*   Dynamic Styling:\_Use CSS variables and best practices to write clean, scalable, and maintainable code.\n\n*   Hands-On Projects:\_Practice your skills with real-world examples and exercises, including a complete portfolio project.\n\nWhy This Book?\n\n*   Step-by-step tutorials make learning CSS approachable for all skill levels.\n\n*   Includes tips, tricks, and best practices used by professional developers.\n\n*   Packed with practical exercises and a capstone project to showcase your skills.\n\nWhether you’re just starting or refining your expertise,\_Mastering CSS\_is your ultimate resource for creating modern, professional, and responsive web designs. Get started today and build the websites you’ve always envisioned!\n\n\n\n"
@@ -358,33 +385,6 @@ sections:
             altText: ''
             url: >-
               https://www.amazon.com/Mastering-WordPress-Beginners-Step-Step/dp/B0DML87CVP/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.1-78oA715r_utuZclgPb75S8oemuLtfj9DT5T2oH_6hKV-txf3Wxq6i1BWkHexAezX8tTM2oawaAn9az5abgjFyod7qqLqB2wg12RjSEOK8SOv1gppvwIFKFjMq54DWTSE-bkAOmnxMyFy8jcEcR5A.0Zkp-6sOTrEIft5x_qfijJr9h3fLTxQBBbPUiFd2PuM&qid=1733289578&sr=8-1
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - type: FeaturedItem
-        title: >-
-          Day Trading: Strategies for Success Using MACD, VWAP, RSI, and Top
-          Gainers
-        subtitle: ''
-        text: "What You’ll Learn:\n\n*   Trading Fundamentals:\_Understand technical indicators like MACD, VWAP, RSI, and more.\n\n*   Winning Strategies:\_Explore practical setups and techniques for day trading and swing trading.\n\n*   Risk Management Mastery:\_Protect your capital with proven tools and methods.\n\n*   The Psychology of Trading:\_Manage emotions, build discipline, and overcome psychological barriers.\n\n*   Leveraging Technology:\_Integrate AI, algorithmic trading, and data analytics to gain an edge.\n\n*   Ethical and Responsible Trading:\_Build a sustainable and impactful trading legacy.\n\n\nWhy This Book?\n\n*   Easy-to-follow guidance with real-world examples.\n\n*   Designed for all skill levels, from beginners to advanced traders.\n\n*   A focus on long-term success through discipline, resilience, and continual growth.\n\nStart your journey to trading mastery today. The markets are waiting for you!\n\n\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: /images/dayTradeCover1.jpg
-          altText: Day Trading book cover by Dennis Duke
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: ''
-            url: >-
-              https://www.amazon.com/Day-Trading-Strategies-Success-Gainers/dp/B0DPXV7HRJ/ref=sr_1_1?crid=M5GVWTSWACJU&dib=eyJ2IjoiMSJ9.tD9DzxRvnHMZvTY8h08k1jIJRLKOh-l6JMfbUF0d_Ve0LU2u6IjMcAP06Px5Sltgw27OviYDNAPLL55fVuRO6Tm9JSfu6l8nX3Ws9itlpXw.RJ2fowPnL8XmOTw8_mKvNBxz_l-SfZK_D6_U6JiBB3o&dib_tag=se&keywords=day+trade+dennis+duke&qid=1734838277&sprefix=day+trade+denni%2Caps%2C2722&sr=8-1
             showIcon: true
             icon: arrowRight
             iconPosition: right
