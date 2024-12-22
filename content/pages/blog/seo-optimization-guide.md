@@ -895,6 +895,6 @@ Optimizing your existing website for SEO doesn't have to be overwhelming. By con
 
 Remember, SEO is a marathon, not a sprint. Stay patient, keep refining your strategies, and watch your website climb the search engine ranks.
 
-*Ready to take your website to the next level? Start implementing these SEO strategies today and enhance the full potential of your online presence!* Image by 
+*Ready to take your website to the next level? Start implementing these SEO strategies today and enhance the full potential of your online presence!* 
 
-Photo by Gerd Altmann from Pixabay
+Image by Gerd Altmann from Pixabay
