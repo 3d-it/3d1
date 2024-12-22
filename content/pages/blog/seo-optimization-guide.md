@@ -81,7 +81,7 @@ Utilize keyword research tools to find related keywords, their search volumes, a
 
 **Example:**
 
-Using [**Ubersuggest**](), enter the seed keyword "**lumber**." The tool might provide suggestions like:
+Using [**Ubersuggest**](https://neilpatel.com/ubersuggest/), enter the seed keyword "**lumber**." The tool might provide suggestions like:
 
 *   **Buy lumber online** (5,400 searches/month)
 
@@ -895,6 +895,6 @@ Optimizing your existing website for SEO doesn't have to be overwhelming. By con
 
 Remember, SEO is a marathon, not a sprint. Stay patient, keep refining your strategies, and watch your website climb the search engine ranks.
 
-*Ready to take your website to the next level? Start implementing these SEO strategies today and enhance the full potential of your online presence!* 
+*Ready to take your website to the next level? Start implementing these SEO strategies today and enhance the full potential of your online presence!*
 
 Image by Gerd Altmann from Pixabay
