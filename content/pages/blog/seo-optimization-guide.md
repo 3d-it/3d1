@@ -27,6 +27,7 @@ media:
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
+author: content/data/team/dennis-duke.json
 ---
 To truly succeed online, your website needs to be discoverable by your target audience. This is where **Search Engine Optimization (SEO)** comes into play. Whether you're a seasoned website owner or just getting started, optimizing your existing website for SEO can significantly boost your online presence, drive more traffic, and improve your rankings on search engine results pages (SERPs).
 
