@@ -366,10 +366,7 @@ sections:
       - type: FeaturedItem
         title: Item Title
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "What You’ll Learn:\n\n*   Trading Fundamentals:\_Understand technical indicators like MACD, VWAP, RSI, and more.\n\n*   Winning Strategies:\_Explore practical setups and techniques for day trading and swing trading.\n\n*   Risk Management Mastery:\_Protect your capital with proven tools and methods.\n\n*   The Psychology of Trading:\_Manage emotions, build discipline, and overcome psychological barriers.\n\n*   Leveraging Technology:\_Integrate AI, algorithmic trading, and data analytics to gain an edge.\n\n*   Ethical and Responsible Trading:\_Build a sustainable and impactful trading legacy.\n\n\nWhy This Book?\n\n*   Easy-to-follow guidance with real-world examples.\n\n*   Designed for all skill levels, from beginners to advanced traders.\n\n*   A focus on long-term success through discipline, resilience, and continual growth.\n\nStart your journey to trading mastery today. The markets are waiting for you!\n\n\n\n"
         featuredImage:
           type: ImageBlock
           url: /images/dayTradeCover1.jpg
