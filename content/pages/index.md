@@ -386,7 +386,7 @@ sections:
             altText: ''
             url: >-
               https://www.amazon.com/Day-Trading-Strategies-Success-Gainers/dp/B0DPXV7HRJ/ref=sr_1_1?crid=M5GVWTSWACJU&dib=eyJ2IjoiMSJ9.tD9DzxRvnHMZvTY8h08k1jIJRLKOh-l6JMfbUF0d_Ve0LU2u6IjMcAP06Px5Sltgw27OviYDNAPLL55fVuRO6Tm9JSfu6l8nX3Ws9itlpXw.RJ2fowPnL8XmOTw8_mKvNBxz_l-SfZK_D6_U6JiBB3o&dib_tag=se&keywords=day+trade+dennis+duke&qid=1734838277&sprefix=day+trade+denni%2Caps%2C2722&sr=8-1
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
