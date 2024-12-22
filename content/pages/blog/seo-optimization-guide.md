@@ -7,7 +7,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/search-engine-optimization-7843974_640.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
