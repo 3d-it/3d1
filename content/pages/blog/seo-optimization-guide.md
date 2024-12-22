@@ -727,13 +727,20 @@ Creating specialized content means developing content that targets specific keyw
 
 **Examples of Good vs. Bad Alt Text:**
 
-| **Image Description**                                      | **Good Alt Text**                                                      | **Bad Alt Text** |
-| ---------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------- |
-| A stack of sustainable oak lumber.                         | "Stack of sustainable oak lumber available from Timber Co."            | "Lumber"         |
-| Custom-milled maple table with intricate designs.          | "Custom-milled maple table with intricate carving designs"             | "Table"          |
-| Eco-friendly pine boards for construction projects.        | "Eco-friendly pine boards ideal for sustainable construction projects" | "Boards"         |
-| Hardwood flooring installation in a modern home.           | "Hardwood flooring installation in a modern eco-friendly home"         | "Flooring"       |
-| Customer review with an image of a delivered lumber order. | "Happy customer with delivered lumber order from Timber Co."           | "Customer"       |
+| **Image Description**                                      | **Alt Text Examples**                                                                                  |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| A stack of sustainable oak lumber.                         | **Bad:** "Lumber"
+**Good:** "Stack of sustainable oak lumber available from Timber Co."            |
+| Custom-milled maple table with intricate designs.          | **Bad:** "Table"
+**Good:** "Custom-milled maple table with intricate carving designs"              |
+| Eco-friendly pine boards for construction projects.        | **Bad:** "Boards"
+**Good:** "Eco-friendly pine boards ideal for sustainable construction projects" |
+| Hardwood flooring installation in a modern home.           | **Bad:** "Flooring"
+**Good:** "Hardwood flooring installation in a modern eco-friendly home"       |
+| Customer review with an image of a delivered lumber order. | **Bad:** "Customer"
+**Good:** "Happy customer with delivered lumber order from Timber Co."         |
+
+
 
 **Implementing Alt Text in Your Content:**
 
