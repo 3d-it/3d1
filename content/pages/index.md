@@ -397,7 +397,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/Learn To Code With HTML Book Cover By Dennis Duke.jpg
-          altText: Item image
+          altText: Learn To Code With HTML Book Cover By Dennis Duke
           caption: Caption of the image
           elementId: ''
         elementId: ''
