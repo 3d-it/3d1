@@ -393,10 +393,7 @@ sections:
       - type: FeaturedItem
         title: 'Learning to Code with HTML: A Comprehensive Guide for Beginners'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "What You’ll Learn:\n\n*   HTML Basics:\_Master the foundational structure of web pages.\n\n*   CSS Integration:\_Style your pages with modern CSS techniques.\n\n*   JavaScript Interaction:\_Bring your websites to life with interactivity.\n\n*   Responsive Design:\_Create sites that look great on any device.\n\n*   Best Practices:\_Learn how to write clean, efficient, and maintainable code.\n\nWith practical examples, hands-on exercises, and expert insights,\_Learning to Code with HTML\_equips you with the skills to start your web development journey confidently. Whether you're building your first portfolio or launching a personal project, this book is the perfect starting point!\n"
         featuredImage:
           type: ImageBlock
           url: >-
