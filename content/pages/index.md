@@ -406,7 +406,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: Buy on Amazon
             altText: ''
             url: >-
               https://www.amazon.com/dp/B0DR9H3PCT/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.cCkG_DZIoxiCJsBoXcJ72cG6wFYYWmpi5KOn-1EfLZiTG2euyebrmp8zoTxrQcqIk3DqTa78kBtovx6Fq9RphEPrv_NaY5g_Z8jHwd4dxDW4Ds8UyNcsRT0zPQ-9kTYAgaxjV9mswLgGltSzjF4V17NbryvdX4nFyS8j-16YCvcsbnXQGTkK2uUq3lNPV0-0rWaPLLJeJv8QIezBFuCrs5lHyP0sAcTR6wZRxNQ-m1s.GKSOkJiK-NUPtH-bZOIRPbYmePBqQfdBlnjzrNOofTk&qid=1734986706&sr=8-3
