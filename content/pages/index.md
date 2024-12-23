@@ -269,6 +269,31 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
+        title: 'Learning to Code with HTML: A Comprehensive Guide for Beginners'
+        subtitle: ''
+        text: "What You’ll Learn:\n\n*   HTML Basics:\_Master the foundational structure of web pages.\n\n*   CSS Integration:\_Style your pages with modern CSS techniques.\n\n*   JavaScript Interaction:\_Bring your websites to life with interactivity.\n\n*   Responsive Design:\_Create sites that look great on any device.\n\n*   Best Practices:\_Learn how to write clean, efficient, and maintainable code.\n\nWith practical examples, hands-on exercises, and expert insights,\_Learning to Code with HTML\_equips you with the skills to start your web development journey confidently. Whether you're building your first portfolio or launching a personal project, this book is the perfect starting point!\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/Learn To Code With HTML Book Cover By Dennis Duke.jpg
+          altText: Learning To Code With HTML Book Cover By Dennis Duke
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/dp/B0DR9H3PCT/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.cCkG_DZIoxiCJsBoXcJ72cG6wFYYWmpi5KOn-1EfLZiTG2euyebrmp8zoTxrQcqIk3DqTa78kBtovx6Fq9RphEPrv_NaY5g_Z8jHwd4dxDW4Ds8UyNcsRT0zPQ-9kTYAgaxjV9mswLgGltSzjF4V17NbryvdX4nFyS8j-16YCvcsbnXQGTkK2uUq3lNPV0-0rWaPLLJeJv8QIezBFuCrs5lHyP0sAcTR6wZRxNQ-m1s.GKSOkJiK-NUPtH-bZOIRPbYmePBqQfdBlnjzrNOofTk&qid=1734986706&sr=8-3
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
         title: 'Mastering CSS: A Step-by-Step Guide to Professional Web Design'
         subtitle: ''
         text: "\"Mastering CSS: A Step-by-Step Guide to Professional Web Design\"\n\nTake your web design skills to the next level with\_Mastering CSS, the ultimate guide to creating stunning, responsive, and professional websites. Designed for both beginners and seasoned developers, this book covers everything you need to know about CSS—from foundational concepts to advanced techniques that set your designs apart.\n\nWhat You’ll Learn:\n\n*   Build Stunning Designs:\_Master CSS fundamentals to create visually captivating and professional web pages.\n\n*   Responsive Layouts:\_Learn how to design websites that adapt beautifully to any device, from desktops to smartphones.\n\n*   Advanced Techniques:\_Explore animations, transitions, CSS Grid, Flexbox, and more to enhance functionality and aesthetics.\n\n*   Dynamic Styling:\_Use CSS variables and best practices to write clean, scalable, and maintainable code.\n\n*   Hands-On Projects:\_Practice your skills with real-world examples and exercises, including a complete portfolio project.\n\nWhy This Book?\n\n*   Step-by-step tutorials make learning CSS approachable for all skill levels.\n\n*   Includes tips, tricks, and best practices used by professional developers.\n\n*   Packed with practical exercises and a capstone project to showcase your skills.\n\nWhether you’re just starting or refining your expertise,\_Mastering CSS\_is your ultimate resource for creating modern, professional, and responsive web designs. Get started today and build the websites you’ve always envisioned!\n\n\n\n"
@@ -385,31 +410,6 @@ sections:
             altText: ''
             url: >-
               https://www.amazon.com/Mastering-WordPress-Beginners-Step-Step/dp/B0DML87CVP/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.1-78oA715r_utuZclgPb75S8oemuLtfj9DT5T2oH_6hKV-txf3Wxq6i1BWkHexAezX8tTM2oawaAn9az5abgjFyod7qqLqB2wg12RjSEOK8SOv1gppvwIFKFjMq54DWTSE-bkAOmnxMyFy8jcEcR5A.0Zkp-6sOTrEIft5x_qfijJr9h3fLTxQBBbPUiFd2PuM&qid=1733289578&sr=8-1
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - type: FeaturedItem
-        title: 'Learning to Code with HTML: A Comprehensive Guide for Beginners'
-        subtitle: ''
-        text: "What You’ll Learn:\n\n*   HTML Basics:\_Master the foundational structure of web pages.\n\n*   CSS Integration:\_Style your pages with modern CSS techniques.\n\n*   JavaScript Interaction:\_Bring your websites to life with interactivity.\n\n*   Responsive Design:\_Create sites that look great on any device.\n\n*   Best Practices:\_Learn how to write clean, efficient, and maintainable code.\n\nWith practical examples, hands-on exercises, and expert insights,\_Learning to Code with HTML\_equips you with the skills to start your web development journey confidently. Whether you're building your first portfolio or launching a personal project, this book is the perfect starting point!\n"
-        featuredImage:
-          type: ImageBlock
-          url: /images/Learn To Code With HTML Book Cover By Dennis Duke.jpg
-          altText: Learning To Code With HTML Book Cover By Dennis Duke
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: ''
-            url: >-
-              https://www.amazon.com/dp/B0DR9H3PCT/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.cCkG_DZIoxiCJsBoXcJ72cG6wFYYWmpi5KOn-1EfLZiTG2euyebrmp8zoTxrQcqIk3DqTa78kBtovx6Fq9RphEPrv_NaY5g_Z8jHwd4dxDW4Ds8UyNcsRT0zPQ-9kTYAgaxjV9mswLgGltSzjF4V17NbryvdX4nFyS8j-16YCvcsbnXQGTkK2uUq3lNPV0-0rWaPLLJeJv8QIezBFuCrs5lHyP0sAcTR6wZRxNQ-m1s.GKSOkJiK-NUPtH-bZOIRPbYmePBqQfdBlnjzrNOofTk&qid=1734986706&sr=8-3
             showIcon: true
             icon: arrowRight
             iconPosition: right
