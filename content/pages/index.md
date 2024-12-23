@@ -391,7 +391,7 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Item Title
+        title: 'Learning to Code with HTML: A Comprehensive Guide for Beginners'
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
