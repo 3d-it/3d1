@@ -10,7 +10,7 @@ excerpt: >-
   Trends through easy-to-follow, real-world examples.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/seoSnap.png
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
