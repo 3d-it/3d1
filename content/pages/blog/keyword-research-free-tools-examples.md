@@ -3,8 +3,11 @@ type: PostLayout
 title: Simple Examples to Illustrate Keyword Research Using Free Tools
 date: '2024-12-22'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Elevate your website’s visibility without spending a dime! "Keyword Research
+  Using Free Tools: Simple Examples," guides you through the essentials of
+  effective keyword research using only free resources. Discover how to pinpoint
+  the perfect keywords with tools like Ubersuggest, AnswerThePublic, and Google
+  Trends through easy-to-follow, real-world examples.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
