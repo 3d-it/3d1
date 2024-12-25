@@ -16,7 +16,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/seoSnap.png
+  url: /images/SEO blog hero.jpg
   altText: Post image
   caption: Caption of the image
   elementId: ''
