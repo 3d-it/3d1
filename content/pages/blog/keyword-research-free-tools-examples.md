@@ -10,7 +10,7 @@ excerpt: >-
   Trends through easy-to-follow, real-world examples.
 featuredImage:
   type: ImageBlock
-  url: /images/seoSnap.png
+  url: /images/SeoCover (1).jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
