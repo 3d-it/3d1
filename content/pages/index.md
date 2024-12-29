@@ -416,7 +416,9 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Item Title
+        title: >-
+          Stock Trading with Robinhood - Strategies for Success: Advanced Stock
+          Trading Strategies, Technical Analysis, and Risk Management
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
