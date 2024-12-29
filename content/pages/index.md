@@ -426,7 +426,7 @@ sections:
           url: >-
             /images/Stock Trading With RobinHood Strategies for Success by
             Dennis Duke book cover.jpg
-          altText: Item image
+          altText: Robinhood stock trading book cover
           caption: Caption of the image
           elementId: ''
         elementId: ''
