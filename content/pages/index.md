@@ -436,7 +436,7 @@ sections:
         actions:
           - type: Button
             label: Buy on Amazon
-            altText: ''
+            altText: Link to Amazon book by Dennis Duke
             url: >-
               https://www.amazon.com/dp/B0DRT92WVF/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.4mw7C6h126XjOdFv1LunUlZDkKM_lWTI-BVDZujO0gcRYSOe9irmObTo3nEZpPAIhXWHSjbCHqhppqgS_UnawJ2rJBtMMvQAEPZ1y31-2J189pqVqTaK2UyzTL82dX1XFSqZhOZcgHxahEND40OE4A.HRKoDUBMW7afsNRyRfQsXyy5011dZPeymGdLS8-Td4M&qid=1735508239&sr=8-1
             showIcon: true
