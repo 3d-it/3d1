@@ -210,6 +210,33 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
+        title: >-
+          Day Trading: Strategies for Success Using MACD, VWAP, RSI, and Top
+          Gainers
+        subtitle: ''
+        text: "What You’ll Learn:\n\n*   Trading Fundamentals:\_Understand technical indicators like MACD, VWAP, RSI, and more.\n\n*   Winning Strategies:\_Explore practical setups and techniques for day trading and swing trading.\n\n*   Risk Management Mastery:\_Protect your capital with proven tools and methods.\n\n*   The Psychology of Trading:\_Manage emotions, build discipline, and overcome psychological barriers.\n\n*   Leveraging Technology:\_Integrate AI, algorithmic trading, and data analytics to gain an edge.\n\n*   Ethical and Responsible Trading:\_Build a sustainable and impactful trading legacy.\n\n\nWhy This Book?\n\n*   Easy-to-follow guidance with real-world examples.\n\n*   Designed for all skill levels, from beginners to advanced traders.\n\n*   A focus on long-term success through discipline, resilience, and continual growth.\n\nStart your journey to trading mastery today. The markets are waiting for you!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/dayTradeCover1.jpg
+          altText: Day Trading book cover by Dennis Duke
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Day-Trading-Strategies-Success-Gainers/dp/B0DPXV7HRJ/ref=sr_1_1?crid=M5GVWTSWACJU&dib=eyJ2IjoiMSJ9.tD9DzxRvnHMZvTY8h08k1jIJRLKOh-l6JMfbUF0d_Ve0LU2u6IjMcAP06Px5Sltgw27OviYDNAPLL55fVuRO6Tm9JSfu6l8nX3Ws9itlpXw.RJ2fowPnL8XmOTw8_mKvNBxz_l-SfZK_D6_U6JiBB3o&dib_tag=se&keywords=day+trade+dennis+duke&qid=1734838277&sprefix=day+trade+denni%2Caps%2C2722&sr=8-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
         title: 'SEO Made Easy: A Beginner’s Guide to Boosting Your Online Presence'
         subtitle: ''
         text: >
@@ -236,33 +263,6 @@ sections:
             altText: ''
             url: >-
               https://www.amazon.com/SEO-Made-Easy-Beginners-Boosting/dp/B0DQVB4KJ7/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.bJ6xQYsd12yHfu53HgbW95eIJ09PICk9AkeABbStzTWDCZp4VFzmtOwgiLQEQMiocgxTP-MfLw6s6G24fiAdpr9e1Hueiku5iZG4o1eDm4nVWxcxmTMJ1IEYpCj7fIg90hlLuzJu7fsH-6VUc92I0g.w4l7Om-wubcngRR1i_vXrmgnMjwOjNAE3KrxeGrBAjo&qid=1734631779&sr=8-2
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - type: FeaturedItem
-        title: >-
-          Day Trading: Strategies for Success Using MACD, VWAP, RSI, and Top
-          Gainers
-        subtitle: ''
-        text: "What You’ll Learn:\n\n*   Trading Fundamentals:\_Understand technical indicators like MACD, VWAP, RSI, and more.\n\n*   Winning Strategies:\_Explore practical setups and techniques for day trading and swing trading.\n\n*   Risk Management Mastery:\_Protect your capital with proven tools and methods.\n\n*   The Psychology of Trading:\_Manage emotions, build discipline, and overcome psychological barriers.\n\n*   Leveraging Technology:\_Integrate AI, algorithmic trading, and data analytics to gain an edge.\n\n*   Ethical and Responsible Trading:\_Build a sustainable and impactful trading legacy.\n\n\nWhy This Book?\n\n*   Easy-to-follow guidance with real-world examples.\n\n*   Designed for all skill levels, from beginners to advanced traders.\n\n*   A focus on long-term success through discipline, resilience, and continual growth.\n\nStart your journey to trading mastery today. The markets are waiting for you!\n\n\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: /images/dayTradeCover1.jpg
-          altText: Day Trading book cover by Dennis Duke
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: ''
-            url: >-
-              https://www.amazon.com/Day-Trading-Strategies-Success-Gainers/dp/B0DPXV7HRJ/ref=sr_1_1?crid=M5GVWTSWACJU&dib=eyJ2IjoiMSJ9.tD9DzxRvnHMZvTY8h08k1jIJRLKOh-l6JMfbUF0d_Ve0LU2u6IjMcAP06Px5Sltgw27OviYDNAPLL55fVuRO6Tm9JSfu6l8nX3Ws9itlpXw.RJ2fowPnL8XmOTw8_mKvNBxz_l-SfZK_D6_U6JiBB3o&dib_tag=se&keywords=day+trade+dennis+duke&qid=1734838277&sprefix=day+trade+denni%2Caps%2C2722&sr=8-1
             showIcon: true
             icon: arrowRight
             iconPosition: right
