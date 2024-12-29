@@ -424,7 +424,8 @@ sections:
         featuredImage:
           type: ImageBlock
           url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+            /images/Stock Trading With RobinHood Strategies for Success by
+            Dennis Duke book cover.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
