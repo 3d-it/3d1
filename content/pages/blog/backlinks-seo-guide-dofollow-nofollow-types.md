@@ -14,7 +14,7 @@ excerpt: >-
   backlink strategy today and watch your website climb the search results!
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/seoPicByPixabay.png
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
