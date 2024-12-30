@@ -33,6 +33,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+author: content/data/team/dennis-duke.json
 ---
 In the dynamic world of search engine optimization (SEO), backlinks continue to play a pivotal role in determining your website's authority and visibility. However, not all backlinks are created equal. To craft an effective SEO strategy, it's essential to understand the various types of backlinks, including the crucial distinction between dofollow and nofollow links. In this comprehensive guide, you'll explore the different kinds of backlinks, identify the best ones for SEO, and discover actionable strategies to acquire them.
 

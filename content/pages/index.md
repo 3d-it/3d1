@@ -478,6 +478,7 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/create-free-website-netlify.md
+      - content/pages/blog/backlinks-seo-guide-dofollow-nofollow-types.md
       - content/pages/blog/keyword-research-free-tools-examples.md
       - content/pages/blog/how-to-purchase-a-domain.md
       - content/pages/blog/how-to-index-a-website-beginners-guide.md
