@@ -14,7 +14,7 @@ excerpt: >-
   backlink strategy today and watch your website climb the search results!
 featuredImage:
   type: ImageBlock
-  url: /images/seoPicByPixabay.png
+  url: /images/link image.png
   altText: Seo pic courtesy of PixaBay
   caption: Caption of the image
   elementId: ''
