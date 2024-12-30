@@ -14,8 +14,8 @@ excerpt: >-
   backlink strategy today and watch your website climb the search results!
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  url: /images/seoPicByPixabay.png
+  altText: Seo pic courtesy of PixaBay
   caption: Caption of the image
   elementId: ''
 media:
@@ -34,8 +34,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-# Backlinks: Guide to SEO-Friendly Links and Their Impact
-
 In the dynamic world of search engine optimization (SEO), backlinks continue to play a pivotal role in determining your website's authority and visibility. However, not all backlinks are created equal. To craft an effective SEO strategy, it's essential to understand the various types of backlinks, including the crucial distinction between dofollow and nofollow links. In this comprehensive guide, you'll explore the different kinds of backlinks, identify the best ones for SEO, and discover actionable strategies to acquire them.
 
 ## What Are Backlinks?
