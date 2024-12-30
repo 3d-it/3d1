@@ -15,7 +15,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/seoPicByPixabay.png
-  altText: Post thumbnail image
+  altText: Seo pic courtesy of PixaBay
   caption: Caption of the image
   elementId: ''
 media:
