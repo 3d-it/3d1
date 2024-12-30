@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/backlinks-7791387_1280.jpg
-  altText: Post image
+  altText: Image illustrating backlink connections
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
