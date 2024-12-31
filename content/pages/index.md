@@ -445,7 +445,10 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Item Title
+        title: >-
+          Music Theory A Comprehensive Guide: Complete Guide from Fundamentals
+          to Advanced Harmony, Composition & Contemporary Techniques with
+          Practical Exercises and Applications
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
