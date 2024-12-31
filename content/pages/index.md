@@ -101,6 +101,100 @@ sections:
     title: Books Published
     items:
       - type: FeaturedItem
+        title: >-
+          Music Theory A Comprehensive Guide: Complete Guide from Fundamentals
+          to Advanced Harmony, Composition & Contemporary Techniques with
+          Practical Exercises and Applications
+        subtitle: ''
+        text: |+
+          What You'll Discover Inside:
+
+          *   Foundational Concepts:
+
+              *   Master music notation, including staff, clefs, and key signatures.
+
+              *   Understand scales and modes for versatile melodies and harmonies.
+
+          *   Intervals and Chords:
+
+              *   Identify and construct intervals, triads, and seventh chords.
+
+              *   Explore extended and altered chords for added depth.
+
+          *   Harmony and Progressions:
+
+              *   Grasp functional harmony and common chord progressions.
+
+              *   Apply voice leading principles for smooth transitions.
+
+          *   Melody and Counterpoint:
+
+              *   Craft compelling melodies and develop musical motives.
+
+              *   Integrate counterpoint techniques for harmonious interplay.
+
+          *   Advanced Harmonic Concepts:
+
+              *   Dive into secondary dominants, Neapolitan chords, and augmented sixth chords.
+
+              *   Explore chromatic harmony, polychords, and quartal harmony.
+
+          *   Form and Structure:
+
+              *   Analyze and compose using binary, ternary, rondo, and sonata-allegro forms.
+
+              *   Understand contemporary structures like verse-chorus and through-composed forms.
+
+          *   Applied Music Theory:
+
+              *   Enhance arranging and orchestration with practical examples.
+
+              *   Develop composition techniques and improvisation fundamentals.
+
+          *   Contemporary Topics:
+
+              *   Explore jazz harmony, pop and rock theory, electronic and experimental music.
+
+              *   Gain insights into cross-cultural musical systems.
+
+          *   Practical Exercises and Applications:
+
+              *   Reinforce learning with targeted exercises in each chapter.
+
+              *   Apply concepts to real-world scenarios in composition, arrangement, and performance.
+
+          *   Comprehensive Resources:
+
+              *   Utilize an extensive glossary of key terms for quick reference.
+
+              *   Access curated listening recommendations and further reading materials.
+
+              *   Explore online resources and tools to support your continued study.
+
+
+
+        featuredImage:
+          type: ImageBlock
+          url: /images/Music Theory by Dennis Duke book cover.jpg
+          altText: Music Theory by Dennis Duke book cover
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: Link to buy books by Dennis Duke
+            url: >-
+              https://www.amazon.com/dp/B0DRXRFV9C/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.WYtoS3Y3sdNSTW8-6--6Ejgbnx5EELun8cMo33p1isHIm2F5SiydOex5zi4tpTjMNZ4mfsFgC2bHLWGcBcy7zCYaeWqLytkdy0yQ5IEw4ExwZ_tZzAqbCNaFIF-2m5VKl310669CaeMgDeIu1KJ-2cK4pA6spjUXjXaWbsfXqOhUPRCr3Oh8yBAkaXcExhQYMcBV2YDwJkAfH47Yt2wYbX0k8d1xIm20njwnIFSOxRY.s2wRTZKMazQaNIx2Y1ZrMAhs6tq8n7gJaK8Qp135Wks&qid=1735625736&sr=8-18
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
         title: An Easy Guide to Creating a Shopify Website
         subtitle: ''
         text: "A Step-by-Step Handbook for Building and Launching Your Online Store\n\n*An Easy Guide to Creating a Shopify Website*\_is your go-to resource for building, launching, and growing a successful online store. Perfect for beginners and small business owners, this step-by-step guide covers everything from setup and customization to marketing and sales strategies. Packed with practical tips and clear instructions, this book empowers you to create a Shopify store that attracts, engages, and converts customers. Start your e-commerce journey with confidence and bring your business to life online!\n\n\n\n"
