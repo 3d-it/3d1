@@ -530,7 +530,7 @@ sections:
         actions:
           - type: Button
             label: Buy on Amazon
-            altText: ''
+            altText: Link to buy books by Dennis Duke
             url: >-
               https://www.amazon.com/dp/B0DRXRFV9C/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.WYtoS3Y3sdNSTW8-6--6Ejgbnx5EELun8cMo33p1isHIm2F5SiydOex5zi4tpTjMNZ4mfsFgC2bHLWGcBcy7zCYaeWqLytkdy0yQ5IEw4ExwZ_tZzAqbCNaFIF-2m5VKl310669CaeMgDeIu1KJ-2cK4pA6spjUXjXaWbsfXqOhUPRCr3Oh8yBAkaXcExhQYMcBV2YDwJkAfH47Yt2wYbX0k8d1xIm20njwnIFSOxRY.s2wRTZKMazQaNIx2Y1ZrMAhs6tq8n7gJaK8Qp135Wks&qid=1735625736&sr=8-18
             showIcon: false
