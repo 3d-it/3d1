@@ -520,7 +520,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/Music Theory by Dennis Duke book cover.jpg
-          altText: Item image
+          altText: Music Theory by Dennis Duke book cover
           caption: Caption of the image
           elementId: ''
         elementId: ''
