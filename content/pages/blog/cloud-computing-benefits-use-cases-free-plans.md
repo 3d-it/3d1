@@ -13,7 +13,7 @@ excerpt: >-
   services tailored to your needs. Click the link to read more.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/cloud computing ai image.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
