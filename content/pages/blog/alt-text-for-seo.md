@@ -10,7 +10,7 @@ excerpt: >-
   your site. Don't miss out on this essential SEO tactic! Read More
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/alt text image.png
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
