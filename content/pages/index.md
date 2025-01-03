@@ -578,6 +578,7 @@ sections:
       - content/pages/blog/how-to-index-a-website-beginners-guide.md
       - content/pages/blog/how-to-start-free-blogging-on-medium.md
       - content/pages/blog/seo-optimization-guide.md
+      - content/pages/blog/cloud-computing-benefits-use-cases-free-plans.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
