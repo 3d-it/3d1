@@ -3,8 +3,11 @@ type: PostLayout
 title: 'Alt Text for SEO: A Deeper Dive'
 date: '2025-01-02'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Discover how optimizing your alt text can elevate your website's search engine
+  rankings and enhance user experience. Dive into this in-depth guide to learn
+  actionable strategies, best practices, and expert tips that will help you
+  harness the full potential of alt text for driving more organic traffic to
+  your site. Don't miss out on this essential SEO tactic! Read More
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
