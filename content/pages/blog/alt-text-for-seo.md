@@ -11,7 +11,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/alt text image.png
-  altText: Post thumbnail image
+  altText: Alternative text seo picture
   caption: Caption of the image
   elementId: ''
 media:
