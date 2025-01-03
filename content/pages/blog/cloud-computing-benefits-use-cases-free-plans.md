@@ -14,7 +14,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/cloud computing ai image.jpg
-  altText: Post thumbnail image
+  altText: Cloud computing AI Image
   caption: Caption of the image
   elementId: ''
 media:
