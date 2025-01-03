@@ -15,7 +15,11 @@ media:
   type: ImageBlock
   url: /images/cloud computing ai image.jpg
   altText: Cloud Computing AI Image
-  caption: Caption of the image
+  caption: >-
+    Image by <a
+    href="https://pixabay.com/users/brianpenny-29844978/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8533603">Brian
+    Penny</a> from <a
+    href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8533603">Pixabay</a>
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
