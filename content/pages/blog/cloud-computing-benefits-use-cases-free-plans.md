@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/cloud computing ai image.jpg
-  altText: Post image
+  altText: Cloud Computing AI Image
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
