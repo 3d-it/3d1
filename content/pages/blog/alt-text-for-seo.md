@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/alt text image.png
-  altText: Post image
+  altText: Alt text for medium.com blog
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
