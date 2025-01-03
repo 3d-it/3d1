@@ -165,10 +165,6 @@ Including screenshots or diagrams that showcase examples of effective and ineffe
 
 2.  **Diagram of Image SEO Workflow:**
 
-
-
-
-
     *Caption:* A diagram illustrating the steps of optimizing images for SEO, from alt text creation to indexing.
 
 ## Conclusion and Call to Action
@@ -179,13 +175,13 @@ Optimizing your alt text is a simple yet effective way to boost your website's S
 
 For further reading and tools to help you write and optimize alt text, consider the following resources:
 
-*   [Google's Guide on Image SEO]()
+*   [Google's Guide on Image SEO](https://developers.google.com/search/docs/appearance/google-images)
 
-*   [W3C Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/alt-text/)
-
-*   [Yoast SEO Plugin]()
+*   [Yoast SEO Plugin](https://yoast.com/wordpress/plugins/seo/)
 
 *   [Rank Math SEO Plugin](https://rankmath.com/)
 
 *   [Accessibility Checker Tools](https://www.w3.org/WAI/ER/tools/)
+
+If you enjoyed this blog you can read more of my blogs related to alt text for SEO and other things by *clicking* [*here*](https://3d-it.net/blog/)
 
