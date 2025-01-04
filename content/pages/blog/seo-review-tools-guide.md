@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/12252154_3203.jpg
-  altText: Post image
+  altText: SEO Review Blog header image
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
