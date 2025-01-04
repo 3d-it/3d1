@@ -17,7 +17,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/12252154_3203.jpg
-  altText: Post thumbnail image
+  altText: SEO blog image
   caption: Caption of the image
   elementId: ''
 media:
