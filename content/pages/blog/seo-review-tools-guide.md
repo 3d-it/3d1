@@ -16,7 +16,7 @@ excerpt: >-
   indispensable tools at your fingertips. Read more
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/12252154_3203.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
