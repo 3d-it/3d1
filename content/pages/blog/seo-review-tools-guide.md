@@ -18,7 +18,7 @@ featuredImage:
   type: ImageBlock
   url: /images/12252154_3203.jpg
   altText: SEO blog image
-  caption: Caption of the image
+  caption: Image by FreePik
   elementId: ''
 media:
   type: ImageBlock
