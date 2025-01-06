@@ -571,6 +571,7 @@ sections:
         label: See all posts
         url: /blog
     posts:
+      - content/pages/blog/seo-review-tools-guide.md
       - content/pages/blog/create-free-website-netlify.md
       - content/pages/blog/backlinks-seo-guide-dofollow-nofollow-types.md
       - content/pages/blog/keyword-research-free-tools-examples.md
@@ -579,7 +580,6 @@ sections:
       - content/pages/blog/how-to-start-free-blogging-on-medium.md
       - content/pages/blog/seo-optimization-guide.md
       - content/pages/blog/cloud-computing-benefits-use-cases-free-plans.md
-      - content/pages/blog/seo-review-tools-guide.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
