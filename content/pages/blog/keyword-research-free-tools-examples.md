@@ -265,6 +265,6 @@ Embrace these free tools and methodologies to build a robust keyword strategy th
 
 Extra tip: 68 Free SEO tools at [seoreviewtools.com](https://www.seoreviewtools.com/)
 
-Check out these free SEO tools at the link provided above. If you want to learn more about [seoreviewtools.com](https://seoreviewtools.com) and see examples of how to use their tools, visit my page titled [SEO Review Tools: Free Tools For SEO](https://3d-it.net/blog/seo-review-tools-guide/).
+Check out these free SEO tools at the link provided above. If you want to learn more about using these SEO tools and see examples of how they are used, visit my page titled [SEO Review Tools: Free Tools For SEO](https://3d-it.net/blog/seo-review-tools-guide/).
 
-![](/images/Seo%20review%20tools.png)
+![Dashboard view of SEO Review Tools showing keyword Free SEO Tools available](/images/Seo%20review%20tools.png)
