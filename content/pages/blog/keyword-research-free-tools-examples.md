@@ -28,6 +28,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+author: content/data/team/dennis-duke.json
 ---
 Understanding keyword research becomes much easier when you see it in action. Below are simple, step-by-step examples that demonstrate how to conduct keyword research using only free tools. These scenarios will help you apply effective strategies without incurring any costs.
 
