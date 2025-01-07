@@ -45,8 +45,6 @@ Before diving into optimization, it's crucial to understand where your website c
 
 *   **Analyze Site Speed:** Use [Google PageSpeed Insights](https://pagespeed.web.dev/?utm_source=psi\&utm_medium=redirect) to evaluate and improve your website’s loading times.
 
-*   **Review Mobile-Friendliness:** Ensure your site is mobile-friendly by testing it on different devices or using Google's [Mobile-Friendly Test]() tool.
-
 ### Example
 
 Suppose you discover through Google Search Console that several pages are returning 404 errors. Fixing these broken links by setting up proper 301 redirects can enhance user experience and retain SEO value.
