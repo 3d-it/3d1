@@ -72,7 +72,7 @@ Understanding keyword research becomes much easier when you see it in action. Be
 
 **Steps:**
 
-1.  **Visit Ubersuggest:** Go to [Ubersuggest]() and enter your seed keyword, e.g., "urban gardening."
+1.  **Visit Ubersuggest:** Go to [Ubersuggest](https://neilpatel.com/ubersuggest/) and enter your seed keyword, e.g., "urban gardening."
 
 2.  **Generate Suggestions:** Ubersuggest provides a list of related keyword ideas along with search volume and SEO difficulty.
 
@@ -188,7 +188,7 @@ Understanding keyword research becomes much easier when you see it in action. Be
 
 **Steps:**
 
-1.  **Set Up Google Search Console:** If you haven't already, add your website to [Google Search Console]().
+1.  **Set Up Google Search Console:** If you haven't already, add your website to [Google Search Console](https://search.google.com/search-console/about).
 
 2.  **Monitor Performance:**
 
