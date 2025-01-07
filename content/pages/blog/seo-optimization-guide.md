@@ -39,11 +39,11 @@ Before diving into optimization, it's crucial to understand where your website c
 
 ### How to Perform an SEO Audit
 
-*   **Use SEO Tools:** Utilize tools like [Google Analytics](https://analytics.google.com/), [Google Search Console](), [SEMrush](https://www.semrush.com/), or [Ahrefs](https://ahrefs.com/) to gather data on your website’s performance.
+*   **Use SEO Tools:** Utilize tools like [Google Analytics](https://analytics.google.com/), [Google Search Console](https://search.google.com/search-console/about), [SEMrush](https://www.semrush.com/), or [Ahrefs](https://ahrefs.com/) to gather data on your website’s performance.
 
 *   **Check for Crawl Errors:** In Google Search Console, navigate to the "Coverage" report to identify any crawl errors that might prevent search engines from indexing your pages.
 
-*   **Analyze Site Speed:** Use [Google PageSpeed Insights]() to evaluate and improve your website’s loading times.
+*   **Analyze Site Speed:** Use [Google PageSpeed Insights](https://pagespeed.web.dev/?utm_source=psi\&utm_medium=redirect) to evaluate and improve your website’s loading times.
 
 *   **Review Mobile-Friendliness:** Ensure your site is mobile-friendly by testing it on different devices or using Google's [Mobile-Friendly Test]() tool.
 
@@ -919,4 +919,4 @@ Remember, SEO is a marathon, not a sprint. Stay patient, keep refining your stra
 
 *Ready to take your website to the next level? Start implementing these SEO strategies today and enhance the full potential of your online presence!*
 
-Image by Gerd Altmann from Pixabay
+Image by Gerd Altmann from [Pixabay](https://pixabay.com/)
