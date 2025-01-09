@@ -183,5 +183,4 @@ For further reading and tools to help you write and optimize alt text, consider 
 
 *   [Accessibility Checker Tools](https://www.w3.org/WAI/ER/tools/)
 
-If you enjoyed this blog you can read more of my blogs related to alt text for SEO and other things by *clicking* [*here*](https://3d-it.net/blog/)
-
+If you enjoyed this blog you click the link to read more about [Page Title SEO](https://medium.com/@dennis_39505/page-title-seo-a-cornerstone-of-on-page-optimization-381bd7665b2c)
