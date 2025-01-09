@@ -608,4 +608,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+metaDescription: >-
+  Find useful resources for websites, SEO, and development at 3D-IT.net. Explore
+  tips, tools, and insights to build, optimize, and enhance your online presence
+  and more.
 ---
