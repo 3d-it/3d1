@@ -2,9 +2,7 @@
 type: PostLayout
 title: How to Create a Website from Start to Finish
 date: '2025-01-09'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Complete guide on how to create a website from start to finish.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
