@@ -24,6 +24,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+author: content/data/team/dennis-duke.json
 ---
 Creating a website can seem daunting, but with a clear plan and the right tools, you can bring your vision to life. Whether you're building a personal blog, an online store, or a portfolio, this step-by-step guide will help you navigate the process from start to finish. By the time you finish reading this you will have a complete website up and running.
 
