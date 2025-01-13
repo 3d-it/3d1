@@ -5,7 +5,7 @@ date: '2025-01-09'
 excerpt: Complete guide on how to create a website from start to finish.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/seth-schwiet-WB3ujiKLJwQ-unsplash.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
