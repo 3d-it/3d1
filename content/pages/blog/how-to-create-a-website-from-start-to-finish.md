@@ -6,7 +6,7 @@ excerpt: Complete guide on how to create a website from start to finish.
 featuredImage:
   type: ImageBlock
   url: /images/seth-schwiet-WB3ujiKLJwQ-unsplash.jpg
-  altText: Post thumbnail image
+  altText: Thumbnail image for creating a website
   caption: Caption of the image
   elementId: ''
 media:
