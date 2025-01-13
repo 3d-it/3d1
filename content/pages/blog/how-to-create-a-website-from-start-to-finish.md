@@ -12,7 +12,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/gallery-3.jpg
-  altText: Post image
+  altText: Image for creating a website blog
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
