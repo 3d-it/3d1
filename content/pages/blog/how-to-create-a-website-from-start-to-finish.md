@@ -11,9 +11,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: >-
-    /images/Stock Trading With RobinHood Strategies for Success by Dennis Duke
-    book cover.jpg
+  url: /images/gallery-3.jpg
   altText: Post image
   caption: Caption of the image
   elementId: ''
