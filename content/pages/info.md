@@ -13,11 +13,11 @@ sections:
     colors: colors-a
     backgroundSize: full
     text: |+
-      ## Resume
+      ## About
 
     media:
       type: ImageBlock
-      url: /images/Resume IT Dec2024  (1).png
+      url: /images/RctINFORMATION-TECHNOLOGY-3D-IT-LOGO.png
       altText: Dennis Duke Resume
     styles:
       self:
