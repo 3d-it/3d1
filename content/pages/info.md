@@ -13,7 +13,7 @@ sections:
     colors: colors-a
     backgroundSize: full
     text: |+
-      ## Resume
+      ## About
 
     media:
       type: ImageBlock
