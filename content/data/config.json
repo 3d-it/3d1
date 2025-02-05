@@ -91,10 +91,10 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "760-992-2972",
-            "phoneAltText": "Call Dennis at 760-992-2972",
-            "email": "dennis@3d-it.net",
-            "emailAltText": "Email Dennis at dennis@3d-it.net",
+            "phoneNumber": "",
+            "phoneAltText": "",
+            "email": "",
+            "emailAltText": "",
             "address": "Yucca Valley, Ca",
             "addressAltText": "Find Dennis in Yucca Valley, Ca"
         },
