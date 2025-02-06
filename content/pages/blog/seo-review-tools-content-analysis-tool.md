@@ -8,7 +8,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/seo-review-tools-ai-writer.png
-  altText: Post thumbnail image
+  altText: SEO Review Tools AI Content Generator
   caption: Caption of the image
   elementId: ''
 media:
