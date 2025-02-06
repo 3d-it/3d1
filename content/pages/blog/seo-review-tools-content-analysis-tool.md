@@ -3,8 +3,13 @@ type: PostLayout
 title: Free On-Page SEO with the SEO Review Tools Content Analysis Tool
 date: '2025-02-05'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Optimize Your Content with SEO Review Tools - Enhance your SEO strategy with
+  the SEO Review Tools Content Analysis Tool. This powerful tool provides
+  keyword optimization, readability analysis, and metadata evaluation, helping
+  you create content that ranks higher on Google while engaging your audience.
+  Improve search visibility, boost click-through rates (CTR), and ensure your
+  content is SEO-friendly. Start optimizing today and stay ahead in the digital
+  landscape!
 featuredImage:
   type: ImageBlock
   url: /images/seo-review-tools-ai-writer.png
