@@ -9,7 +9,7 @@ featuredImage:
   type: ImageBlock
   url: /images/seo-review-tools-ai-writer.png
   altText: SEO Review Tools AI Content Generator
-  caption: Caption of the image
+  caption: SEO Review Tools AI Content Generator
   elementId: ''
 media:
   type: ImageBlock
