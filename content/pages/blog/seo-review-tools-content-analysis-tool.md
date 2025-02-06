@@ -31,6 +31,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+author: content/data/team/dennis-duke.json
 ---
 In the ever-evolving digital landscape, **search engine optimization (SEO)** is a fundamental component of any successful online strategy. Ensuring that your content is optimized for **search engines** while maintaining readability for users can be challenging. This is where the [**SEO Review Tools Content Analysis Tool**]() becomes an invaluable asset.
 
