@@ -14,7 +14,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/seo-review-tools-content-analysis-tool.png
-  altText: Post image
+  altText: SEO Review Tool Content Analysis Tool
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
