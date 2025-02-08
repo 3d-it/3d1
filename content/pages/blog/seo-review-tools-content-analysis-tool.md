@@ -76,6 +76,8 @@ Using the tool is simple and efficient:
 
 5.  Make necessary edits and **re-run the analysis** to achieve an optimized score.
 
+![SEO keyword optimization tool interface showing input field for focus keyword, keyword finder button, and options to add related keywords. Google preview section visible below.](/images/seo-review-tools-content-analysis-keyword.png)
+
 ## Why You Should Use This Tool for Your SEO Strategy
 
 ### **1. Boosts Search Engine Rankings**
