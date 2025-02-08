@@ -118,6 +118,8 @@ If you’re using a CMS like WordPress:
 
 If coding, use HTML, CSS, and JavaScript to build your site from scratch.
 
+![Two professionals working in a modern open office space with wooden desks, computers, and exposed brick walls, creating a productive and collaborative work environment. They are working on a approach on how to create a website.](/images/Modern%20Workspace%20with%20Professionals%20Collaborating%20on%20creating%20a%20website%20in%20an%20Open%20Office.jpg)
+
 #### Step 8: Add Content
 
 Content is the backbone of your website. Focus on:
@@ -167,3 +169,6 @@ Stay updated with industry trends to keep your website fresh and competitive.
 ### Conclusion
 
 Building a website from start to finish involves careful planning, creative design, and consistent effort. By following these steps, you’ll create a website that not only looks great but also serves your goals effectively. Start today and turn your ideas into a powerful online presence! Good luck on your website building journey and thanks for reading this guide on how to create a website from start to finish.
+
+Photo by [*Proxyclick*](https://www.pexels.com/search/computers/) Visitor Management System
+
