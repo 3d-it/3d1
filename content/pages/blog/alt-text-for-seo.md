@@ -31,6 +31,7 @@ backgroundImage:
   opacity: 100
 author: content/data/team/dennis-duke.json
 metaDescription: Learn how to optimize alt text for images to boost your websites SEO.
+metaTags: []
 ---
 Alt text isn't just about accessibility; it's a crucial SEO tactic. In this comprehensive guide, we'll explore how optimizing your alt text can significantly boost your search engine rankings and enhance user experience.
 
@@ -119,6 +120,8 @@ Long-tail keywords, which are more specific phrases, can help target niche searc
 ### Analyze Image Search Results
 
 Research the top-ranking images for your target keywords. Analyze their alt text to understand what's working well and how you can apply similar strategies to your own content.
+
+![Example of alt text usage for a Medium.com blog post, featuring a DevOps and IT operations illustration with an infinity loop and automation elements.](/images/photo-showing-alt-text-for-netlify-image.png)
 
 ## Best Practices for Writing Effective Alt Text
 
