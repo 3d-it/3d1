@@ -157,6 +157,8 @@ Before diving into the types of backlinks, it's essential to grasp the differenc
 
 *   **Include Links Naturally:** When appropriate, link to your content to support your contributions without appearing spammy.
 
+![Close-up of HTML code displayed on a computer screen, highlighting a dofollow link and button role, representing web development and coding concepts.](/images/html-code-dofollow-link-on-computer-screen.jpg)
+
 ### 8. **Directory Backlinks**
 
 **What They Are:** These backlinks come from online directories that list websites by category.
