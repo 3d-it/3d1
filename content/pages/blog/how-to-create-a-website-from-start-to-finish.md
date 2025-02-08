@@ -118,6 +118,8 @@ If you’re using a CMS like WordPress:
 
 If coding, use HTML, CSS, and JavaScript to build your site from scratch.
 
+![Two professionals working in a modern open office space with wooden desks, computers, and exposed brick walls, creating a productive and collaborative work environment. They are working on a approach on how to create a website.](/images/Modern%20Workspace%20with%20Professionals%20Collaborating%20on%20creating%20a%20website%20in%20an%20Open%20Office.jpg)
+
 #### Step 8: Add Content
 
 Content is the backbone of your website. Focus on:
