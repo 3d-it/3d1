@@ -31,10 +31,7 @@ backgroundImage:
   opacity: 100
 author: content/data/team/dennis-duke.json
 metaDescription: Learn how to optimize alt text for images to boost your websites SEO.
-metaTags:
-  - type: MetaTag
-    property: 'og:title'
-    content: ''
+metaTags: []
 ---
 Alt text isn't just about accessibility; it's a crucial SEO tactic. In this comprehensive guide, we'll explore how optimizing your alt text can significantly boost your search engine rankings and enhance user experience.
 
