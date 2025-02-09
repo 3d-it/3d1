@@ -46,6 +46,35 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
+          Stock Trading with Robinhood - Strategies for Success: Advanced Stock
+          Trading Strategies, Technical Analysis, and Risk Management
+        subtitle: ''
+        text: "Inside This Book, You'll Discover How To:\n\n*   Implement Advanced Trading Strategies:\_Learn sophisticated techniques like options trading, short selling, and algorithmic trading to maximize your profits.\n\n*   Master Technical Analysis:\_Utilize powerful tools and indicators such as Moving Averages, RSI, MACD, and Bollinger Bands to make informed trading decisions.\n\n*   Effectively Manage Risk:\_Protect your investments with proven risk management strategies, including position sizing, stop-loss orders, and portfolio diversification.\n\n*   Build a Comprehensive Trading Plan:\_Develop a structured and disciplined approach tailored to your financial goals and risk tolerance.\n\n*   Leverage Robinhood’s Features:\_Take full advantage of Robinhood’s customizable watchlists, automated alerts, advanced order types, and portfolio analytics to enhance your trading efficiency.\n\n*   Avoid Common Trading Pitfalls:\_Gain insights into the most frequent mistakes traders make and learn how to steer clear of them for sustained success.\n\n*   Stay Ahead with Continuous Learning:\_Embrace a growth mindset and keep up with the latest market trends and trading technologies to stay competitive.\n\nWhy Choose\_Stock Trading with Robinhood?\n\n*   Practical Insights:\_Real-world examples and case studies that illustrate effective trading strategies.\n\n*   Expert Guidance:\_Step-by-step instructions to navigate and utilize Robinhood’s powerful trading tools.\n\n*   Comprehensive Coverage:\_From foundational principles to cutting-edge trading techniques, all in one place.\n\n*   Easy to Follow:\_Clear explanations and actionable tips make complex concepts accessible to traders of all levels.\n\nTransform your trading approach, enhance your market understanding, and achieve your financial goals with the strategies and knowledge found in\_Stock Trading with Robinhood. Start your journey to stock market success today!\n\nGrab your copy now and take the first step towards mastering stock trading with Robinhood!\n"
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            /images/Stock Trading With RobinHood Strategies for Success by
+            Dennis Duke book cover.jpg
+          altText: Robinhood stock trading book cover
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: Link to Amazon book by Dennis Duke
+            url: >-
+              https://www.amazon.com/dp/B0DRT92WVF/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.4mw7C6h126XjOdFv1LunUlZDkKM_lWTI-BVDZujO0gcRYSOe9irmObTo3nEZpPAIhXWHSjbCHqhppqgS_UnawJ2rJBtMMvQAEPZ1y31-2J189pqVqTaK2UyzTL82dX1XFSqZhOZcgHxahEND40OE4A.HRKoDUBMW7afsNRyRfQsXyy5011dZPeymGdLS8-Td4M&qid=1735508239&sr=8-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: >-
           Music Theory A Comprehensive Guide: Complete Guide from Fundamentals
           to Advanced Harmony, Composition & Contemporary Techniques with
           Practical Exercises and Applications
@@ -133,35 +162,6 @@ sections:
             altText: Link to buy books by Dennis Duke
             url: >-
               https://www.amazon.com/dp/B0DRXRFV9C/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.WYtoS3Y3sdNSTW8-6--6Ejgbnx5EELun8cMo33p1isHIm2F5SiydOex5zi4tpTjMNZ4mfsFgC2bHLWGcBcy7zCYaeWqLytkdy0yQ5IEw4ExwZ_tZzAqbCNaFIF-2m5VKl310669CaeMgDeIu1KJ-2cK4pA6spjUXjXaWbsfXqOhUPRCr3Oh8yBAkaXcExhQYMcBV2YDwJkAfH47Yt2wYbX0k8d1xIm20njwnIFSOxRY.s2wRTZKMazQaNIx2Y1ZrMAhs6tq8n7gJaK8Qp135Wks&qid=1735625736&sr=8-18
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - type: FeaturedItem
-        title: >-
-          Stock Trading with Robinhood - Strategies for Success: Advanced Stock
-          Trading Strategies, Technical Analysis, and Risk Management
-        subtitle: ''
-        text: "Inside This Book, You'll Discover How To:\n\n*   Implement Advanced Trading Strategies:\_Learn sophisticated techniques like options trading, short selling, and algorithmic trading to maximize your profits.\n\n*   Master Technical Analysis:\_Utilize powerful tools and indicators such as Moving Averages, RSI, MACD, and Bollinger Bands to make informed trading decisions.\n\n*   Effectively Manage Risk:\_Protect your investments with proven risk management strategies, including position sizing, stop-loss orders, and portfolio diversification.\n\n*   Build a Comprehensive Trading Plan:\_Develop a structured and disciplined approach tailored to your financial goals and risk tolerance.\n\n*   Leverage Robinhood’s Features:\_Take full advantage of Robinhood’s customizable watchlists, automated alerts, advanced order types, and portfolio analytics to enhance your trading efficiency.\n\n*   Avoid Common Trading Pitfalls:\_Gain insights into the most frequent mistakes traders make and learn how to steer clear of them for sustained success.\n\n*   Stay Ahead with Continuous Learning:\_Embrace a growth mindset and keep up with the latest market trends and trading technologies to stay competitive.\n\nWhy Choose\_Stock Trading with Robinhood?\n\n*   Practical Insights:\_Real-world examples and case studies that illustrate effective trading strategies.\n\n*   Expert Guidance:\_Step-by-step instructions to navigate and utilize Robinhood’s powerful trading tools.\n\n*   Comprehensive Coverage:\_From foundational principles to cutting-edge trading techniques, all in one place.\n\n*   Easy to Follow:\_Clear explanations and actionable tips make complex concepts accessible to traders of all levels.\n\nTransform your trading approach, enhance your market understanding, and achieve your financial goals with the strategies and knowledge found in\_Stock Trading with Robinhood. Start your journey to stock market success today!\n\nGrab your copy now and take the first step towards mastering stock trading with Robinhood!\n"
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            /images/Stock Trading With RobinHood Strategies for Success by
-            Dennis Duke book cover.jpg
-          altText: Robinhood stock trading book cover
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: Link to Amazon book by Dennis Duke
-            url: >-
-              https://www.amazon.com/dp/B0DRT92WVF/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.4mw7C6h126XjOdFv1LunUlZDkKM_lWTI-BVDZujO0gcRYSOe9irmObTo3nEZpPAIhXWHSjbCHqhppqgS_UnawJ2rJBtMMvQAEPZ1y31-2J189pqVqTaK2UyzTL82dX1XFSqZhOZcgHxahEND40OE4A.HRKoDUBMW7afsNRyRfQsXyy5011dZPeymGdLS8-Td4M&qid=1735508239&sr=8-1
             showIcon: true
             icon: arrowRight
             iconPosition: right
