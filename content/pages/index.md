@@ -155,62 +155,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
-  - type: MediaGallerySection
-    title: Education
-    subtitle: Certifications
-    images:
-      - type: ImageBlock
-        url: /images/asDegree.png
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Alison-ITSM (1).png
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/WDAlison_Certificate-4065-30146722-1.png
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/Certificate-for-Costco-Toshiba-1.png
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/alisonFoundationalMarketingConcepts-1.jpg
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
-        url: >-
-          /images/Certificate-for-Ulta-HP-Engage-One-Pro-AIO-System-2_page-0001.jpg
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-    colors: colors-f
-    spacing: 16
-    columns: 4
-    aspectRatio: '4:3'
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: FeaturedItemsSection
     title: Books Published
     items:
@@ -674,6 +618,62 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: MediaGallerySection
+    title: Education
+    subtitle: Certifications
+    images:
+      - type: ImageBlock
+        url: /images/asDegree.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Alison-ITSM (1).png
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/WDAlison_Certificate-4065-30146722-1.png
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Certificate-for-Costco-Toshiba-1.png
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/alisonFoundationalMarketingConcepts-1.jpg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          /images/Certificate-for-Ulta-HP-Engage-One-Pro-AIO-System-2_page-0001.jpg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-a
