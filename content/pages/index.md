@@ -194,33 +194,6 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: >-
-          Code Smart with JavaScript: Build Fast, Flexible, and Scalable
-          Applications
-        subtitle: ''
-        text: "If you’re new to coding and want to learn JavaScript,\_\"Code Smart with JavaScript: Build Fast, Flexible, and Scalable Applications\"\_is the perfect starting point. This beginner-friendly guide simplifies JavaScript concepts and takes you step-by-step through the essentials, helping you build confidence and practical skills as you go.\n\nWhat You’ll Learn:\n\n*   JavaScript Basics: Understand variables, functions, and control structures in an easy-to-follow format.\n\n*   Interactive Web Development: Learn how to add dynamic elements to web pages with DOM manipulation.\n\n*   Asynchronous JavaScript: Discover how to handle data and make your apps more responsive using promises and async/await.\n\n*   Reusable Code: Start organizing your programs with simple object-oriented techniques.\n\n*   Debugging and Testing: Learn how to fix errors and ensure your code runs smoothly.\n\n*   Building a Real Project: Create your first complete application—a To-Do List—to apply everything you’ve learned.\n\nWhy This Book Is Perfect for Beginners:\n\n*   No prior coding experience needed—concepts are explained in plain language.\n\n*   Hands-on examples and exercises reinforce your learning.\n\n*   Includes practical tips to avoid common beginner mistakes.\n\n*   Real-world projects to help you build confidence and see the results of your code.\n\nWhat You’ll Achieve:\n\n*   Write your first lines of JavaScript with confidence.\n\n*   Understand how JavaScript powers interactive websites.\n\n*   Build a solid foundation to take your coding skills to the next level.\n\nTake your first step into the world of programming with JavaScript!\_Whether you’re a complete beginner or just starting out with web development, this book will guide you every step of the way.\n\nStart building with JavaScript today!\n\n\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: /images/jsBookCover.jpg
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: ''
-            url: >-
-              https://www.amazon.com/Code-Smart-JavaScript-Flexible-Applications/dp/B0DPDQH23X/ref=sr_1_4?crid=1XYZM66KIN9KM&dib=eyJ2IjoiMSJ9.6ageksP9fqSUz0xhM33dMDQMtT1ncl4stq3CWO02pVUPVn-jaUAjJlkR1hgP2DIHVEPq9sZYJRqxCXKnRGEB4F4qTiT_E140TlQ59ZIU1sle-wCOb2bybQ84EjXfPd9JzKCaI9h6UMCHR4lGPnrV27qqMmjes6CyXeaNnNa-a-uDh1S7GzY3kd_5pJlY_oED.TeI1NPqD0Ur9v0Ko0hyHDlAk64vLaHiGxramACdyszg&dib_tag=se&keywords=javascript+dennis&qid=1733288965&sprefix=javascrip+dennis%2Caps%2C1255&sr=8-4
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-      - type: FeaturedItem
-        title: >-
           Day Trading: Strategies for Success Using MACD, VWAP, RSI, and Top
           Gainers
         subtitle: ''
@@ -241,6 +214,33 @@ sections:
             altText: ''
             url: >-
               https://www.amazon.com/Day-Trading-Strategies-Success-Gainers/dp/B0DPXV7HRJ/ref=sr_1_1?crid=M5GVWTSWACJU&dib=eyJ2IjoiMSJ9.tD9DzxRvnHMZvTY8h08k1jIJRLKOh-l6JMfbUF0d_Ve0LU2u6IjMcAP06Px5Sltgw27OviYDNAPLL55fVuRO6Tm9JSfu6l8nX3Ws9itlpXw.RJ2fowPnL8XmOTw8_mKvNBxz_l-SfZK_D6_U6JiBB3o&dib_tag=se&keywords=day+trade+dennis+duke&qid=1734838277&sprefix=day+trade+denni%2Caps%2C2722&sr=8-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: >-
+          Code Smart with JavaScript: Build Fast, Flexible, and Scalable
+          Applications
+        subtitle: ''
+        text: "If you’re new to coding and want to learn JavaScript,\_\"Code Smart with JavaScript: Build Fast, Flexible, and Scalable Applications\"\_is the perfect starting point. This beginner-friendly guide simplifies JavaScript concepts and takes you step-by-step through the essentials, helping you build confidence and practical skills as you go.\n\nWhat You’ll Learn:\n\n*   JavaScript Basics: Understand variables, functions, and control structures in an easy-to-follow format.\n\n*   Interactive Web Development: Learn how to add dynamic elements to web pages with DOM manipulation.\n\n*   Asynchronous JavaScript: Discover how to handle data and make your apps more responsive using promises and async/await.\n\n*   Reusable Code: Start organizing your programs with simple object-oriented techniques.\n\n*   Debugging and Testing: Learn how to fix errors and ensure your code runs smoothly.\n\n*   Building a Real Project: Create your first complete application—a To-Do List—to apply everything you’ve learned.\n\nWhy This Book Is Perfect for Beginners:\n\n*   No prior coding experience needed—concepts are explained in plain language.\n\n*   Hands-on examples and exercises reinforce your learning.\n\n*   Includes practical tips to avoid common beginner mistakes.\n\n*   Real-world projects to help you build confidence and see the results of your code.\n\nWhat You’ll Achieve:\n\n*   Write your first lines of JavaScript with confidence.\n\n*   Understand how JavaScript powers interactive websites.\n\n*   Build a solid foundation to take your coding skills to the next level.\n\nTake your first step into the world of programming with JavaScript!\_Whether you’re a complete beginner or just starting out with web development, this book will guide you every step of the way.\n\nStart building with JavaScript today!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/jsBookCover.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Code-Smart-JavaScript-Flexible-Applications/dp/B0DPDQH23X/ref=sr_1_4?crid=1XYZM66KIN9KM&dib=eyJ2IjoiMSJ9.6ageksP9fqSUz0xhM33dMDQMtT1ncl4stq3CWO02pVUPVn-jaUAjJlkR1hgP2DIHVEPq9sZYJRqxCXKnRGEB4F4qTiT_E140TlQ59ZIU1sle-wCOb2bybQ84EjXfPd9JzKCaI9h6UMCHR4lGPnrV27qqMmjes6CyXeaNnNa-a-uDh1S7GzY3kd_5pJlY_oED.TeI1NPqD0Ur9v0Ko0hyHDlAk64vLaHiGxramACdyszg&dib_tag=se&keywords=javascript+dennis&qid=1733288965&sprefix=javascrip+dennis%2Caps%2C1255&sr=8-4
             showIcon: true
             icon: arrowRight
             iconPosition: right
