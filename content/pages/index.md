@@ -75,6 +75,33 @@ sections:
             elementId: ''
       - type: FeaturedItem
         title: >-
+          Day Trading: Strategies for Success Using MACD, VWAP, RSI, and Top
+          Gainers
+        subtitle: ''
+        text: "What You’ll Learn:\n\n*   Trading Fundamentals:\_Understand technical indicators like MACD, VWAP, RSI, and more.\n\n*   Winning Strategies:\_Explore practical setups and techniques for day trading and swing trading.\n\n*   Risk Management Mastery:\_Protect your capital with proven tools and methods.\n\n*   The Psychology of Trading:\_Manage emotions, build discipline, and overcome psychological barriers.\n\n*   Leveraging Technology:\_Integrate AI, algorithmic trading, and data analytics to gain an edge.\n\n*   Ethical and Responsible Trading:\_Build a sustainable and impactful trading legacy.\n\n\nWhy This Book?\n\n*   Easy-to-follow guidance with real-world examples.\n\n*   Designed for all skill levels, from beginners to advanced traders.\n\n*   A focus on long-term success through discipline, resilience, and continual growth.\n\nStart your journey to trading mastery today. The markets are waiting for you!\n\n\n\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/dayTradeCover1.jpg
+          altText: Day Trading book cover by Dennis Duke
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: ''
+            url: >-
+              https://www.amazon.com/Day-Trading-Strategies-Success-Gainers/dp/B0DPXV7HRJ/ref=sr_1_1?crid=M5GVWTSWACJU&dib=eyJ2IjoiMSJ9.tD9DzxRvnHMZvTY8h08k1jIJRLKOh-l6JMfbUF0d_Ve0LU2u6IjMcAP06Px5Sltgw27OviYDNAPLL55fVuRO6Tm9JSfu6l8nX3Ws9itlpXw.RJ2fowPnL8XmOTw8_mKvNBxz_l-SfZK_D6_U6JiBB3o&dib_tag=se&keywords=day+trade+dennis+duke&qid=1734838277&sprefix=day+trade+denni%2Caps%2C2722&sr=8-1
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: >-
           Music Theory A Comprehensive Guide: Complete Guide from Fundamentals
           to Advanced Harmony, Composition & Contemporary Techniques with
           Practical Exercises and Applications
@@ -192,33 +219,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: >-
-          Day Trading: Strategies for Success Using MACD, VWAP, RSI, and Top
-          Gainers
-        subtitle: ''
-        text: "What You’ll Learn:\n\n*   Trading Fundamentals:\_Understand technical indicators like MACD, VWAP, RSI, and more.\n\n*   Winning Strategies:\_Explore practical setups and techniques for day trading and swing trading.\n\n*   Risk Management Mastery:\_Protect your capital with proven tools and methods.\n\n*   The Psychology of Trading:\_Manage emotions, build discipline, and overcome psychological barriers.\n\n*   Leveraging Technology:\_Integrate AI, algorithmic trading, and data analytics to gain an edge.\n\n*   Ethical and Responsible Trading:\_Build a sustainable and impactful trading legacy.\n\n\nWhy This Book?\n\n*   Easy-to-follow guidance with real-world examples.\n\n*   Designed for all skill levels, from beginners to advanced traders.\n\n*   A focus on long-term success through discipline, resilience, and continual growth.\n\nStart your journey to trading mastery today. The markets are waiting for you!\n\n\n\n"
-        featuredImage:
-          type: ImageBlock
-          url: /images/dayTradeCover1.jpg
-          altText: Day Trading book cover by Dennis Duke
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-        actions:
-          - type: Button
-            label: Buy on Amazon
-            altText: ''
-            url: >-
-              https://www.amazon.com/Day-Trading-Strategies-Success-Gainers/dp/B0DPXV7HRJ/ref=sr_1_1?crid=M5GVWTSWACJU&dib=eyJ2IjoiMSJ9.tD9DzxRvnHMZvTY8h08k1jIJRLKOh-l6JMfbUF0d_Ve0LU2u6IjMcAP06Px5Sltgw27OviYDNAPLL55fVuRO6Tm9JSfu6l8nX3Ws9itlpXw.RJ2fowPnL8XmOTw8_mKvNBxz_l-SfZK_D6_U6JiBB3o&dib_tag=se&keywords=day+trade+dennis+duke&qid=1734838277&sprefix=day+trade+denni%2Caps%2C2722&sr=8-1
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
       - type: FeaturedItem
         title: >-
           Code Smart with JavaScript: Build Fast, Flexible, and Scalable
