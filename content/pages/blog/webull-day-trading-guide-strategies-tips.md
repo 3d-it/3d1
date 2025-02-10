@@ -12,7 +12,9 @@ featuredImage:
     Close-up of a stock market chart with candlestick patterns and price
     fluctuations on a trading platform, ideal for Webull day trading and
     technical analysis.
-  caption: Caption of the image
+  caption: >-
+    Photo by energepic.com:
+    https://www.pexels.com/photo/close-up-photo-of-monitor-159888/
   elementId: ''
 media:
   type: ImageBlock
