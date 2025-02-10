@@ -28,8 +28,8 @@ media:
     portfolio displayed on a smartphone, perfect representation of Webull day
     trading and mobile investing.
   caption: >-
-    Photo by Anna Nekrashevich:
-    https://www.pexels.com/photo/person-holding-mug-and-mobile-phone-6802052/
+    Photo by Alesia  Kozik:
+    https://www.pexels.com/photo/a-person-using-a-laptop-6781008/
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
