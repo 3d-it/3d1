@@ -7,7 +7,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/line-graph-displaying-stock-prices.jpg
   altText: >-
     Close-up of a stock market chart with candlestick patterns and price
     fluctuations on a trading platform, ideal for Webull day trading and
