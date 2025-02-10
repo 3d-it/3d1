@@ -24,9 +24,9 @@ media:
   type: ImageBlock
   url: /images/stock-market-displayed-on-screen-of-laptop-and-mobil-device.jpg
   altText: >-
-    Trader analyzing stock market charts on a smartphone and laptop while
-    holding a cup of coffee – perfect representation of Webull day trading and
-    mobile investing.
+    Trader analyzing stock market charts on a laptop with a cryptocurrency
+    portfolio displayed on a smartphone, perfect representation of Webull day
+    trading and mobile investing.
   caption: >-
     Photo by Anna Nekrashevich:
     https://www.pexels.com/photo/person-holding-mug-and-mobile-phone-6802052/
