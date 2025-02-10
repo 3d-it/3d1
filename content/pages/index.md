@@ -573,10 +573,10 @@ sections:
     posts:
       - content/pages/blog/seo-review-tools-guide.md
       - content/pages/blog/create-free-website-netlify.md
+      - content/pages/blog/webull-day-trading-guide-strategies-tips.md
       - content/pages/blog/backlinks-seo-guide-dofollow-nofollow-types.md
       - content/pages/blog/keyword-research-free-tools-examples.md
       - content/pages/blog/how-to-purchase-a-domain.md
-      - content/pages/blog/webull-day-trading-guide-strategies-tips.md
       - content/pages/blog/how-to-index-a-website-beginners-guide.md
       - content/pages/blog/how-to-start-free-blogging-on-medium.md
       - content/pages/blog/seo-optimization-guide.md
