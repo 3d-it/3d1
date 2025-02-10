@@ -571,8 +571,8 @@ sections:
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/create-free-website-netlify.md
       - content/pages/blog/webull-day-trading-guide-strategies-tips.md
+      - content/pages/blog/create-free-website-netlify.md
       - content/pages/blog/seo-review-tools-guide.md
       - content/pages/blog/backlinks-seo-guide-dofollow-nofollow-types.md
       - content/pages/blog/keyword-research-free-tools-examples.md
