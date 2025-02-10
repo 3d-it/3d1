@@ -99,3 +99,6 @@ To succeed in **Webull day trading**, managing risk is just as important as find
 Are you ready to start your **Webull day trading** journey? You can sign up here - [Webull.com](https://www.webull.com/)
 
 *Disclaimer: Trading stocks and other securities involves significant risk and is not suitable for all investors. The information provided in this article is for educational purposes only and should not be considered financial advice. Always conduct your own research and consult with a licensed financial professional before making any investment decisions. I am not affiliated with Webull I just like their platform for trading.*
+
+Photo by [Burak The Weekender](https://www.pexels.com/photo/graphs-display-on-an-ipad-187041/)
+
