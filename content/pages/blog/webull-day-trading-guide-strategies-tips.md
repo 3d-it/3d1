@@ -8,7 +8,10 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: >-
+    Close-up of a stock market chart with candlestick patterns and price
+    fluctuations on a trading platform, ideal for Webull day trading and
+    technical analysis.
   caption: Caption of the image
   elementId: ''
 media:
