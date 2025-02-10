@@ -22,7 +22,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: /images/stock-market-graph-displayed-on-mobile-device-and-on-laptop.jpg
+  url: /images/stock-market-displayed-on-screen-of-laptop-and-mobil-device.jpg
   altText: >-
     Trader analyzing stock market charts on a smartphone and laptop while
     holding a cup of coffee – perfect representation of Webull day trading and
