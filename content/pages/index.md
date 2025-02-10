@@ -504,6 +504,56 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: FeaturedPostsSection
+    elementId: ''
+    colors: colors-a
+    variant: variant-d
+    subtitle: Featured Posts
+    showFeaturedImage: false
+    actions:
+      - type: Link
+        label: See all posts
+        url: /blog
+    posts:
+      - content/pages/blog/webull-day-trading-guide-strategies-tips.md
+      - content/pages/blog/create-free-website-netlify.md
+      - content/pages/blog/seo-review-tools-guide.md
+      - content/pages/blog/backlinks-seo-guide-dofollow-nofollow-types.md
+      - content/pages/blog/keyword-research-free-tools-examples.md
+      - content/pages/blog/how-to-purchase-a-domain.md
+      - content/pages/blog/how-to-index-a-website-beginners-guide.md
+      - content/pages/blog/how-to-start-free-blogging-on-medium.md
+      - content/pages/blog/seo-optimization-guide.md
+      - content/pages/blog/cloud-computing-benefits-use-cases-free-plans.md
+      - content/pages/blog/how-to-create-a-website-from-start-to-finish.md
+    showDate: true
+    showExcerpt: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-end
   - type: MediaGallerySection
     title: Education
     subtitle: Certifications
@@ -560,56 +610,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-a
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-    posts:
-      - content/pages/blog/webull-day-trading-guide-strategies-tips.md
-      - content/pages/blog/create-free-website-netlify.md
-      - content/pages/blog/seo-review-tools-guide.md
-      - content/pages/blog/backlinks-seo-guide-dofollow-nofollow-types.md
-      - content/pages/blog/keyword-research-free-tools-examples.md
-      - content/pages/blog/how-to-purchase-a-domain.md
-      - content/pages/blog/how-to-index-a-website-beginners-guide.md
-      - content/pages/blog/how-to-start-free-blogging-on-medium.md
-      - content/pages/blog/seo-optimization-guide.md
-      - content/pages/blog/cloud-computing-benefits-use-cases-free-plans.md
-      - content/pages/blog/how-to-create-a-website-from-start-to-finish.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
 metaDescription: >-
   Find useful resources for websites, SEO, and development at 3D-IT.net. Explore
   tips, tools, and insights to build, optimize, and enhance your online presence
