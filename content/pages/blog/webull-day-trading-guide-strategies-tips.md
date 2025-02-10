@@ -14,7 +14,10 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/stock-market-graph-displayed-on-mobile-device-and-on-laptop.jpg
-  altText: Post image
+  altText: >-
+    Trader analyzing stock market charts on a smartphone and laptop while
+    holding a cup of coffee – perfect representation of Webull day trading and
+    mobile investing.
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
