@@ -19,9 +19,8 @@ media:
     holding a cup of coffee – perfect representation of Webull day trading and
     mobile investing.
   caption: >-
-    Trader analyzing stock market charts on a smartphone and laptop while
-    holding a cup of coffee – perfect representation of Webull day trading and
-    mobile investing.
+    Photo by Anna Nekrashevich:
+    https://www.pexels.com/photo/person-holding-mug-and-mobile-phone-6802052/
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
