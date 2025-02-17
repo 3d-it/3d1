@@ -4,7 +4,7 @@ title: 'Start Blogging for Free: A Step-by-Step Guide How to Start A Blog On Med
 date: '2024-12-19'
 excerpt: >-
   Start your blogging journey for free with Medium. This guide walks you through
-  setting up your Medium account, creating engaging posts with its easy-to-use
+  how to start a blog on Medium, creating engaging posts with its easy-to-use
   editor, and reaching a wide audience. Learn how to optimize your content for
   better visibility and use Medium’s analytics to grow your blog. Whether you're
   sharing personal stories, professional insights, or creative ideas, Medium
