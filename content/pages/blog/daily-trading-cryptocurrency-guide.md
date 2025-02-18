@@ -12,7 +12,7 @@ excerpt: >-
   strategy and increase your understanding in the crypto space.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/golden-stack-of-bitcoin-symbolizing-daily-trading-cryptocurrency.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
