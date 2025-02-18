@@ -14,7 +14,9 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/daily-trading-cryptocurrency.jpg
-  altText: Post image
+  altText: >-
+    Bitcoin, Ethereum, and Ripple coins with a microSD card on a dark
+    background, representing digital assets and cryptocurrency trading.
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
