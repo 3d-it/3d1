@@ -14,7 +14,7 @@ featuredImage:
   type: ImageBlock
   url: /images/golden-stack-of-bitcoin-symbolizing-daily-trading-cryptocurrency.jpg
   altText: Golden-stack-of-Bitcoins-that-are-symbolizing-daily-trading-cryptocurrency
-  caption: Caption of the image
+  caption: Image by Pexels
   elementId: ''
 media:
   type: ImageBlock
