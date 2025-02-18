@@ -526,6 +526,7 @@ sections:
       - content/pages/blog/seo-optimization-guide.md
       - content/pages/blog/cloud-computing-benefits-use-cases-free-plans.md
       - content/pages/blog/how-to-create-a-website-from-start-to-finish.md
+      - content/pages/blog/daily-trading-cryptocurrency-guide.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
