@@ -17,7 +17,9 @@ media:
   altText: >-
     Bitcoin, Ethereum, and Ripple coins with a microSD card on a dark
     background, representing digital assets and daily trading cryptocurrency.
-  caption: Caption of the image
+  caption: >-
+    Bitcoin, Ethereum, and Ripple – leading cryptocurrencies in daily trading
+    cryptocurrency, symbolizing digital finance and blockchain technology.
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
