@@ -9,7 +9,8 @@ excerpt: >-
   avoid restrictions, and start trading smarter today.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/broker-looking-laptop-analyzing-stock-market-invest-trading-stocks-graph.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
