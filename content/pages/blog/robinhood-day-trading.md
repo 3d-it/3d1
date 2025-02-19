@@ -15,7 +15,7 @@ media:
   type: ImageBlock
   url: /images/candlestick-chart-robinhood-day-trading.png
   altText: Robinhood day trading candlestick chart.
-  caption: Caption of the image
+  caption: Robinhood day trading graph.
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
