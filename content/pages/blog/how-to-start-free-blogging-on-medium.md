@@ -78,6 +78,8 @@ Ready to share your stories with the world? Follow these simple steps to start b
 
 Once logged in, you’ll land on Medium’s dashboard, which serves as your control center for writing, editing, and managing your blog posts.
 
+Check out this video on [**how to start a blog on medium**](https://www.youtube.com/watch?v=rLIWnhrXLxY) ****in 2025 for useful tips and a hands on walk through of the whole process.
+
 ### 3. Start a New Story
 
 *   **Click on Your Profile Picture:** Located in the top-right corner.
