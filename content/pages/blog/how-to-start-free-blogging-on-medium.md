@@ -1,6 +1,8 @@
 ---
 type: PostLayout
-title: 'Start Blogging for Free: A Step-by-Step Guide How to Start A Blog On Medium'
+title: >-
+  Start Blogging for Free: A Step-by-Step Guide How to Start A Blog On Medium In
+  2025
 date: '2024-12-19'
 excerpt: >-
   Start your blogging journey for free with Medium. This guide walks you through
