@@ -9,9 +9,12 @@ excerpt: >-
   avoid restrictions, and start trading smarter today.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: Caption of the image
+  url: >-
+    /images/broker-looking-laptop-analyzing-stock-market-invest-trading-stocks-graph.jpg
+  altText: >-
+    Person trading stocks on their laptop.  Perfect representation of Robinhood
+    day trading.
+  caption: Image courtesy of Freepik.
   elementId: ''
 media:
   type: ImageBlock
