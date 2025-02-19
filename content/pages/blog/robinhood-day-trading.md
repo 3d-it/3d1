@@ -11,7 +11,9 @@ featuredImage:
   type: ImageBlock
   url: >-
     /images/broker-looking-laptop-analyzing-stock-market-invest-trading-stocks-graph.jpg
-  altText: Post thumbnail image
+  altText: >-
+    Person trading stocks on their laptop.  Perfect representation of Robinhood
+    day trading.
   caption: Caption of the image
   elementId: ''
 media:
