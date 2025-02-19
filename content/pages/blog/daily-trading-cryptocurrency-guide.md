@@ -12,7 +12,7 @@ excerpt: >-
   strategy and increase your understanding in the crypto space.
 featuredImage:
   type: ImageBlock
-  url: /images/golden-stack-of-bitcoin-symbolizing-daily-trading-cryptocurrency.jpg
+  url: /images/golden-stack-of-bitcoin-symbolizing-daily-trading-cryptocurrency.png
   altText: Golden-stack-of-Bitcoins-that-are-symbolizing-daily-trading-cryptocurrency
   caption: Image by Pexels
   elementId: ''
