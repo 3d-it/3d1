@@ -14,7 +14,7 @@ featuredImage:
   altText: >-
     Person trading stocks on their laptop.  Perfect representation of Robinhood
     day trading.
-  caption: Caption of the image
+  caption: Image courtesy of Freepik.
   elementId: ''
 media:
   type: ImageBlock
