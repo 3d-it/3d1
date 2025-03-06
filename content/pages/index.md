@@ -498,6 +498,17 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://www.amazon.com/Precision-Profit-Traders-Technical-Indicators/dp/B0DRCMSKMR/ref=sr_1_1?dib=eyJ2IjoiMSJ9.zoGExD6dgxYrG1uAKM4au0EpCI_li4Kz0OVHEazXME0s9h1mn2bkEZpEZ9-FAXGAjhPNtoPxRgUPw4u-jBgHYjmIAoSkmxJB7Xel2N3SezFNC7epc-Tfy04Jksj0-hVafOnTm8ZhPujJGsUfV8g1oiMugesGiHu55u_BZmvUdY5uxiW5eBgoD_KCxoY34yj3.HZ6zH6HEyhVcceiAR00v9Bh5q19gaNoDnCeXOzRtvEE&dib_tag=se&keywords=webull+day+trading&qid=1741295286&sr=8-1
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-f
     columns: 1
