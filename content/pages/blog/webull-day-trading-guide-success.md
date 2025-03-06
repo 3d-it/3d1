@@ -18,7 +18,7 @@ media:
   type: ImageBlock
   url: /images/webull-day-trading.jpg
   altText: Webull day trading
-  caption: Caption of the image
+  caption: Stock market day trading
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
