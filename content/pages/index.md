@@ -490,8 +490,7 @@ sections:
         text: "Precision & Profit\_is your ultimate guide to mastering Webull day trading on the Webull platform. This clear, concise handbook walks you through everything from chart setup to high-level execution—equipping you with the techniques, mindset, and flexibility needed to thrive in the fast-paced world of intraday markets.\n"
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/Precision-and-Profit-Webull-Day-Trading.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
