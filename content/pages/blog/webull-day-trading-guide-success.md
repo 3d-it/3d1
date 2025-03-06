@@ -11,7 +11,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/day-trading-webull.jpg
-  altText: Post thumbnail image
+  altText: Webull day trading stocks
   caption: Caption of the image
   elementId: ''
 media:
