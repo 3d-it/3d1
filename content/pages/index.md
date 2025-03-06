@@ -522,13 +522,13 @@ sections:
       - content/pages/blog/webull-day-trading-guide-strategies-tips.md
       - content/pages/blog/create-free-website-netlify.md
       - content/pages/blog/seo-review-tools-guide.md
+      - content/pages/blog/webull-day-trading-guide-success.md
       - content/pages/blog/how-to-purchase-a-domain.md
       - content/pages/blog/how-to-index-a-website-beginners-guide.md
       - content/pages/blog/how-to-start-free-blogging-on-medium.md
       - content/pages/blog/seo-optimization-guide.md
       - content/pages/blog/cloud-computing-benefits-use-cases-free-plans.md
       - content/pages/blog/how-to-create-a-website-from-start-to-finish.md
-      - content/pages/blog/webull-day-trading-guide-success.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
