@@ -12,7 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/day-trading-webull.jpg
   altText: Webull day trading stocks
-  caption: Caption of the image
+  caption: Webull day trading stocks on chart
   elementId: ''
 media:
   type: ImageBlock
