@@ -491,7 +491,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/Precision-and-Profit-Webull-Day-Trading.jpg
-          altText: Item image
+          altText: Webull
           caption: Caption of the image
           elementId: ''
         elementId: ''
