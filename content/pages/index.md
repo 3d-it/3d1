@@ -486,7 +486,7 @@ sections:
         title: >-
           Precision & Profit: A Day Trader’s Guide to Using Webull and Technical
           Indicators
-        subtitle: ''
+        subtitle: Webull day trading
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
