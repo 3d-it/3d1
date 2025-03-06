@@ -17,7 +17,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/webull-day-trading.jpg
-  altText: Post image
+  altText: Webull day trading
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
