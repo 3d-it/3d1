@@ -482,6 +482,33 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
+      - type: FeaturedItem
+        title: >-
+          Precision & Profit: A Day Trader’s Guide to Using Webull and Technical
+          Indicators
+        subtitle: Webull day trading
+        text: "Precision & Profit\_is your ultimate guide to mastering Webull day trading on the Webull platform. This clear, concise handbook walks you through everything from chart setup to high-level execution—equipping you with the techniques, mindset, and flexibility needed to thrive in the fast-paced world of intraday markets.\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/Precision-and-Profit-Webull-Day-Trading.jpg
+          altText: Precision and Profit Webull Day Trading
+          caption: Precision and Profit Webull Day Trading
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: Buy Precision and Profit Webull Day Trading on Amazon
+            url: >-
+              https://www.amazon.com/Precision-Profit-Traders-Technical-Indicators/dp/B0DRCMSKMR/ref=sr_1_1?dib=eyJ2IjoiMSJ9.zoGExD6dgxYrG1uAKM4au0EpCI_li4Kz0OVHEazXME0s9h1mn2bkEZpEZ9-FAXGAjhPNtoPxRgUPw4u-jBgHYjmIAoSkmxJB7Xel2N3SezFNC7epc-Tfy04Jksj0-hVafOnTm8ZhPujJGsUfV8g1oiMugesGiHu55u_BZmvUdY5uxiW5eBgoD_KCxoY34yj3.HZ6zH6HEyhVcceiAR00v9Bh5q19gaNoDnCeXOzRtvEE&dib_tag=se&keywords=webull+day+trading&qid=1741295286&sr=8-1
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-f
     columns: 1
