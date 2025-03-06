@@ -487,10 +487,7 @@ sections:
           Precision & Profit: A Day Trader’s Guide to Using Webull and Technical
           Indicators
         subtitle: Webull day trading
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Precision & Profit\_is your ultimate guide to mastering Webull day trading on the Webull platform. This clear, concise handbook walks you through everything from chart setup to high-level execution—equipping you with the techniques, mindset, and flexibility needed to thrive in the fast-paced world of intraday markets.\n"
         featuredImage:
           type: ImageBlock
           url: >-
