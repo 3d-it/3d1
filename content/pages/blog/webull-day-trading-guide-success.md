@@ -10,15 +10,15 @@ excerpt: >-
   informed decisions in the fast-paced world of day trading.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: Caption of the image
+  url: /images/day-trading-webull.jpg
+  altText: Webull day trading stocks
+  caption: Webull day trading stocks on chart
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
-  caption: Caption of the image
+  url: /images/webull-day-trading.jpg
+  altText: Webull day trading
+  caption: Stock market day trading
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
