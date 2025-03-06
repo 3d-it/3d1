@@ -483,7 +483,9 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Item Title
+        title: >-
+          Precision & Profit: A Day Trader’s Guide to Using Webull and Technical
+          Indicators
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
