@@ -10,7 +10,7 @@ excerpt: >-
   informed decisions in the fast-paced world of day trading.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/day-trading-webull.jpg
   altText: Post thumbnail image
   caption: Caption of the image
   elementId: ''
