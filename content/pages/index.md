@@ -533,6 +533,17 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://www.amazon.com/VWAP-Trading-Strategies-Including-Crossovers/dp/B0DZ1W8XLJ/ref=tmm_pap_swatch_0
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-f
     columns: 1
