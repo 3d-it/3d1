@@ -535,7 +535,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: Buy on Amazon
             altText: ''
             url: >-
               https://www.amazon.com/VWAP-Trading-Strategies-Including-Crossovers/dp/B0DZ1W8XLJ/ref=tmm_pap_swatch_0
