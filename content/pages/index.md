@@ -520,7 +520,10 @@ sections:
         featuredImage:
           type: ImageBlock
           url: /images/vwap-strategies-advanced-trading-tech.png
-          altText: Item image
+          altText: >-
+            VWAP Strategies: Including Breakout Strategies, Pullback Strategies,
+            VWAP Crossovers with Moving Averages, Bounce Strategies and Anchored
+            VWAP Analysis
           caption: Caption of the image
           elementId: ''
         elementId: ''
