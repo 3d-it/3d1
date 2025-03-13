@@ -524,7 +524,10 @@ sections:
             VWAP Strategies: Including Breakout Strategies, Pullback Strategies,
             VWAP Crossovers with Moving Averages, Bounce Strategies and Anchored
             VWAP Analysis
-          caption: Caption of the image
+          caption: >-
+            VWAP Strategies: Including Breakout Strategies, Pullback Strategies,
+            VWAP Crossovers with Moving Averages, Bounce Strategies and Anchored
+            VWAP Analysis
           elementId: ''
         elementId: ''
         styles:
