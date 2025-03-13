@@ -511,7 +511,10 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Item Title
+        title: >-
+          VWAP Strategies: Including Breakout Strategies, Pullback Strategies,
+          VWAP Crossovers with Moving Averages, Bounce Strategies and Anchored
+          VWAP Analysis
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
