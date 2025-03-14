@@ -557,7 +557,8 @@ sections:
         featuredImage:
           type: ImageBlock
           url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+            /images/Momentum Trading Mastery A Guide to Profiting from Market
+            Trends in the Stock Market.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
