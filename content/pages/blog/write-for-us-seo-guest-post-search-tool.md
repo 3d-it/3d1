@@ -12,15 +12,21 @@ excerpt: >-
   rankings, and boost brand visibility today!
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
-  caption: Caption of the image
+  url: >-
+    /images/DALL·E 2025-03-13 23.29.58 - A modern and sleek logo for an 'SEO
+    Guest Post Search Tool' website. The design should incorporate a magnifying
+    glass symbolizing search, a pen repres.webp
+  altText: write for us opportunities depicted by the SEO Guest Post Search Tool logo
+  caption: write for us opportunities depicted by the SEO Guest Post Search Tool logo
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
-  caption: Caption of the image
+  url: >-
+    /images/DALL·E 2025-03-13 23.29.58 - A modern and sleek logo for an 'SEO
+    Guest Post Search Tool' website. The design should incorporate a magnifying
+    glass symbolizing search, a pen repres.webp
+  altText: Find write for us opportunities using the SEO Guest Post Search Tool
+  caption: Find write for us opportunities using the SEO Guest Post Search Tool
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
