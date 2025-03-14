@@ -562,7 +562,9 @@ sections:
           altText: >-
             Momentum Trading Mastery: A Guide to Profiting from Market Trends in
             the Stock Market Book
-          caption: Caption of the image
+          caption: >-
+            Momentum Trading Mastery: A Guide to Profiting from Market Trends in
+            the Stock Market Book
           elementId: ''
         elementId: ''
         styles:
