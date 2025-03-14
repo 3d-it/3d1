@@ -43,8 +43,6 @@ author: content/data/team/dennis-duke.json
 
 Are you searching for **"Write for Us"** pages to submit guest posts and build high-quality backlinks? Guest posting is one of the most effective ways to boost **SEO rankings**, improve domain authority, and drive targeted traffic. However, manually finding websites that accept guest posts can be time-consuming.
 
-
-
 The [**SEO GUEST POST SEARCH TOOL**](https://dennis8175.wixstudio.com/guest-post-search) simplifies this process by generating a **Google search query** that helps you find **“Write for Us”** pages instantly. With just one click, you can discover websites in your niche that accept guest contributions.
 
 **Why "Write for Us" Guest Posting Matters for SEO**
@@ -59,7 +57,6 @@ Guest posting on websites with a **"Write for Us"** page provides several SEO an
 
 ✔ **Improve Search Engine Rankings** – More backlinks from reputable sites lead to better rankings.
 
-
 **How to Find “Write for Us” Pages with This Tool**
 
 Using the **SEO Guest Post Search Tool** is simple:
@@ -73,6 +70,8 @@ Using the **SEO Guest Post Search Tool** is simple:
 4.  **Paste into Google** – Open Google, paste the query into the search bar, and hit enter.
 
 5.  **Find Guest Blogging Sites** – Browse the search results, check guest posting guidelines, and submit your article.
+
+![Write for us seo guest blog tool](/images/seo-guest-post-search-tool%20\(2\).png)
 
 ## **Why Use This SEO Guest Post Search Tool?**
 
@@ -98,7 +97,6 @@ The tool works for any industry, including:
 
 With a single click, you generate a **Google-ready guest post search query**, helping you discover **"Write for Us"** pages in your field.
 
-
 **How Guest Posting Helps Improve SEO Rankings**
 
 By publishing on **"Write for Us"** pages, you can:
@@ -111,24 +109,8 @@ By publishing on **"Write for Us"** pages, you can:
 
 ✔ Build **brand credibility** with thought leadership in your industry.
 
-
-**Final Thoughts: Start Guest Posting Today**
----------------------------------------------
+## **Final Thoughts: Start Guest Posting Today**
 
 The [**SEO Guest Post Search Tool**](https://dennis8175.wixstudio.com/guest-post-search) is an essential tool for bloggers, digital marketers, and business owners looking to **find “Write for Us” pages quickly and efficiently**.
 
 Instead of spending hours searching manually, use this tool to **discover guest posting sites in seconds** and **start building high-authority backlinks today!**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
