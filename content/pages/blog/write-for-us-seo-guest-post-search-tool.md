@@ -16,7 +16,7 @@ featuredImage:
     /images/DALL·E 2025-03-13 23.29.58 - A modern and sleek logo for an 'SEO
     Guest Post Search Tool' website. The design should incorporate a magnifying
     glass symbolizing search, a pen repres.webp
-  altText: Post thumbnail image
+  altText: write for us opportunities depicted by the SEO Guest Post Search Tool logo
   caption: Caption of the image
   elementId: ''
 media:
