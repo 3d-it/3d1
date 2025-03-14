@@ -559,7 +559,9 @@ sections:
           url: >-
             /images/Momentum Trading Mastery A Guide to Profiting from Market
             Trends in the Stock Market.png
-          altText: Item image
+          altText: >-
+            Momentum Trading Mastery: A Guide to Profiting from Market Trends in
+            the Stock Market Book
           caption: Caption of the image
           elementId: ''
         elementId: ''
