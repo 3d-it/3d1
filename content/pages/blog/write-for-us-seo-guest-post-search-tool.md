@@ -17,7 +17,7 @@ featuredImage:
     Guest Post Search Tool' website. The design should incorporate a magnifying
     glass symbolizing search, a pen repres.webp
   altText: write for us opportunities depicted by the SEO Guest Post Search Tool logo
-  caption: Caption of the image
+  caption: write for us opportunities depicted by the SEO Guest Post Search Tool logo
   elementId: ''
 media:
   type: ImageBlock
