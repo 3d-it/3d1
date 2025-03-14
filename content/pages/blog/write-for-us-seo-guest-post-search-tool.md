@@ -5,8 +5,11 @@ title: >-
   Search Tool
 date: '2025-03-14'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Looking for “Write for Us” guest posting opportunities? The SEO Guest Post
+  Search Tool helps you instantly find websites that accept guest posts. Simply
+  enter your topic, generate a Google search query, and discover high-authority
+  blogs for backlink building and SEO growth. Save time, improve search
+  rankings, and boost brand visibility today!
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
