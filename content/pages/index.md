@@ -536,7 +536,10 @@ sections:
         actions:
           - type: Button
             label: Buy on Amazon
-            altText: ''
+            altText: >-
+              Buy stock market book VWAP Strategies: Including Breakout
+              Strategies, Pullback Strategies, VWAP Crossovers with Moving
+              Averages, Bounce Strategies and Anchored VWAP Analysis
             url: >-
               https://www.amazon.com/VWAP-Trading-Strategies-Including-Crossovers/dp/B0DZ1W8XLJ/ref=tmm_pap_swatch_0
             showIcon: false
