@@ -18,7 +18,10 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/DALL·E 2025-03-13 23.29.58 - A modern and sleek logo for an 'SEO
+    Guest Post Search Tool' website. The design should incorporate a magnifying
+    glass symbolizing search, a pen repres.webp
   altText: Post image
   caption: Caption of the image
   elementId: ''
