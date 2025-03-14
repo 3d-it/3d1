@@ -572,7 +572,9 @@ sections:
         actions:
           - type: Button
             label: Learn more
-            altText: ''
+            altText: >-
+              Buy Momentum Trading Mastery: A Guide to Profiting from Market
+              Trends in the Stock Market
             url: >-
               https://www.amazon.com/Momentum-Trading-Mastery-Profiting-Market/dp/B0DXFDXV4K/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.SdGSCtK5KRvzv0i344RtpEYGxgfKoVok7SoZjctgCmgeuQu0NYueFgWVHxg5rro7p91zjYIIqxDjTBFEZmw1YByw2unhFDf1LIA73SyOeaMZbWSqzbJ7-1hWYmAawq49oBJMiCuDhDn40okBs_h5p4n8AaqEUdUdEfRGuFyOfecKf-0Vw-xCnt-MDFc74-z--FGMX-b3IpfayehoxKmpuVrwVHITO-muAk8DX2HoYxY7sAd2jblyjzA0F7Q4wluDIxGJd6fITP45I4FITeYUIoX4Jn5r37uulHYvKBp7aX3X5kDO_ePtX6IJ-rkIhavkgPD999gOXGp55rOdY4jElCiGXTWyyPXtlXBSN2qJQjc.9x_qJ6tJGbX_2DnWYoGorOmDHvw-Mbe7ieSk0xoeJ40&qid=1741910453&sr=1-12
             showIcon: false
