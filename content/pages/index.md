@@ -571,7 +571,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: Buy on Amazon
             altText: >-
               Buy Momentum Trading Mastery: A Guide to Profiting from Market
               Trends in the Stock Market
