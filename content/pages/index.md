@@ -594,7 +594,8 @@ sections:
         featuredImage:
           type: ImageBlock
           url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+            /images/Stock Trading Using RSI A Practical Guide to Market Timing
+            and Trend Analysis.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
