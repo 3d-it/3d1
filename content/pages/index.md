@@ -550,7 +550,7 @@ sections:
       - type: FeaturedItem
         title: >-
           Momentum Trading Mastery: A Guide to Profiting from Market Trends in
-          the Stock Market Book
+          the Stock Market
         subtitle: ''
         text: "Whether you're a beginner or an experienced trader,\_Momentum Trading Mastery\_provides you with the tools, strategies, and psychological insights needed to thrive in fast-moving markets. From understanding key indicators like RSI and MACD to mastering risk management and timing, this book walks you through the essential elements of capturing profitable trends.\n\nInside you’ll discover:\n\n*   How to identify and capitalize on strong price trends\n\n*   Key technical indicators like RSI, MACD, and Moving Averages\n\n*   Effective risk management techniques to protect your capital\n\n*   The psychology behind market trends and trading success\n\n*   How to read charts and spot potential price reversals\n\n*   Developing a personalized trading plan for consistent profits\n\n*   Advanced trading strategies for swing, scalping, and day trading\n\n*   Real-world examples and actionable tips to refine your approach\n\nLearn how to momentum trade, read charts with confidence, and harness the power of momentum. Perfect for those looking to take their trading skills to the next level and profit from market movements with precision.\n"
         featuredImage:
