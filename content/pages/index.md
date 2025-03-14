@@ -607,6 +607,17 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://www.amazon.com/Stock-Trading-Using-RSI-Practical-ebook/dp/B0F13JM9XX/ref=sr_1_2?crid=1IA2ZPX5PAYTE&dib=eyJ2IjoiMSJ9.wjnNig4Y_BH3t7PKTXmhipcb7oyhSnz4ls3-CmQkqFozGkIDbTDX1WaV3_0xyEEYf2vJzaPQpt_tGrJC30XKwHvKCAazy689UqYURBRaK4f9cJrvcU82yJC9HC4zrvXUq_3wYfyeg24gk78wppyhCSRznFOTuM_g7TqeZARt38NnX0ObZK7A1Zj65oATXiD4C6NrocBoazoM52I-5QqaOY3RIDMYPVMFy_aGzKsaHWg.vH-Gd_rkqt0YSUtocx8e1CLwKZyT6hEouKCD1GDn3dA&dib_tag=se&keywords=stock+trading+using+rsi&qid=1741910749&s=books&sprefix=stock+trad%2Cstripbooks%2C1855&sr=1-2
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-f
     columns: 1
