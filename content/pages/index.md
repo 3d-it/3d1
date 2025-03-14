@@ -548,7 +548,9 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Item Title
+        title: >-
+          Momentum Trading Mastery: A Guide to Profiting from Market Trends in
+          the Stock Market Book
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
