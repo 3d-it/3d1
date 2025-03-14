@@ -505,7 +505,117 @@ sections:
             altText: Buy Precision and Profit Webull Day Trading on Amazon
             url: >-
               https://www.amazon.com/Precision-Profit-Traders-Technical-Indicators/dp/B0DRCMSKMR/ref=sr_1_1?dib=eyJ2IjoiMSJ9.zoGExD6dgxYrG1uAKM4au0EpCI_li4Kz0OVHEazXME0s9h1mn2bkEZpEZ9-FAXGAjhPNtoPxRgUPw4u-jBgHYjmIAoSkmxJB7Xel2N3SezFNC7epc-Tfy04Jksj0-hVafOnTm8ZhPujJGsUfV8g1oiMugesGiHu55u_BZmvUdY5uxiW5eBgoD_KCxoY34yj3.HZ6zH6HEyhVcceiAR00v9Bh5q19gaNoDnCeXOzRtvEE&dib_tag=se&keywords=webull+day+trading&qid=1741295286&sr=8-1
-            showIcon: false
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: >-
+          VWAP Strategies: Including Breakout Strategies, Pullback Strategies,
+          VWAP Crossovers with Moving Averages, Bounce Strategies and Anchored
+          VWAP Analysis
+        subtitle: ''
+        text: "VWAP Strategies: Including Breakout Strategies, Pullback Strategies, VWAP Crossovers with Moving Averages, Bounce Strategies and Anchored VWAP Analysis\n\nUnlock the secrets to successful trading with\_VWAP (Volume Weighted Average Price), one of the most powerful indicators in technical analysis. Whether you're a beginner or an experienced trader, this step-by-step guide teaches you how to effectively use\_VWAP\_in trading strategies like\_breakouts,\_pullbacks,\_crossovers with moving averages,\_VWAP bounce strategies, and\_anchored VWAP analysis. Learn how to spot\_bullish trends,\_bearish reversals, and\_support and resistance levels\_to make profitable trades.\n\nIn this book, you will learn how to:\n\n*   Master VWAP: Understand how VWAP can help you spot entry and exit points for\_day trading,\_swing trading, and\_intraday trading.\n\n*   Implement VWAP Breakouts: Identify price breakouts with\_VWAP\_and volume confirmation to trade with momentum.\n\n*   Trade VWAP Pullbacks: Use VWAP to find retracement levels in trending markets and enter at optimal points.\n\n*   VWAP Crossovers with Moving Averages: Combine\_VWAP\_with moving averages for trend confirmation and high-probability trades.\n\n*   Spot VWAP Bounces: Learn how to identify bounce points for trend continuation using\_VWAP.\n\n*   Use Anchored VWAP Analysis: Anchor VWAP to significant price levels to track market sentiment and potential reversals.\n\n*   Optimize Your Trading Strategy: Learn how to backtest and optimize your VWAP strategies for consistent profits.\n\n*   Master Risk Management: Implement position sizing, stop-loss strategies, and\_risk-to-reward ratios\_to protect your capital.\n\n*   Control Your Trading Psychology: Overcome psychological challenges like fear, greed, and revenge trading to stay disciplined in your trades.\n\nWith easy-to-follow examples,\_risk management tips, and expert advice on\_trading psychology, this book will help you build a solid foundation in\_stock trading,\_forex, and\_crypto trading. Master\_VWAP-based strategies, backtest your methods, and optimize your trading plan for consistent profits.\n\nPerfect for traders looking to:\n\n*   Gain a competitive edge in\_technical analysis\_and\_price action trading.\n\n*   Increase profitability by understanding\_VWAP\_and its application in real-world trading scenarios.\n\n*   Achieve financial freedom with practical and actionable trading strategies.\n\nBoost your trading success\_and take control of your trades with VWAP.\_Ideal for traders\_looking to\_optimize their strategy, manage risks, and achieve success in the financial markets.\n"
+        featuredImage:
+          type: ImageBlock
+          url: /images/vwap-strategies-advanced-trading-tech.png
+          altText: >-
+            VWAP Strategies: Including Breakout Strategies, Pullback Strategies,
+            VWAP Crossovers with Moving Averages, Bounce Strategies and Anchored
+            VWAP Analysis
+          caption: >-
+            VWAP Strategies: Including Breakout Strategies, Pullback Strategies,
+            VWAP Crossovers with Moving Averages, Bounce Strategies and Anchored
+            VWAP Analysis
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: >-
+              Buy stock market book VWAP Strategies: Including Breakout
+              Strategies, Pullback Strategies, VWAP Crossovers with Moving
+              Averages, Bounce Strategies and Anchored VWAP Analysis
+            url: >-
+              https://www.amazon.com/VWAP-Trading-Strategies-Including-Crossovers/dp/B0DZ1W8XLJ/ref=tmm_pap_swatch_0
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: >-
+          Momentum Trading Mastery: A Guide to Profiting from Market Trends in
+          the Stock Market
+        subtitle: ''
+        text: "Whether you're a beginner or an experienced trader,\_Momentum Trading Mastery\_provides you with the tools, strategies, and psychological insights needed to thrive in fast-moving markets. From understanding key indicators like RSI and MACD to mastering risk management and timing, this book walks you through the essential elements of capturing profitable trends.\n\nInside you’ll discover:\n\n*   How to identify and capitalize on strong price trends\n\n*   Key technical indicators like RSI, MACD, and Moving Averages\n\n*   Effective risk management techniques to protect your capital\n\n*   The psychology behind market trends and trading success\n\n*   How to read charts and spot potential price reversals\n\n*   Developing a personalized trading plan for consistent profits\n\n*   Advanced trading strategies for swing, scalping, and day trading\n\n*   Real-world examples and actionable tips to refine your approach\n\nLearn how to momentum trade, read charts with confidence, and harness the power of momentum. Perfect for those looking to take their trading skills to the next level and profit from market movements with precision.\n"
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            /images/Momentum Trading Mastery A Guide to Profiting from Market
+            Trends in the Stock Market.png
+          altText: >-
+            Momentum Trading Mastery: A Guide to Profiting from Market Trends in
+            the Stock Market Book
+          caption: >-
+            Momentum Trading Mastery: A Guide to Profiting from Market Trends in
+            the Stock Market Book
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: >-
+              Buy Momentum Trading Mastery: A Guide to Profiting from Market
+              Trends in the Stock Market
+            url: >-
+              https://www.amazon.com/Momentum-Trading-Mastery-Profiting-Market/dp/B0DXFDXV4K/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.SdGSCtK5KRvzv0i344RtpEYGxgfKoVok7SoZjctgCmgeuQu0NYueFgWVHxg5rro7p91zjYIIqxDjTBFEZmw1YByw2unhFDf1LIA73SyOeaMZbWSqzbJ7-1hWYmAawq49oBJMiCuDhDn40okBs_h5p4n8AaqEUdUdEfRGuFyOfecKf-0Vw-xCnt-MDFc74-z--FGMX-b3IpfayehoxKmpuVrwVHITO-muAk8DX2HoYxY7sAd2jblyjzA0F7Q4wluDIxGJd6fITP45I4FITeYUIoX4Jn5r37uulHYvKBp7aX3X5kDO_ePtX6IJ-rkIhavkgPD999gOXGp55rOdY4jElCiGXTWyyPXtlXBSN2qJQjc.9x_qJ6tJGbX_2DnWYoGorOmDHvw-Mbe7ieSk0xoeJ40&qid=1741910453&sr=1-12
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: >-
+          Stock Trading Using RSI: A Practical Guide to Market Timing and Trend
+          Analysis
+        subtitle: ''
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            /images/Stock Trading Using RSI A Practical Guide to Market Timing
+            and Trend Analysis.png
+          altText: >-
+            Stock Market Book. Stock Trading Using RSI: A Practical Guide to
+            Market Timing and Trend Analysis
+          caption: >-
+            Stock Market Book. Stock Trading Using RSI: A Practical Guide to
+            Market Timing and Trend Analysis
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Buy on Amazon
+            altText: >-
+              Buy Stock Market Book, Stock Trading Using RSI: A Practical Guide
+              to Market Timing and Trend Analysis, on Amazon.
+            url: >-
+              https://www.amazon.com/Stock-Trading-Using-RSI-Practical-ebook/dp/B0F13JM9XX/ref=sr_1_2?crid=1IA2ZPX5PAYTE&dib=eyJ2IjoiMSJ9.wjnNig4Y_BH3t7PKTXmhipcb7oyhSnz4ls3-CmQkqFozGkIDbTDX1WaV3_0xyEEYf2vJzaPQpt_tGrJC30XKwHvKCAazy689UqYURBRaK4f9cJrvcU82yJC9HC4zrvXUq_3wYfyeg24gk78wppyhCSRznFOTuM_g7TqeZARt38NnX0ObZK7A1Zj65oATXiD4C6NrocBoazoM52I-5QqaOY3RIDMYPVMFy_aGzKsaHWg.vH-Gd_rkqt0YSUtocx8e1CLwKZyT6hEouKCD1GDn3dA&dib_tag=se&keywords=stock+trading+using+rsi&qid=1741910749&s=books&sprefix=stock+trad%2Cstripbooks%2C1855&sr=1-2
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
