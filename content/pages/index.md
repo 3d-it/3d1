@@ -596,7 +596,9 @@ sections:
           url: >-
             /images/Stock Trading Using RSI A Practical Guide to Market Timing
             and Trend Analysis.png
-          altText: Item image
+          altText: >-
+            Stock Market Book. Stock Trading Using RSI: A Practical Guide to
+            Market Timing and Trend Analysis
           caption: Caption of the image
           elementId: ''
         elementId: ''
