@@ -583,7 +583,9 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Item Title
+        title: >-
+          Stock Trading Using RSI: A Practical Guide to Market Timing and Trend
+          Analysis
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
