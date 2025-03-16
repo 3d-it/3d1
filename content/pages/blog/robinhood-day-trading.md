@@ -70,7 +70,9 @@ The **PDT rule** is a regulation that applies to traders who execute four or m
 
 4.  **Support and Resistance Trading** This strategy involves identifying key **support** and **resistance levels** and executing trades when the **stock price** approaches these levels.
 
-### Common Risks of **Day Trading** on **Robinhood**
+➡️ *Interested in exploring another powerful trading platform? Read* [***Mastering the Art of Webull Day Trading: Your Complete Guide to Success***](https://3d-it.net/blog/webull-day-trading-guide-success) *to learn advanced strategies for trading on Webull.*
+
+Common Risks of **Day Trading** on **Robinhood**
 
 1.  **High Volatility** **Day traders** rely on **price fluctuations**, but extreme **volatility** can lead to unexpected losses.
 
