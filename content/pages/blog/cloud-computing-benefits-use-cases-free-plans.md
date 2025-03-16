@@ -207,6 +207,8 @@ One of the most attractive aspects of cloud computing is the availability of **f
 
     *   **Example:** A blogger can host their website on Google Cloud, benefiting from reliable uptime and the ability to scale resources during traffic spikes.
 
+    *   ➡️ *Want to host a website for free? Check out* [***How to Create and Host a Free Website Using Netlify***](https://3d-it.net/blog/create-free-website-netlify) *for a step-by-step guide on deploying a website using a cloud-based hosting service at no cost.*
+
 3.  **Big Data Analytics**
 
     *   **Detailed Explanation:** Leverage cloud-based analytics tools to process and analyze large datasets quickly and efficiently, gaining valuable insights for your business.
