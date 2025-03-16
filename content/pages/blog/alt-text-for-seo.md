@@ -121,6 +121,8 @@ Long-tail keywords, which are more specific phrases, can help target niche searc
 
 Research the top-ranking images for your target keywords. Analyze their alt text to understand what's working well and how you can apply similar strategies to your own content.
 
+➡️ *Optimizing alt text is just one part of an effective SEO strategy. Learn how to strengthen your website’s authority with high-quality backlinks in this article* [***Backlinks: Guide to SEO-Friendly Links and Their Impact***](https://3d-it.net/blog/backlinks-seo-guide-dofollow-nofollow-types)*.*
+
 ![Example of alt text usage for a Medium.com blog post, featuring a DevOps and IT operations illustration with an infinity loop and automation elements.](/images/photo-showing-alt-text-for-netlify-image.png)
 
 ## Best Practices for Writing Effective Alt Text
