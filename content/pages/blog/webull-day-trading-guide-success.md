@@ -63,6 +63,10 @@ While **day trading** offers significant profit potential, it's not without risk
 
 *   **Leverage Risks:** Trading on margin increases potential profits but also amplifies losses, which can be a significant risk.
 
+➡️*** **If you're new to Webull day trading, check out *[***Webull Day Trading: A Beginner's Guide to Success***](https://3d-it.net/blog/webull-day-trading-guide-strategies-tips) *for a step-by-step introduction to the platform and essential trading strategies*.
+
+
+
 ### Getting Started with Webull Day Trading
 
 To get started with **day trading on Webull**, follow these steps:
