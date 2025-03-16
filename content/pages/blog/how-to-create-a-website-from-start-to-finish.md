@@ -64,6 +64,8 @@ Web hosting is where your website’s files are stored. Choose a hosting provide
 
 Popular options include Bluehost, SiteGround, and HostGator.
 
+➡️ *Looking for a free hosting option? Check out* [***How to Create and Host a Free Website Using Netlify***](https://3d-it.net/blog/create-free-website-netlify) *for a step-by-step guide to deploying a website without hosting costs.*
+
 #### Step 4: Plan Your Website Structure
 
 Outline the pages you want to include, such as:
@@ -171,4 +173,3 @@ Stay updated with industry trends to keep your website fresh and competitive.
 Building a website from start to finish involves careful planning, creative design, and consistent effort. By following these steps, you’ll create a website that not only looks great but also serves your goals effectively. Start today and turn your ideas into a powerful online presence! Good luck on your website building journey and thanks for reading this guide on how to create a website from start to finish.
 
 Photo by [*Proxyclick*](https://www.pexels.com/search/computers/) Visitor Management System
-
