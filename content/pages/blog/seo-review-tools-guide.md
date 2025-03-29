@@ -17,13 +17,13 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/12252154_3203.jpg
-  altText: SEO blog image
+  altText: SEO blog image. Seoreviewtools
   caption: Image by FreePik
   elementId: ''
 media:
   type: ImageBlock
   url: /images/12252154_3203.jpg
-  altText: SEO Review Blog header image
+  altText: SEO Review Blog header image. Seoreviewtools
   caption: Image by FreePik
   elementId: ''
 addTitleSuffix: true
@@ -208,7 +208,7 @@ You're looking for new blog topics related to sustainable living.
 
 *   **Regular Updates**: The platform is continually updated to reflect the latest SEO trends and algorithm changes, ensuring your strategies remain effective while using Seoreviewtools.
 
-![SEO Review Tools homepage showcasing 68 real-time free SEO tools, including keyword tool, rank checker, backlink checker, domain authority checker, AI content writer, and SEO writing assistant.](/images/seoreviewtools-homepage.png)
+![SEO Review Tools homepage showcasing 68 real-time free SEO tools, including keyword tool, rank checker, backlink checker, domain authority checker, AI content writer, and SEO writing assistant. Seoreviewtools](/images/seoreviewtools-homepage.png)
 
 ## Getting Started with SEO Review Tools
 
