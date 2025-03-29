@@ -23,7 +23,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/12252154_3203.jpg
-  altText: SEO Review Blog header image
+  altText: SEO Review Blog header image. Seoreviewtools
   caption: Image by FreePik
   elementId: ''
 addTitleSuffix: true
