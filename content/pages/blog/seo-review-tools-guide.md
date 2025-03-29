@@ -17,7 +17,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/12252154_3203.jpg
-  altText: SEO blog image
+  altText: SEO blog image. Seoreviewtools
   caption: Image by FreePik
   elementId: ''
 media:
