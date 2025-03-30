@@ -138,6 +138,8 @@ You want to assess how your site stacks up against a competitor.
 
 3.  **Plan Improvements**: Focus on strategies to increase your domain authority, such as acquiring high-quality backlinks and improving site content.
 
+![seoreviewtools ai content writer](/images/seoreviewtools-ai-content-writer.png)
+
 ### 6. AI Content Writer
 
 Creating high-quality content consistently can be challenging. The **AI Content Writer** leverages artificial intelligence to help you generate engaging and SEO-friendly content effortlessly.
