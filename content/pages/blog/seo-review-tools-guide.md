@@ -163,6 +163,8 @@ You need to write a blog post about "benefits of sustainable living."
 
 4.  **Publish**: Use the generated content as a foundation, adding your unique insights before publishing.
 
+![seoreviewtools SEO Writing Assistant](/images/seoreviewtools-seo-content-editor.png)
+
 ### 7. SEO Writing Assistant
 
 The **SEO Writing Assistant** helps optimize your content in real-time, ensuring it aligns with best SEO practices and improves your chances of ranking higher.
@@ -178,6 +180,8 @@ You're drafting a blog post on "sustainable home practices" and want to ensure i
 
 4.  **Optimize Content**: Implement the recommendations to enhance your content's SEO performance.
 
+![seoreviewtools Duplicate Content Checker](/images/seoreviewtools-duplicate-content-checker.png)
+
 ### 8. Duplicate Content Checker
 
 Ensuring your content is unique is essential to avoid penalties from search engines. The **Duplicate Content Checker** scans your content for any duplicate material, helping you maintain originality.
@@ -192,6 +196,8 @@ Before publishing a new article, you want to ensure it's unique.
 3.  **Analyze Results**: The tool highlights any sections that are duplicated from other sources.
 
 4.  **Revise Content**: Modify the flagged sections to ensure your content is original.
+
+![seoreviewtools Content Idea Generator](/images/seoreviewtools-content-idea-generator.png)
 
 ### 9. Content Idea Generator
 
