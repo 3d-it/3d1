@@ -163,6 +163,8 @@ You need to write a blog post about "benefits of sustainable living."
 
 4.  **Publish**: Use the generated content as a foundation, adding your unique insights before publishing.
 
+![seoreviewtools SEO Writing Assistant](/images/seoreviewtools-seo-content-editor.png)
+
 ### 7. SEO Writing Assistant
 
 The **SEO Writing Assistant** helps optimize your content in real-time, ensuring it aligns with best SEO practices and improves your chances of ranking higher.
