@@ -82,6 +82,8 @@ Suppose you run a blog about sustainable living and want to target the keyword "
 
 4.  **Decision Making**: Based on this information, you decide to create high-quality, targeted content around "eco-friendly home products," optimizing it to rank higher in search results.
 
+![seoreviewtools Keyword Research Tool](/images/seoreviewtools-keyword-research-tool.png)
+
 ### 2. Keyword Tool
 
 The **Keyword Tool** is essential for generating a wide array of keyword ideas tailored to your niche. It helps you discover long-tail keywords, related terms, and popular search queries that can drive traffic to your website.
@@ -97,6 +99,8 @@ Continuing with the sustainable living blog, you want to expand your keyword lis
 
 4.  **Select Keywords**: Choose keywords with high search volume and low to moderate competition to target in your content.
 
+![seoreviewtools Google Rank Checker](/images/seoreviewtools-google-rank-checker.png)
+
 ### 3. Rank Checker
 
 Monitoring your website’s rankings is vital to measure the effectiveness of your SEO strategies. The **Rank Checker** allows you to track your website's position for specific keywords over time. Examples below of what Seoreviewtools Rank Checker can do.
@@ -110,7 +114,7 @@ You've optimized your blog post for "eco-friendly home products" and want to tra
 
 3.  **Monitor Progress**: Regularly check the rank to see if your optimizations are improving the position.
 
-![seoreviewtools - Backlink Checker](/images/seoreviewtools-backlink-checker.png)
+![seoreviewtools Backlink Checker](/images/seoreviewtools-backlink-checker.png)
 
 ### 4. Backlink Checker
 
@@ -127,7 +131,7 @@ You want to improve your site's authority by analyzing your backlinks.
 
 4.  **Strategize**: Identify high-quality backlinks from authoritative sites and reach out for potential link-building opportunities.
 
-![seoreviewtools - Domain Authority Checker](/images/seoreviewtools-domain-authority-checker.png)
+![seoreviewtools Domain Authority Checker](/images/seoreviewtools-domain-authority-checker.png)
 
 ### 5. Domain Authority Checker
 
