@@ -110,6 +110,8 @@ You've optimized your blog post for "eco-friendly home products" and want to tra
 
 3.  **Monitor Progress**: Regularly check the rank to see if your optimizations are improving the position.
 
+![seoreviewtools - Backlink Checker](/images/seoreviewtools-backlink-checker.png)
+
 ### 4. Backlink Checker
 
 Backlinks are a critical factor in SEO, influencing your site's authority and rankings. The **Backlink Checker** helps you analyze your backlink profile and that of your competitors to identify link-building opportunities.
@@ -124,6 +126,8 @@ You want to improve your site's authority by analyzing your backlinks.
 3.  **Review Backlinks**: The tool displays a list of backlinks pointing to your site, including their sources and quality.
 
 4.  **Strategize**: Identify high-quality backlinks from authoritative sites and reach out for potential link-building opportunities.
+
+![seoreviewtools - Domain Authority Checker](/images/seoreviewtools-domain-authority-checker.png)
 
 ### 5. Domain Authority Checker
 
