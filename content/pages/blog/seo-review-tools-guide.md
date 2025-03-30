@@ -127,6 +127,8 @@ You want to improve your site's authority by analyzing your backlinks.
 
 4.  **Strategize**: Identify high-quality backlinks from authoritative sites and reach out for potential link-building opportunities.
 
+![seoreviewtools - Domain Authority Checker](/images/seoreviewtools-domain-authority-checker.png)
+
 ### 5. Domain Authority Checker
 
 Understanding your domain's authority helps gauge its SEO potential compared to competitors. The **Domain Authority Checker** provides a score that reflects your site's overall strength in search engine rankings.
