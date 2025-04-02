@@ -78,7 +78,7 @@ Ready to share your stories with the world? Follow these simple steps to start b
 
 Once logged in, you’ll land on Medium’s dashboard, which serves as your control center for writing, editing, and managing your blog posts.
 
-Check out this video on [**how to start a blog on medium**](https://www.youtube.com/watch?v=rLIWnhrXLxY) ****in 2025 for useful tips and a hands on walk through of the whole process.
+Check out this video on [**how to start a blog on medium**](https://www.youtube.com/watch?v=rLIWnhrXLxY) \*\*\*\*in 2025 for useful tips and a hands on walk through of the whole process.
 
 ### 3. Start a New Story
 
@@ -144,4 +144,13 @@ Check out this video on [**how to start a blog on medium**](https://www.youtube.
 
 Medium offers an unparalleled platform for free blog publishing, combining ease of use, a built-in audience, and powerful features that support both new and experienced bloggers. By following this guide, you can effortlessly start your blogging journey, share your unique stories, and connect with a global community — all without any financial investment. Whether you’re passionate about personal essays, professional insights, or creative storytelling, Medium provides the perfect environment to showcase your work. I hope this blog helps you on your journey to learning **how to start a blog on medium.**
 
-**Ready to publish your blog for free?** [**Join Medium today**](https://medium.com/) **and start sharing your stories with a global audience. Check out my Medium blog at** [**https://medium.com/@dennis\_39505**](https://medium.com/@dennis_39505)\*\*\*\*
+**Ready to publish your blog for free?** [**Join Medium today**](https://medium.com/) **and start sharing your stories with a global audience. Check out my Medium blog at**[ **https://medium.com/@dennis\_39505**\*\*\*\*](https://medium.com/@dennis_39505****Related)
+
+### Related Articles
+
+****[**Simple Examples to Illustrate Keyword Research Using Free Tools**](https://3d-it.net/blog/keyword-research-free-tools-examples)
+
+##### ****[**Improving Your SEO: A Step-by-Step Guide to Optimizing Your Existing Website**](https://3d-it.net/blog/seo-optimization-guide)
+
+
+
