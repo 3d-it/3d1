@@ -108,5 +108,9 @@ Using Netlify’s free hosting and templates, you can quickly deploy a beautiful
 
 You can visit [Netlify's Templates Gallery](https://templates.netlify.com/tags/netlifyCMS) to start exploring templates now!
 
+### Related Articles
 
+##### ****[**How to Purchase a Domain: An Easy Guide for Beginners**](https://3d-it.net/blog/how-to-purchase-a-domain)
+
+##### ****[**How to Site Index a Website: An Easy Guide for Beginners**](https://3d-it.net/blog/how-to-index-a-website-beginners-guide)
 
