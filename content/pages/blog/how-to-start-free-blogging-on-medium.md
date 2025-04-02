@@ -148,7 +148,7 @@ Medium offers an unparalleled platform for free blog publishing, combining ease 
 
 ### Related Articles
 
-\*\*\*\*[**Simple Examples to Illustrate Keyword Research Using Free Tools**](https://3d-it.net/blog/keyword-research-free-tools-examples)
+[**Simple Examples to Illustrate Keyword Research Using Free Tools**](https://3d-it.net/blog/keyword-research-free-tools-examples)
 
-##### \*\*\*\*[**Improving Your SEO: A Step-by-Step Guide to Optimizing Your Existing Website**](https://3d-it.net/blog/seo-optimization-guide)
+##### [**Improving Your SEO: A Step-by-Step Guide to Optimizing Your Existing Website**](https://3d-it.net/blog/seo-optimization-guide)
 
