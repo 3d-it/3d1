@@ -118,19 +118,11 @@ Are you ready to start your **Webull day trading** journey? You can sign up here
 
 *Disclaimer: Trading stocks and other securities involves significant risk and is not suitable for all investors. The information provided in this article is for educational purposes only and should not be considered financial advice. Always conduct your own research and consult with a licensed financial professional before making any investment decisions. I am not affiliated with Webull I just like their platform for trading.*
 
-If you're interested in exploring more books, be sure to check out my [homepage](https://3d-it.net) or visit my [Amazon Author Page](https://www.amazon.com/stores/author/B0DVQSM1Q8) for a complete collection!
+If you're interested in exploring more books, be sure to check out my [homepage](https://3d-it.net) or visit my [Amazon Author Page](https://www.amazon.com/stores/author/B0DVQSM1Q8) for a complete collection - including stock market books, [Webull day trading books](https://www.amazon.com/Precision-Profit-Traders-Technical-Indicators/dp/B0DRCMSKMR/ref=tmm_pap_swatch_0), [Robinhood day trading books](https://www.amazon.com/Stock-Trading-Robinhood-Strategies-Management/dp/B0DRT92WVF/ref=asc_df_B0DRT92WVF?mcid=565141ffaafe30ea8aa367c653e2cb02\&hvocijid=9658103877480528358-B0DRT92WVF-\&hvexpln=73\&tag=hyprod-20\&linkCode=df0\&hvadid=721245378154\&hvpos=\&hvnetw=g\&hvrand=9658103877480528358\&hvpone=\&hvptwo=\&hvqmt=\&hvdev=c\&hvdvcmdl=\&hvlocint=\&hvlocphy=9031412\&hvtargid=pla-2281435176898\&psc=1), [Coinbase cryptocurrency trading books](https://www.amazon.com/Trading-Coinbase-beginners-guide-Cryptocurrency/dp/B0DSC3VGZR), and [technical analysis stock market books](https://www.amazon.com/Stock-Market-Charts-Made-Simple/dp/B0F22N8JCW/?_encoding=UTF8\&pd_rd_w=B940H\&content-id=amzn1.sym.bc3ba8d1-5076-4ab7-9ba8-a5c6211e002d\&pf_rd_p=bc3ba8d1-5076-4ab7-9ba8-a5c6211e002d\&pf_rd_r=131-2752451-6933739\&pd_rd_wg=FKXwl\&pd_rd_r=dcf4eb22-5f6e-4ff4-8f5e-e9a6c358a24c\&ref_=aufs_ap_sc_dsk).
 
 ## Related Articles
 
 ##### [**The Best Guide to Robinhood Day Trading - Strategies, Risks, and Tips**](https://3d-it.net/blog/robinhood-day-trading)
 
 ##### [**The Ultimate Daily Trading Cryptocurrency Guide: Tips, Strategies, and Risks**](https://3d-it.net/blog/daily-trading-cryptocurrency-guide)
-
-
-
-
-
-
-
-
 
