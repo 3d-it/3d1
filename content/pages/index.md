@@ -41,6 +41,20 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      Welcome to **3D-IT.net**, your trusted source for knowledge in **stock
+      trading**, **day trading strategies**, and **technical analysis**. Created
+      by **Dennis Duke**, publisher of multiple **stock market books**, this
+      platform is dedicated to helping traders and IT enthusiasts at all levels.
+      Whether you're trading on **Robinhood**, **Webull**, or exploring
+      **VWAP**, **MACD**, **RSI**, and other powerful indicators, 3D-IT.net
+      offers in-depth guides, technical analysis strategies, and real-world
+      examples to sharpen your edge. From mastering **momentum trading** and the
+      **PDT rule** to understanding risk management and trading psychology, this
+      site is your go-to resource for **profitable trading insights**. Discover
+      books, tutorials, and blog posts that will elevate your trading skills and
+      help you navigate the markets with confidence. Check out the blog for tips
+      on [SEO and day trading](https://3d-it.net/blog/).
   - type: FeaturedItemsSection
     title: Books Published
     items:
