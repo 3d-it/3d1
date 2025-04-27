@@ -54,7 +54,8 @@ sections:
       site is your go-to resource for **profitable trading insights**. Discover
       books, tutorials, and blog posts that will elevate your trading skills and
       help you navigate the markets with confidence. Check out the blog for tips
-      on [SEO and day trading](https://3d-it.net/blog/).
+      on [SEO and day trading](https://3d-it.net/blog/) using Webull, Robinhood,
+      or Coinbase.
   - type: FeaturedItemsSection
     title: Books Published
     items:
