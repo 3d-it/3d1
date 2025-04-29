@@ -116,6 +116,8 @@ Yes, you can **day trade** on **Robinhood**, but your ability to do so depends o
 
 The **PDT rule** applies to margin accounts with less than **$25,000** in equity. It limits traders to **three day trades** within a **five-business-day rolling period**.
 
+![can you day trade on robinhood infographic](/images/3.%20How%20does%20Robinhood%20define%20a%20day%20trade_%20-%20visual%20selection.png)
+
 #### **3. How does Robinhood define a day trade?**
 
 A **day trade** occurs when you buy and sell (or sell and buy) the same stock or options contract on the same trading day.
