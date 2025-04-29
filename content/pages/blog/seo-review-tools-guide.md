@@ -45,6 +45,8 @@ Staying ahead of the competition requires the right set of tools. Whether you're
 
 ### Key Features of SEO Review Tools
 
+![seoreviewtools infographic comparing keyword difficulty for seo](/images/keywords.png)
+
 1.  **Keyword Difficulty Checker**: Determine how challenging it is to rank for specific keywords.
 
 2.  **Keyword Tool**: Generate and analyze keyword ideas to enhance your content strategy.
@@ -255,7 +257,6 @@ Embarking on your SEO optimization journey with SEO Review Tools is simple:
 ➡️ *Want to improve your content’s on-page SEO? Check out* [***Free On-Page SEO with the SEO Review Tools Content Analysis Tool***](https://3d-it.net/blog/seo-review-tools-content-analysis-tool) *for a detailed guide on optimizing your articles using this powerful tool.*
 
 To see these tools in action, watch the YouTube video [*10 Useful and Free SEO Tools - SPPC SEO Tutorial #7*](https://www.youtube.com/watch?v=CBD1cspSKwU) which features a detailed walkthrough of seoreviewtools and other powerful resources.
-
 
 ## Conclusion
 
