@@ -52,6 +52,8 @@ backgroundImage:
 
 The **PDT rule** is a regulation that applies to traders who execute four or more day trades within five business days using a **margin account**. If your account balance is below **$25,000**, you will be restricted from further **day trading** until the balance is replenished.
 
+![pattern day trade robinhood](/images/How%20to%20Avoid%C2%A0PDT%20Restrictions%20-%20pattern%20day%20trade%20robinhood.png)
+
 ### How to Avoid **PDT Restrictions**
 
 1.  **Maintain a Balance Above $25,000**: This ensures unrestricted **trading**.
@@ -158,13 +160,8 @@ Yes, you can **switch to a cash account**, but keep in mind that cash accounts r
 
 ### Related Articles
 
-****[**Mastering the Art of Webull Day Trading: Your Complete Guide to Success**](https://3d-it.net/blog/webull-day-trading-guide-success)
+\*\*\*\*[**Mastering the Art of Webull Day Trading: Your Complete Guide to Success**](https://3d-it.net/blog/webull-day-trading-guide-success)
 
-****[**The Ultimate Daily Trading Cryptocurrency Guide: Tips, Strategies, and Risks**](https://3d-it.net/blog/daily-trading-cryptocurrency-guide)
+\*\*\*\*[**The Ultimate Daily Trading Cryptocurrency Guide: Tips, Strategies, and Risks**](https://3d-it.net/blog/daily-trading-cryptocurrency-guide)
 
 [**Webull Day Trading: A Beginner's Guide to Success**](https://3d-it.net/blog/webull-day-trading-guide-strategies-tips)
-
-
-
-
-
