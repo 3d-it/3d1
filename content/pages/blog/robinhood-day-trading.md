@@ -52,6 +52,8 @@ backgroundImage:
 
 The **PDT rule** is a regulation that applies to traders who execute four or more day trades within five business days using a **margin account**. If your account balance is below **$25,000**, you will be restricted from further **day trading** until the balance is replenished.
 
+![pattern day trade robinhood](/images/How%20to%20Avoid%C2%A0PDT%20Restrictions%20-%20pattern%20day%20trade%20robinhood.png)
+
 ### How to Avoid **PDT Restrictions**
 
 1.  **Maintain a Balance Above $25,000**: This ensures unrestricted **trading**.
@@ -114,6 +116,8 @@ Yes, you can **day trade** on **Robinhood**, but your ability to do so depends o
 
 The **PDT rule** applies to margin accounts with less than **$25,000** in equity. It limits traders to **three day trades** within a **five-business-day rolling period**.
 
+![can you day trade on robinhood infographic](/images/3.%20How%20does%20Robinhood%20define%20a%20day%20trade_%20-%20visual%20selection.png)
+
 #### **3. How does Robinhood define a day trade?**
 
 A **day trade** occurs when you buy and sell (or sell and buy) the same stock or options contract on the same trading day.
@@ -158,13 +162,8 @@ Yes, you can **switch to a cash account**, but keep in mind that cash accounts r
 
 ### Related Articles
 
-****[**Mastering the Art of Webull Day Trading: Your Complete Guide to Success**](https://3d-it.net/blog/webull-day-trading-guide-success)
+\*\*\*\*[**Mastering the Art of Webull Day Trading: Your Complete Guide to Success**](https://3d-it.net/blog/webull-day-trading-guide-success)
 
-****[**The Ultimate Daily Trading Cryptocurrency Guide: Tips, Strategies, and Risks**](https://3d-it.net/blog/daily-trading-cryptocurrency-guide)
+\*\*\*\*[**The Ultimate Daily Trading Cryptocurrency Guide: Tips, Strategies, and Risks**](https://3d-it.net/blog/daily-trading-cryptocurrency-guide)
 
 [**Webull Day Trading: A Beginner's Guide to Success**](https://3d-it.net/blog/webull-day-trading-guide-strategies-tips)
-
-
-
-
-
