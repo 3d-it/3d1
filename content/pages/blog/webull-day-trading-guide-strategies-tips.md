@@ -100,6 +100,8 @@ Momentum traders look for stocks with strong price movements and high trading vo
 
 Breakout traders focus on stocks that are breaking out of key resistance or support levels. With Webull’s **real-time alerts**, you can monitor price action and execute trades as soon as a breakout occurs.
 
+![Infographic representing day trading webull, day trade on webull, day trading risk management](/images/Risk%20Management%20in%20Webull%20Day%20Trading%20-%20visual%20selection.png)
+
 ## Risk Management in Webull Day Trading
 
 To succeed in **Webull day trading**, managing risk is just as important as finding profitable trades. Follow these risk management rules:
