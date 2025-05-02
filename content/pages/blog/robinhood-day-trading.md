@@ -130,6 +130,8 @@ If your account has less than **$25,000**, Robinhood will flag you as a **Patter
 
 Yes, you can **request a one-time PDT reset** if your account has been flagged. However, this is a one-time exception, and further violations will result in a trading restriction.
 
+![Infographic representing robinhood pdt rule unlimited, pdt rule robinhood, day trade restriction robinhood, robinhood day trading rules crypto, pattern day trader rule robinhood](/images/Risk%20Management%20in%20Webull%20Day%20Trading%20-%20visual%20selection%20\(1\).png)
+
 #### **6. Does the PDT rule apply to cash accounts?**
 
 No, **cash accounts** are not subject to the PDT rule. However, they are limited by **settlement times**, meaning you must wait for funds to settle before making new trades.
