@@ -714,7 +714,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Alison-ITSM (1).png
-        altText: Image two
+        altText: ISO 20000 | Priciples of IT Service Management System
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
