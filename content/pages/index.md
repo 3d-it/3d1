@@ -719,7 +719,9 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/WDAlison_Certificate-4065-30146722-1.png
-        altText: Image three
+        altText: >-
+          Alison Certificate | Start Your Own Profitable web Design Agency
+          Business
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
