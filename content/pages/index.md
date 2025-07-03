@@ -713,11 +713,6 @@ sections:
     subtitle: Certifications
     images:
       - type: ImageBlock
-        url: /images/asDegree.png
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/Alison-ITSM (1).png
         altText: Image two
         caption: Image two caption
