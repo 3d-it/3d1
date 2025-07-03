@@ -737,12 +737,6 @@ sections:
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
-      - type: ImageBlock
-        url: >-
-          /images/Certificate-for-Ulta-HP-Engage-One-Pro-AIO-System-2_page-0001.jpg
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
     colors: colors-f
     spacing: 16
     columns: 4
