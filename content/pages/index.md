@@ -713,34 +713,20 @@ sections:
     subtitle: Certifications
     images:
       - type: ImageBlock
-        url: /images/asDegree.png
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/Alison-ITSM (1).png
-        altText: Image two
+        altText: ISO 20000 | Priciples of IT Service Management System
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
         url: /images/WDAlison_Certificate-4065-30146722-1.png
-        altText: Image three
+        altText: >-
+          Alison Certificate | Start Your Own Profitable web Design Agency
+          Business
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Certificate-for-Costco-Toshiba-1.png
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/alisonFoundationalMarketingConcepts-1.jpg
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-      - type: ImageBlock
-        url: >-
-          /images/Certificate-for-Ulta-HP-Engage-One-Pro-AIO-System-2_page-0001.jpg
-        altText: altText of the image
+        altText: Alison Certificate | Foundational Marketing Concepts
         caption: Caption of the image
         elementId: ''
     colors: colors-f
