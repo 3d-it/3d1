@@ -726,7 +726,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/alisonFoundationalMarketingConcepts-1.jpg
-        altText: altText of the image
+        altText: Alison Certificate | Foundational Marketing Concepts
         caption: Caption of the image
         elementId: ''
     colors: colors-f
