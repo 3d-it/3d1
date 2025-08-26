@@ -57,7 +57,7 @@ sections:
       on [SEO and day trading](https://3d-it.net/blog/) using Webull, Robinhood,
       or Coinbase. Scroll down to purchase a book.
   - type: FeaturedItemsSection
-    title: Books Published
+    title: AI Books Published
     items:
       - type: FeaturedItem
         title: >-
@@ -727,6 +727,12 @@ sections:
       - type: ImageBlock
         url: /images/alisonFoundationalMarketingConcepts-1.jpg
         altText: Alison Certificate | Foundational Marketing Concepts
+        caption: Caption of the image
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
         caption: Caption of the image
         elementId: ''
     colors: colors-f
