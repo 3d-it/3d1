@@ -55,7 +55,9 @@ sections:
       books, tutorials, and blog posts that will elevate your trading skills and
       help you navigate the markets with confidence. Check out the blog for tips
       on [SEO and day trading](https://3d-it.net/blog/) using Webull, Robinhood,
-      or Coinbase. Scroll down to purchase a book.
+      or Coinbase. Scroll down to purchase a book. Also click here for [free web
+      developing
+      resources](https://3d-it.net/free-web-development-resources-tools/).
   - type: FeaturedItemsSection
     title: AI Books Published
     items:
