@@ -57,7 +57,7 @@ sections:
       on [SEO and day trading](https://3d-it.net/blog/) using Webull, Robinhood,
       or Coinbase. Scroll down to purchase a book.
   - type: FeaturedItemsSection
-    title: Books Published
+    title: AI Books Published
     items:
       - type: FeaturedItem
         title: >-
